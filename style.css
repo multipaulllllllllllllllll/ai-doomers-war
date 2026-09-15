@@ -98,14 +98,16 @@ nav {
   margin-bottom: 1.5rem;
 }
 .hero-tags { display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center; }
-.tag {
+.tag, a.tag {
   background: var(--card);
   border: 1px solid var(--border);
   color: var(--muted);
   font-size: 0.75rem;
   padding: 0.25rem 0.75rem;
   border-radius: 999px;
+  text-decoration: none;
 }
+a.tag:hover { color: var(--accent); border-color: var(--accent); }
 
 /* === MAIN === */
 main { max-width: 1100px; margin: 0 auto; padding: 0 1.5rem 4rem; flex: 1; width: 100%; }
