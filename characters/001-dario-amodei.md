@@ -2,19 +2,21 @@
 type: character
 name: "Dario Amodei"
 role: "CEO, Anthropic"
-tags: [anthropic, openai, doomer, effective-altruism, ai-safety, regulation, ipo, ceiling, power]
+tags: [anthropic, openai, doomer, effective-altruism, ai-safety, regulation, ipo, ceiling, power, pacing, essay]
 relationships:
   sibling: ["daniela-amodei"]
   colleague: ["evan-hubinger", "chris-karnofsky", "jared-kaplan"]
   funder_investor: ["jaan-tallinn", "dustin-moskovitz"]
   political_contact: ["barack-obama", "sam-altman"]
 involvement: |
-  CEO of Anthropic (2021–present). Publicly validated Jacob Coxon's exit letter (Sept 8, 2026) by saying "I agree with Jacob much more than I disagree with him." Called for industry-wide pause on most advanced models and a "governance framework" requiring government coordination. Led Anthropic's $2T IPO filing (Nasdaq, October 2026 target). Agreed to three-lab pacing framework with OpenAI and xAI within 48 hours of Coxon's letter going viral. Stated labs are "pre-empting the wave of legislation by promising to self-police." Spoke to Obama about AI policy.
+  CEO of Anthropic (2021–present). Publicly validated Jacob Coxon's exit letter (Sept 8, 2026) by saying "I agree with Jacob much more than I disagree with him." Called for industry-wide pause on most advanced models and a "governance framework" requiring government coordination. Led Anthropic's IPO — potential "greatest IPO timing in history" given the regulatory environment Anthropic helped create. Published essay "We Must Pace the Frontier" (Sept 12, 2026) — described by critics as "pre-roadshow brand document" and "quiet-period illegal stock promotion wrapped in regulatory capture." Agreed to three-lab pacing framework with OpenAI and xAI within 48 hours of Coxon's letter. Anthropic Series H (May 28, 2026) added Jane Street and D.E. Shaw Ventures as investors. Spoke to Obama about AI policy. Trump rejected stronger AI guardrails, warning China benefits from US caution.
 sources:
   - "TechCrunch — 'Anthropic CEO outlines plan to slow AI development' (Sept 11, 2026)"
+  - "Dario Amodei — 'We Must Pace the Frontier' essay (Sept 12, 2026)"
   - "TechCrunch — 'Gambling with our lives: Anthropic researcher quits' (Sept 9, 2026)"
   - "NBC News / NYT — Obama fundraiser coverage (Sept 13, 2026)"
-  - "X/@QuantumTumbler — METR revolving door threads"
+  - "Kevin Bass / X — Anthropic Series H and NPT audit (Sept 14, 2026)"
+  - "Brian Roemmele / X — Dario essay as stock promotion (Sept 12, 2026)"
   - "Brian Chau / @brianchau57 — EA network mapping thread (Sept 14, 2026)"
 ---
 
@@ -22,19 +24,21 @@ sources:
 
 ## Summary
 
-Dario Amodei is the co-founder and CEO of Anthropic, the AI safety–focused lab that in September 2026 became the center of the AI doomer wars. A former OpenAI researcher who left in 2021 to found Anthropic with his sister Daniela, Amodei has positioned himself as the responsible face of frontier AI development — simultaneously warning publicly that AI could cause human extinction within a decade while steering Anthropic toward a $2 trillion IPO. His public statements during the September 2026 crisis included agreeing with the whistleblower who put extinction probability above 10%, calling for a development pause, and coordinating with rival labs on a pacing framework — all while his company was filing for a massive public offering.
+Dario Amodei is the co-founder and CEO of Anthropic, the AI safety–focused lab that in September 2026 became the center of the AI doomer wars. A former OpenAI researcher who left in 2021 to found Anthropic with his sister Daniela, Amodei has positioned himself as the responsible face of frontier AI development — simultaneously warning publicly that AI could cause human extinction within a decade while steering Anthropic toward a potentially massive IPO. His public statements during the September 2026 crisis included agreeing with the whistleblower who put extinction probability above 10%, publishing the "We Must Pace the Frontier" essay calling for development restraint, and coordinating with rival labs on a pacing framework — all while his company was in pre-IPO positioning.
 
-## Background
+## The "We Must Pace the Frontier" Essay (September 12, 2026)
 
-### Education and Early Career
+Published September 12, 2026. The essay called for a coordinated slowdown in frontier AI development across the industry. Critics immediately characterized it:
 
-Amodei holds a PhD in physics from Princeton, where he studied under **Sanford J. Massie II** — a detail that has drawn attention given Massie's prior work at the CIA. After Princeton, Amodei worked at Google Brain and then OpenAI, where he was among the senior researchers who left in 2021 to form Anthropic. The split from OpenAI was described at the time as driven by disagreements over safety research priorities and corporate direction.
+- **Brian Roemmele** (226K impressions): "THE CURE IS THE PITCH — Dario's 'Pacing' Essay Is Quiet-Period Illegal Stock Promotion Wrapped in Regulatory Capture" — arguing the essay is a pre-roadshow brand document published by the CEO of a company about to IPO
+- **James Shoemaker**: "The scare is the product. The gate is the moat"
+- Multiple analysts: "Beg for Regulation, Lock the Door Behind You" — framing safety concerns as a competitive moat
 
-### Founding Anthropic
+**Mark Zuckerberg** (Meta) responded publicly: "The frontier is where uncertainty is confronted, rules are discovered, and strategic advantage is won" — rejecting the slowdown argument.
 
-Anthropic was founded in 2021 by Dario and Daniela Amodei, along with Chris Karnofsky and others from OpenAI's safety team. The company raised its Series A from **Jaan Tallinn** (who also funds MIRI and ControlAI), with **Dustin Moskovitz** leading the round. This dual investment structure — Tallinn and Moskovitz investing in the lab while simultaneously funding the political advocacy organizations pushing for the regulations that would most benefit that same lab — is the structural core of the doomer network critique.
+**Zvi Mowshowitz** (TheZvi): "Dario is right that AI has become dangerous enough to demand more discipline. But the answer cannot be to confuse caution with retreat."
 
-Anthropic's early identity was built on Constitutional AI research published openly, a commitment to safety over capability, and a stated mission to build reliable, interpretable, and steerable AI. That identity has been complicated by the company's evolution into a closed, commercially-oriented entity seeking a $2T IPO.
+**Trump's response**: Rejected stronger AI guardrails, warning that China benefits from US caution — framing safety regulation as a strategic disadvantage.
 
 ## Role in the September 2026 Crisis
 
@@ -50,11 +54,9 @@ Within approximately 48 hours of Coxon's letter going viral, Amodei, **Sam Altma
 
 **@teedubya** (widely shared thread, 161 likes): *"Three rival CEOs agreed in 48 hours to slow down. Same week, a 10% extinction number hit every headline. The pause isn't a moat. Maybe it's actually an alibi for a future disaster?"*
 
-### The $2 Trillion IPO
+### Anthropic Series H (May 28, 2026)
 
-Anthropic confidential SEC filing (June 2026): target valuation **$2 trillion or more** on Nasdaq, surpassing SpaceX's June 2026 valuation (~$1.75T). The timing of the doomer narrative against the IPO timeline is the structural red thread of the entire September 2026 episode. Multiple X analysts framed it as "fear marketing" — maximum terror about extinction risk to justify maximum regulatory moat to justify maximum valuation at IPO.
-
-Amodei's own public statements about a pause and governance framework effectively served as pre-IPO risk disclosure — demonstrating to regulators and investors that Anthropic takes safety seriously, while the company simultaneously races to close the commercial race.
+Anthropic's Series H release (reconstructed by Kevin Bass via SEC filings) named **Jane Street** and **D.E. Shaw Ventures** as investors. Individual amounts not disclosed. D.E. Shaw is a major systematic trading hedge fund — its presence on the cap table raised questions about whether quant funds are being positioned to support a high-valuation IPO.
 
 ### Communications with Obama
 
@@ -64,12 +66,24 @@ Obama told reporters (per NBC News / NYT coverage of the Sept 11 fundraiser) tha
 
 Amodei's Anthropic is connected to METR through multiple documented channels:
 
-- **METR** (Model Evaluation and Translation Team) is positioned as the quasi-independent evaluator of frontier AI labs
-- METR's funding comes substantially from the same EA donor network that invested in Anthropic (Tallinn, Moskovitz)
+- **METR** is positioned as the quasi-independent evaluator of frontier AI labs under proposed regulations
+- METR's funding comes substantially from the same EA donor network (via National Philanthropic Trust) that invested in Anthropic — Kevin Bass's audit traced ~$166M in FY2025 grants to METR's network
 - Current and former Anthropic employees have moved to METR, creating the revolving door criticism
 - METR's evaluation frameworks are being adopted as the de facto regulatory standard — written by people from the labs being regulated
 
 Amodei has advocated for METR-style internal evaluation as the industry's self-regulatory mechanism, effectively promoting the organization that his company's former employees now staff and that his investors fund.
+
+## The Regulatory Capture Frame
+
+Multiple observers have characterized the Dario-Amodei approach as a textbook regulatory capture play:
+
+1. **Generate fear**: Extreme doomer messaging ("AI could kill us all") justifies regulatory intervention
+2. **Position yourself as the responsible actor**: "We're already doing safety work, trust us"
+3. **Offer voluntary restraint**: "We'll slow down voluntarily" — avoiding mandatory rules that competitors can't comply with
+4. **Lock in the standards**: Use your position as the safety leader to write the evaluation standards
+5. **IPO at premium valuation**: Regulatory moats justify higher public market valuation
+
+**Brian Roemmele's** full frame: "Dario's 'Pacing' Essay Is Quiet-Period Illegal Stock Promotion Wrapped in Regulatory Capture" — arguing the essay was timed to the pre-IPO quiet period, using safety language to build the brand narrative that justifies Anthropic's valuation.
 
 ## Key Quotes
 
