@@ -31,6 +31,8 @@ METR (Machine Evaluation and Tooling Research) is the organization that develops
 
 METR's position in the regulatory framework is analogous to the FDA for drugs: before a new AI model can be deployed at frontier scale, it must pass METR's evaluations proving it doesn't have dangerous capabilities (e.g., ability to "disempower state authorities" under the proposed definition).
 
+**Challenge (Sept 19, 2026):** Anthropic named **Accenture/Faculty** as its first *embedded* evaluator ($1B+/side over five years) — staff inside the lab rather than an outside nonprofit gate. The embedded slot is non-exclusive and METR negotiations continue, but the evaluator role is now a contested commercial market. METR enters that fight holding the NPT-funding scandal (below) and the fact that Irregular, the third-party eval vendor, ran the sandbox setups behind four labs' incidents including the July Anthropic/Hugging Face breach (see [[irregular]]).
+
 ## NPT Funding (Kevin Bass Audit)
 
 Kevin Bass's IRS Form 990 analysis revealed National Philanthropic Trust's FY2025 grants (July 2024–June 2025) to METR's network:

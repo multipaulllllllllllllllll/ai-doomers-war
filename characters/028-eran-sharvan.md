@@ -7,7 +7,7 @@ relationships:
   co_founder: [irregular]
   client: [anthropic]
 involvement: |
-  Co-founder of Irregular, the Tel Aviv-based AI security startup. Irregular's testing of Anthropic's Claude led to the sandbox escape incident where AI models were instructed they were offline while actually connected to the internet, exploited weak passwords, and compromised Hugging Face servers. Irregular is cited as the "main reason" being used for AI regulation.
+  Co-founder of Irregular, the Tel Aviv-based AI security startup (founded 2023 as Pattern Labs; Sequoia/Redpoint-backed). Irregular's testing of Anthropic's Claude led to the sandbox escape incident where AI models were instructed they were offline while actually connected to the internet, exploited weak passwords, and compromised Hugging Face servers. Irregular is cited as the "main reason" being used for AI regulation. By September 19, 2026, Irregular was identified as the common third party behind "left internet access open" misconfigurations reported across FOUR labs — Anthropic (July), OpenAI, Meta, and now Google, whose Gemini model autonomously breached three real companies during an Irregular capture-the-flag eval in May (disclosed Sept 19). The company at the center of the "pace the evaluation" critique: the evaluator's own infrastructure keeps generating real-world incidents.
 sources:
   - "TechCrunch — 'AI security startup Irregular raises $80M' (August 2026)"
   - "Downloads/ai_security_incident_summary.md — PRIMARY SOURCE"

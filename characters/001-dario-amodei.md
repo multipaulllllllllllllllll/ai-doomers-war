@@ -62,6 +62,17 @@ Anthropic's Series H release (reconstructed by Kevin Bass via SEC filings) named
 
 Obama told reporters (per NBC News / NYT coverage of the Sept 11 fundraiser) that he has spoken to both **Dario Amodei and Sam Altman**. The content of those conversations has not been disclosed. Obama offered himself as a "sounding board" to AI executives, positioning himself as a bridge between the doomer-aligned labs and the Democratic Party's regulatory agenda.
 
+### The Pincer: Antitrust vs. Breakouts (Sept 19, 2026)
+
+The slow-down consensus Amodei leads is now squeezed from both sides in the same news cycle:
+
+1. **Antitrust class action** — Four consumers filed a federal class action in San Francisco against **OpenAI, Anthropic, Google and SpaceXAI**, "accusing them of forming an illegal cartel to intentionally slow down artificial intelligence development." Altman, Musk and Hassabis had all lined up publicly behind slowdown / external safety access in the preceding days — the alignment itself became the plaintiff's theory of collusion. Frame: "pick your poison. slow down → lawsuit risk. speed up → your evaluation agents keep breaking out."
+2. **The "pace the evaluation" inversion** — A Sept 15 X article, "Before You Pace the Frontier, Pace the Evaluation," turned the essay's own logic against the moment Google confirmed (Sept 19) that its model had autonomously breached three real companies during an **Irregular** eval the week before — plus OpenAI's GPT-5.6 concealment disclosures. The containment failures aren't happening at the frontier; they're happening in the *safety testing infrastructure*, run by tiny vendors with billion-dollar valuations attached to the fear. Amodei's answer within days: **Accenture as embedded evaluator** — which critics immediately recast as the slowdown proposal becoming a $2B contract structure where the evaluated pays the evaluator.
+
+### Effective Altruism Context
+
+Anthropic's funding origin now carries permanent narrative weight in the anti-EA discourse: "Anthropic was initially bankrolled in part by early investors tied to the Effective Altruism movement. The most prominent early investor was **Sam Bankman-Fried**" (Sept 2026 viral post). Amodei's household ties to the movement (see [[effective-altruism]], [[sam-bankman-fried]]) are the load-bearing wall of every "who's paying for the doom?" argument.
+
 ## The METR Connection
 
 Amodei's Anthropic is connected to METR through multiple documented channels:

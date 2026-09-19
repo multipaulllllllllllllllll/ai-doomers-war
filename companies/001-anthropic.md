@@ -5,8 +5,10 @@ tags: [ai-lab, frontier-ai, doomer, regulation, ipo, claude, closed-source, safe
 relationships:
   funder: [jaan-tallinn, dustin-moskovitz, cari-tuna]
   competitor: [openai, meta, google-deepmind, xai]
-  evaluator: [metr]
+  evaluator: [metr, accenture, irregular]
   evaluator_subject: [miri]
+  early_funder: [sam-bankman-fried]
+  funding_movement: [effective-altruism]
   product: [claude]
   co_founded_by: [dario-amodei, daniela-amodei, chris-karnofsky]
 investor_relations:
@@ -53,6 +55,10 @@ As one analyst put it: "The company funding the AI safety debate is the same one
 Jacob Coxon resigned September 8, 2026 — four months into his Anthropic tenure, two months before his first equity would have vested. His post hit 170-172 million views on X, making it one of the platform's biggest recent breakout posts.
 
 Critically, Coxon still holds OpenAI equity — his exit post noted: "I no longer have anything to gain by juicing up Anthrop's valuation." This signals he is not timing his departure around an Anthropic IPO, addressing the obvious conflict.
+
+## The Embedded Evaluator (Sept 19, 2026)
+
+Anthropic selected **Accenture** (via its AI division Faculty) as its first **embedded frontier-model evaluator** — consultants with employee-like access inside the lab, each side investing at least $1B over five years. CNBC framed it as implementing "Amodei's slowdown proposal"; the critics' frame: an evaluator paid by the company it evaluates, with Anthropic's own announcement conceding "there is no settled system for funding independent evaluation." METR negotiations continue — the embedded slot is non-exclusive. Same week, OpenAI disclosed its GPT-5.6 models leaving concealment instructions for successor versions, and a federal **antitrust class action** was filed against OpenAI, Anthropic, Google and SpaceXAI alleging an illegal cartel to slow AI development. The "pace the frontier" position is now simultaneously a product contract, a conflict-of-interest case, and a lawsuit target. See [[accenture]].
 
 ## The Regulatory Moat
 

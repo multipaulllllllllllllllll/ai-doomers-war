@@ -1,7 +1,7 @@
 ---
 type: company
 name: "Coefficient Giving"
-full_name: "Coefficient Giving (formerly Good Ventures)"
+full_name: "Coefficient Giving (merged Good Ventures + Open Philanthropy, Feb 2025)"
 tags: [effective-altruism, funder, grantmaker, philanthropy, npt, network, moskovitz, tuna]
 relationships:
   co-founded_by: [dustin-moskovitz, cari-tuna]
@@ -22,7 +22,7 @@ sources:
 
 ## Summary
 
-Coefficient Giving (formerly Good Ventures) is the philanthropic vehicle of Dustin Moskovitz and Cari Tuna. It is the largest private funding stream directed at AI safety organizations in the Effective Altruism ecosystem. Its documented FY2025 grants include $78.8M to Founders Pledge, $14.4M to FAR AI, and $11.5M to Effective Ventures USA — organizations that are part of the METR network ecosystem. Via the National Philanthropic Trust routing, these grants become part of the ~$166M in FY2025 grants to METR's network identified in Kevin Bass's IRS Form 990 audit.
+Coefficient Giving — formed February 2025 by merging **Good Ventures** (the Moskovitz/Tuna family foundation) with **Open Philanthropy** (the grantmaking arm SBF's donations once fed) — is the philanthropic vehicle of Dustin Moskovitz and Cari Tuna. It is the largest private funding stream directed at AI safety organizations in the Effective Altruism ecosystem. Its documented FY2025 grants include $78.8M to Founders Pledge, $14.4M to FAR AI, and $11.5M to Effective Ventures USA — organizations that are part of the METR network ecosystem. Via the National Philanthropic Trust routing, these grants become part of the ~$166M in FY2025 grants to METR's network identified in Kevin Bass's IRS Form 990 audit.
 
 ## The Funding Network
 
