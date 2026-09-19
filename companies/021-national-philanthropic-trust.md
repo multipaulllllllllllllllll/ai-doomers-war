@@ -53,23 +53,29 @@ These are the organizations that form the METR network — they receive NPT gran
 ## The Self-Amplifying Loop (NPT Position)
 
 ```
-Tech Donors (Moskovitz, Tallinn, others)
-    ↓ contributions + appreciated assets
-National Philanthropic Trust (NPT)
-    ↓ FY2025 grants: ~$166M to METR network
-Founders Pledge ($78.8M) → METR
-RAND Corp ($61.6M) → safety research
-FAR AI ($14.4M) → evaluation research
-Effective Ventures USA ($11.5M) → EA infrastructure
-Epoch AI → AI forecasting
-    ↓
-METR evaluates Anthropic's models
-↓ 
-Doomer narratives amplified via funded outlets
-↓
-Regulatory moat created → Anthropic IPO at higher valuation
-↓
-More tech wealth → more philanthropic capital → cycle continues
+      Tech donors (Moskovitz, Tallinn, SBF-era wealth)
+                              │
+                                contributions + appreciated assets
+                              ▼
+             NATIONAL PHILANTHROPIC TRUST (NPT)
+            donor-advised fund — the pass-through
+                              │
+                                FY2025: ~$22.3B out, 22,258 grants
+                              │
+              ┌───────────────┬────────────────┐
+              ▼          ▼          ▼          ▼
+          Founders     RAND      FAR AI    Effective
+           Pledge      Corp     ($14.4M) Ventures USA
+           $78.8M     $61.6M                $11.5M
+                              │
+                              ▼
+  METR + evaluator ecosystem — evaluates Anthropic / OpenAI
+                              │
+                                findings → funded outlets → gate demands
+                              ▼
+          regulatory moat → IPO at higher valuation
+                              │
+                                more tech wealth → more DAF capital → cycle continues
 ```
 
 ## Public Record

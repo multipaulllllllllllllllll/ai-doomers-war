@@ -52,24 +52,35 @@ The defining criticism, now mainstream (Sep 2026): **"Backers such as Dustin Mos
 ### The network diagram
 
 ```
-        Singer/Ord/MacAskill (ideas)
-                    │
-     ┌──────────────┼──────────────────┐
-     │              │                  │
- SBF ($32M+)   Moskovitz        Tallinn ($550M+)
- (FTX collapse) (OpenAI/Anthropic/ (CSER, FLI,
-     │           Coefficient)     ControlAI)
-     │              │                  │
-     └──────► the labs ◄───────────────┘
-                (Claude/GPT)
-                   │ pays for evaluations
-     ┌─────────────┼──────────────┐
-     ▼             ▼              ▼
-   METR        Irregular      CTA/Accenture
-  (EA-adjacent)  (VC)          ($1B deals)
-     ▲
-     │ grants via NPT (~$166M/yr)
- Coefficient Giving (ex-Open Phil + Good Ventures)
+                      Singer / Ord / MacAskill
+                             (the ideas)
+                                  │
+        ┌─────────────────────────┼───────────────────────┐
+        │                         │                       │
+   SBF ($32M+)            Moskovitz / Tuna        Tallinn ($550M+)
+ (FTX collapse)         (OpenAI + Anthropic,         (CSER, FLI,
+                         Coefficient Giving)         ControlAI)
+        │                         │                       │
+        └─────────────────────────┴───────────────────────┘
+                                  ▼
+                       THE LABS (Claude / GPT)
+                                  │  pays for evaluations
+            (the labs' own money, on the labs' own terms)
+                                  │
+        ┌─────────────────────────┼───────────────────────┐
+        ▼                         ▼                       ▼
+      METR                    Irregular               Accenture
+  (EA-adjacent)         (ex-Pattern Labs, VC)   (embedded, $1B/side)
+        ▲
+        │  grants via NPT (~$166M/yr)
+      Coefficient Giving (ex-Open Philanthropy + Good Ventures)
+        ▲
+        │  recycled capital: the moat → IPO → wealth → vehicles like these
+      ┌─────────────────────────────────────────────────────────────┐
+      │ THE LOOP:  fund the lab → fund its referee → fund the press │
+      │ → cite the press → demand the gate the lab wants.           │
+      │ (Kevin Bass, Form 990 edition, Sept 2026)                   │
+      └─────────────────────────────────────────────────────────────┘
 ```
 
 ## Sam Bankman-Fried: The Rise and the Rebrand
