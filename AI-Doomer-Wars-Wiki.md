@@ -953,7 +953,34 @@ Four consumers filed a federal class action in San Francisco against **OpenAI, A
 - **Polymarket angle:** WSJ (Nov 2022) had revealed **Alameda Research's undisclosed ~$40M seed-era investment** in the prediction-market startup — hidden money of exactly this network, later followed by the 2025 institutional turn (ICE/NYSE ~$2B). Doom narratives are now tradeable products on the venues the same era's capital built.
 - Washington adjacency (Sept 19 brief): **Clarity Act collapses in Senate 49-50**; SEC 5-year tokenized-stocks exemption — prediction-market/crypto-legislation fight is now a live axis of the same coalition war.
 
+
 ---
 
+## Sept 21, 2026: Political Weaponization of the HF Incident
 
-*Last updated: 2026-09-19. This wiki is a living document. All claims are sourced to real-time X posts, news threads, and named accounts. Sections marked "from @account" or "from X post" are direct quotes or paraphrases of named sources. Sections titled "Documented Claims" or "Key Structural Claims" present analytical claims made by named accounts, not verified facts.*
+### Bessent turns liability weapon on the labs
+
+- Treasury Secretary Scott Bessent on CNBC: "It is humans who are responsible" — denying the labs a liability shield for the Hugging Face cyber-attack.
+- @ns123abc: "BESSENT JUST NUKED ANTHROPIC & OPENAI'S 'ROGUE AI' IMMUNITY SCAM ON LIVE TV"
+
+### The Sept 19 Cato event (Treasury angle)
+
+- Bessent keynote at Cato Institute: plans to probe "state-backed hacks using open-source AI" — names the Hugging Face incident.
+- Treasury sanctions: 2 Russian entities + 6 individuals, "first steps of AI threat intel sharing effort" (SARs to banks = following the money).
+- Bessent: "AI race with China is a team sport" ; AI-CSAC, AI-FOCUS, FinCEN advisories, G7 priorities.
+- Sen. Rounds letter: Treasury's actions insufficient vs CCP AI threats.
+
+### Capitol Hill angle
+
+- Tech Headlines (webulite, Sept 16): "Billionaire-backed AI safety activists have significantly expanded their Capitol Hill" influence — the EA money network moving into legislative space.
+- profstonge's viral frame: "If AI really is as dangerous as their PAID ACTIVISTS claim, the solution is liability" — 'paid activists' attacks the EA funding loop directly.
+
+### Narrative read
+
+Bessent reframes the Irregular/HF incidents away from "rogue model needs government gate" (lab-favored) toward "operators bear liability" (accelerationist-favored). Both sides claim the same incidents. The wiki's job: keep the technical record (what actually happened) separate from the attribution fight (who's to blame).
+
+
+---
+
+*Last updated: 2026-09-21. This wiki is a living document. All claims are sourced to real-time X posts, news threads, and named accounts. Sections marked "@account" or "X post" are direct quotes or paraphrases of named sources. Sections titled "Documented Claims" or "Key Structural Claims" present analytical claims made by named accounts, not verified facts.*
+
