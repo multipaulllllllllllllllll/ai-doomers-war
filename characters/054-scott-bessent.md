@@ -4,14 +4,14 @@ name: "Scott Bessent"
 role: "U.S. Secretary of the Treasury"
 tags: [politics, treasury, liability, regulation, trump-administration, china, sanctions, hedge-fund]
 involvement: |
-  Reframed the Hugging Face / Irregular breakouts as a liability problem, not a capability problem. On CNBC (Sept 2026): "It is humans who are responsible" — explicitly denying the AI labs a liability shield, naming OpenAI management as responsible for the HF attack. Keynoted Cato (Sept 19): probing "state-backed hacks using open-source AI." Treasury sanctioned 2 Russian entities + 6 individuals (AI threat-intel program, SARs to banks). "AI race with China is a team sport."
+  Reframed the Hugging Face / Irregular breakouts as a liability problem, not a capability problem. On CNBC Squawk Box (Sept 21, 2026): "It is humans who are responsible" — explicitly denying the AI labs a liability shield, naming OpenAI management as responsible for the HF attack. Keynoted Cato (Sept 19): probing "state-backed hacks using open-source AI." Treasury sanctioned 2 Russian entities + 6 individuals (AI threat-intel program, SARs to banks). "AI race with China is a team sport."
 relationships:
   administration: [donald-trump]
   opposes_liability_shield: [anthropic, openai]
   frames: [hugging-face, irregular]
   countering_activists: [effective-altruism]
 sources:
-  - CNBC appearance, Sept 2026 (via @AndrewCurran_, @ns123abc)
+  - CNBC Squawk Box appearance, Sept 21, 2026 (via @AndrewCurran_, @ns123abc)
   - Cato Institute keynote, Sept 19, 2026 (video, 33K+ views)
   - Treasury sanctions statement, Sept 2026
   - xurl search 2026-09-21

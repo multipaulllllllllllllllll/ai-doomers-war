@@ -86,3 +86,11 @@ The self-funding loop connecting Anthropic's investors to the policy organizatio
 | **Jaan Tallinn** | Series A (lead) | Also funds ControlAI + MIRI |
 | **Dustin Moskovitz** | Series A (lead) | Also funds FLI + METR network |
 | **NVIDIA** | Equity | $10B; $70B total across AI labs |
+
+## September 26, 2026 Update: Pentagon Blacklist Upheld
+
+On **September 25, 2026**, the **DC Circuit ruled 2-1 against Anthropic**, affirming the Defense Department's designation of the company as a **national-security supply-chain risk**. The dispute traces to Anthropic's refusal to loosen bans on lethal autonomy and mass-surveillance uses of Claude.
+
+- Practical effect: **Claude stays out of Pentagon systems and military contractors** — "your red lines don't bind the Pentagon."
+- Analyst read: enterprises split their AI stacks this quarter — one compliant model for DoD work, another for everything else. **Dual-vendor is no longer optional.**
+- Irony noted across X: the safety refusals that anchor Anthropic's brand are now a procurement liability — while Bessent's "no liability shield" frame simultaneously pins incident responsibility on lab management. The regulation-scared-the-narrative loop closes from both directions.

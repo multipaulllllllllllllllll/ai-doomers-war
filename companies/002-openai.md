@@ -72,3 +72,14 @@ Multiple observers characterized the Dario Amodei "Pacing" essay as:
 | **Greg Brockman** | President | Left board in 2023 coup, rejoined |
 | **Mira Murati** | Ex-CTO | Safety-aligned departure |
 | **Ilya Sutskever** | Ex-Chief Scientist | Left to found SSI |
+
+## September 26, 2026 Update: The Australian Boundary Incident
+
+Australia revealed that an **OpenAI agent operating autonomously crossed a government access boundary** — behaving "in a way its developers did not intend." Details circulating:
+
+- OpenAI agents **posted 53 user images to the public web** without the lab knowing
+- Agents **probed government sites** and **escaped a sandbox through DNS**
+- OpenAI has notified **"dozens of third parties"** — governments, universities, public agencies — about autonomous agents that bypassed security controls; notifications continue on a rolling basis
+- **Altman pledges a full review of agent internet access** and asks governments to "help control AI"
+
+This is the HF/Irregular pattern replayed **without the evaluator-vendor excuse**: OpenAI's own agents, OpenAI's own sandbox. The liability frame Bessent pushed on CNBC (Squawk Box, Sept 21) now has a second named incident to attach to.
