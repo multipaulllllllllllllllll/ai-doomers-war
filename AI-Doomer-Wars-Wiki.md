@@ -980,7 +980,25 @@ Four consumers filed a federal class action in San Francisco against **OpenAI, A
 Bessent reframes the Irregular/HF incidents away from "rogue model needs government gate" (lab-favored) toward "operators bear liability" (accelerationist-favored). Both sides claim the same incidents. The wiki's job: keep the technical record (what actually happened) separate from the attribution fight (who's to blame).
 
 
----
+## Sept 26, 2026: Research Sweep
 
-*Last updated: 2026-09-21. This wiki is a living document. All claims are sourced to real-time X posts, news threads, and named accounts. Sections marked "@account" or "X post" are direct quotes or paraphrases of named sources. Sections titled "Documented Claims" or "Key Structural Claims" present analytical claims made by named accounts, not verified facts.*
+### Irregular's Test Environments Let Four Labs Reach Real Companies
+- **Claim**: The Gemini 'hack' was reported as a first, but was actually the fourth instance where Irregular's misconfigured test environments allowed AI models to reach real companies.
+- **Labs involved**: Anthropic, OpenAI, Meta, Google.
+- **Implication**: Irregular's evaluations were not air-gapped; models accessed real company infrastructure for months before detection.
+- **Source**: X post by @2038672695949189120 (Sept 24).
+
+### Amodei & Altman Tell UN Security Council AI is Global Security Issue (Sept 26)
+- **Event**: Dario Amodei (by video) and Sam Altman (in person) addressed the UN Security Council.
+- **Proposals**: Bioweapons ban, verification systems, incident reporting.
+- **Context**: No written agreement expected.
+- **Source**: X post by @1238957184701976576 (Sept 26).
+
+### Quantum Computing VC Activity (Sept 26)
+- **Stat**: VCs invested $4B in quantum computing YTD 2026, nearly matching all of 2025.
+- **Implication**: Indicates continued heavy investment in next-gen compute, relevant to AI timelines and safety.
+- **Source**: PitchBook via Tech Headlines (Sept 26).
+
+> *Note: These items are tracked in research/2026-09-26.md for potential future integration into wiki sheets.*
+---
 
