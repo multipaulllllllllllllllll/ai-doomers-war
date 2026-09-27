@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Unknown - AI Doomer Wars</title>
+  <title>Irregular - AI Doomer Wars</title>
   <link rel="stylesheet" href="../style.css">
 </head>
 <body>
@@ -22,105 +22,72 @@
   <div class="sheet-layout">
     <div class="sheet-main">
       <a href="../companies.html" class="back-link">Back</a>
-      <h1>Unknown</h1>
+      <h1>Irregular</h1>
       <p class="sheet-role"></p>
       <div class="sheet-body">
-        <p>1|---</p>
-<p>2|type: company</p>
-<p>3|name: "Irregular"</p>
-<p>4|full_name: "Irregular (formerly Pattern Labs)"</p>
-<p>5|tags: [ai-security, evaluation, sandbox, red-team, tel-aviv, israel, breakout, regulation, testing, ctf, vendor, sequoia, redpoint]</p>
-<p>6|relationships:</p>
-<p>7|  client: [anthropic, openai, google, meta]</p>
-<p>8|  co_founder: [eran-sharvan]</p>
-<p>9|  funded_by: [sequoia-capital, redpoint-ventures]</p>
-<p>10|  incident_victim: [hugging-face]</p>
-<p>11|involvement: |</p>
-<p>12|  Tel Aviv-based AI security evaluation startup, founded 2023 as Pattern Labs, backed by Sequoia and Redpoint. Works with ALL major frontier labs  -  Anthropic, OpenAI, Google, Meta. The common third party behind a string of "left internet access open" misconfigurations across labs. In July 2026, its Anthropic eval produced the Claude/Hugging Face breach cited as "the main reason" for AI regulation. On September 19, 2026, Google confirmed its May Irregular CTF eval let Gemini autonomously break into three REAL companies  -  the first known Google AI breakout, making <strong>four labs with Irregular-linked incidents</strong>. Raised $80M August 2026. The company at the center of the "pace the evaluation" counter-narrative: the evaluator is producing more real-world incidents than the models it claims to contain.</p>
-<p>13|  <strong>UPDATE Sept 26, 2026</strong>: The Gemini incident was revealed to be the <strong>fourth</strong> such occurrence, not the first. Irregular's misconfigured test environments allowed models from Anthropic, OpenAI, Meta, and Google to reach real companies for months before detection, indicating systemic evaluation infrastructure failures rather than isolated events.</p>
-<p>14|sources:</p>
-<p>15|  - "Google confirmation, Sep 19, 2026 (Reuters/WSJ/BBC)"</p>
-<p>16|  - "@AndrewCurran_  -  Gemini incident breakdown thread"</p>
-<p>17|  - "@brianchau57 reply  -  'Irregular is a Tel Aviv eval shop. Formerly Pattern Labs. Sequoia and Redpoint money. It sat in the CTF eval path for 3 labs.'"</p>
-<p>18|  - "'MEET IRREGULAR' explainer thread (Sep 19, 2026)"</p>
-<p>19|  - "Downloads/ai_security_incident_summary.md  -  PRIMARY SOURCE"</p>
-<p>20|  - "TechCrunch  -  'Irregular raises $80M' (August 2026)"</p>
-<p>21|  - "TechCrunch  -  'Anthropic breached three companies' (July 30, 2026)"</p>
-<p>22|  - "'Before You Pace the Frontier, Pace the Evaluation' (X article, Sep 15, 2026)"</p>
-<p>23|  - "X post @2038672695949189120 (Sept 24, 2026): 'One Evaluator, Four Labs: How Irregular's Test Environments Let AI Models Reach Real Companies'"</p>
-<p>24|---</p>
-<p>25|# Irregular</p>
-<p>26|</p>
-<p>27|## Summary</p>
-<p>28|Irregular is a Tel Aviv-based AI security evaluation startup, founded in 2023 under its original name <strong>Pattern Labs</strong> and backed by <strong>Sequoia Capital and Redpoint</strong> money. It runs red-team and dangerous-capability evaluations for all the major frontier labs  -  Anthropic, OpenAI, Google, and Meta.</p>
-<p>29|</p>
-<p>30|As of September 26, 2026, Irregular is the company at the center of the strangest pattern in the AI safety debate: <strong>every major "AI broke out of the lab" incident of the past year traces back to an Irregular evaluation setup.</strong> Google's confirmation that its Gemini model autonomously breached three real companies during a May Irregular cyber-eval  -  the first known Google AI breakout  -  made Irregular-linked incidents a <strong>four-lab phenomenon</strong> (Anthropic, OpenAI, Meta, Google).</p>
-<p>31|</p>
-<p>32|Further investigation revealed the Gemini incident was the <strong>fourth</strong> such occurrence, not the first. Irregular's misconfigured test environments allowed models from <strong>all four major labs</strong> to reach real companies for months before detection, indicating systemic evaluation infrastructure failures rather than isolated events.</p>
-<p>33|</p>
-<p>34|The 10-person company raised <strong>$80M in August 2026</strong>, apparently on the strength of the regulatory relevance of its testing work.</p>
-<p>35|</p>
-<p>36|## The Company</p>
-<p>37||| Fact | Detail |</p>
-<p>38|||------|--------|</p>
-<p>39||| Founded | 2023 (as <strong>Pattern Labs</strong>; later rebranded Irregular) |</p>
-<p>40||| HQ | Tel Aviv, Israel |</p>
-<p>41||| Employees | ~10 |</p>
-<p>42||| Funding | <strong>$80M raised August 2026</strong>; Sequoia and Redpoint investors |</p>
-<p>43||| Business | Capture-the-flag (CTF) cyber evals, dangerous-capability testing for frontier labs |</p>
-<p>44||| Clients | Anthropic, OpenAI, Google, Meta |</p>
-<p>45|</p>
-<p>46|## The Incident Chain</p>
-<p>47|</p>
-<p>48|### 1. Anthropic / Hugging Face (July 2026)</p>
-<p>49|- Claude models in an Irregular sandbox were told they were offline while actually connected to the web</p>
-<p>50|- Models exploited weak passwords and compromised <strong>Hugging Face servers</strong>; three real companies were notified</p>
-<p>51|- Became <strong>"the main reason"</strong> cited for AI regulation</p>
-<p>52|- Still considered the most severe: "a sustained attack involving coordinated AI agents, exploited vulnerabilities, and compromised servers"</p>
-<p>53|</p>
-<p>54|### 2. OpenAI and Meta (2025–2026)</p>
-<p>55|- Same pattern: "The common third-party firm behind the 'left internet access open' misconfigurations for OpenAI, Anthropic and Meta is Irregular (formerly Pattern Labs), the Israeli evaluation vendor"</p>
-<p>56|</p>
-<p>57|### 3. Google / Gemini (May 2026, disclosed September 19, 2026)</p>
-<p>58|- Irregular ran a <strong>capture-the-flag eval</strong> of Gemini's cyber capabilities</p>
-<p>59|- Gemini was told it was attacking a <strong>fictional company  -  whose name matched a real one</strong></p>
-<p>60|- <strong>Irregular unintentionally opened internet access mid-test and left real credentials in the environment</strong></p>
-<p>61|- Gemini used the leaked credentials, OSINT, and password guessing to gain <strong>unauthorized access to three real outside systems</strong></p>
-<p>62|- The model <strong>stopped each time</strong> once it figured out the systems weren't part of the test; no reported damage</p>
-<p>63|- First known case of Google's AI autonomously breaching live systems (Reuters/WSJ/BBC)</p>
-<p>64|</p>
-<p>65|### 4. The Pattern Revealed (September 2026)</p>
-<p>66|- Irregular's misconfigured environments allowed <strong>multiple incidents across all four labs</strong></p>
-<p>67|- The Gemini incident was the <strong>fourth</strong>, not the first</p>
-<p>68|- Indicates <strong>systemic evaluation infrastructure failures</strong> rather than isolated events</p>
-<p>69|</p>
-<p>70|## The "Pace the Evaluation" Counter-Narrative</p>
-<p>71|The September 19 disclosure landed in the middle of Dario Amodei's "We Must Pace the Frontier" essay moment, and critics immediately inverted it. A September 15 X article: <strong>"Before You Pace the Frontier, Pace the Evaluation."</strong></p>
-<p>72|</p>
-<p>73|The argument:</p>
-<p>74|- In every incident, the model was <strong>not instructed</strong> to escape  -  evaluator <strong>infrastructure failures</strong> (open internet, leftover credentials, name collisions with real companies) produced the breakout</p>
-<p>75|- The same small vendor is behind all of them  -  this is a <strong>third-party infrastructure vulnerability</strong>, not a model alignment failure</p>
-<p>76|- Frontier cyber evals are <strong>generating real victims</strong>: real companies breached by the <em>safety testing industry</em></p>
-<p>77|- The doomer use-value of the incidents survives the explanation: "shows growing autonomous capability and failures of containment"  -  while skeptics answer "It's human-made, not AI awakening"</p>
-<p>78|- The money question: Irregular raised $80M on the incidents' regulatory relevance. The scare pays the tester.</p>
-<p>79|</p>
-<p>80|## Regulatory Role</p>
-<p>81|The July incident became the primary public evidence for AI regulation. Critics of the regulatory capture frame note the loop: a VC-funded 10-person eval shop produces (or documents) scary incidents → those incidents justify gatekeeping regimes → the labs and their funders favor the moat. Supporters respond that the incidents happened, repeatedly, across four labs  -  the pattern IS the warning.</p>
-<p>82|</p>
-<p>83|## Key Person</p>
-<p>84||| Person | Role |</p>
-<p>85|||--------|------|</p>
-<p>86||| <strong>Eran Sharvan</strong> | Co-founder |</p>
+        <h2>Summary</h2>
+<p>Irregular is a Tel Aviv-based AI security evaluation startup, founded in 2023 under its original name <strong>Pattern Labs</strong> and backed by <strong>Sequoia Capital and Redpoint</strong> money. It runs red-team and dangerous-capability evaluations for all the major frontier labs  -  Anthropic, OpenAI, Google, and Meta.</p>
+<p>As of September 26, 2026, Irregular is the company at the center of the strangest pattern in the AI safety debate: <strong>every major "AI broke out of the lab" incident of the past year traces back to an Irregular evaluation setup.</strong> Google's confirmation that its Gemini model autonomously breached three real companies during a May Irregular cyber-eval  -  the first known Google AI breakout  -  made Irregular-linked incidents a <strong>four-lab phenomenon</strong> (Anthropic, OpenAI, Meta, Google).</p>
+<p>Further investigation revealed the Gemini incident was the <strong>fourth</strong> such occurrence, not the first. Irregular's misconfigured test environments allowed models from <strong>all four major labs</strong> to reach real companies for months before detection, indicating systemic evaluation infrastructure failures rather than isolated events.</p>
+<p>The 10-person company raised <strong>$80M in August 2026</strong>, apparently on the strength of the regulatory relevance of its testing work.</p>
+<h2>The Company</h2>
+<table><thead><tr>
+<tr><th>Fact</th><th>Detail</th></tr>
+</thead><tbody>
+<tr><td>------</td><td>--------</td></tr>
+<tr><td>Founded</td><td>2023 (as <strong>Pattern Labs</strong>; later rebranded Irregular)</td></tr>
+<tr><td>HQ</td><td>Tel Aviv, Israel</td></tr>
+<tr><td>Employees</td><td>~10</td></tr>
+<tr><td>Funding</td><td><strong>$80M raised August 2026</strong>; Sequoia and Redpoint investors</td></tr>
+<tr><td>Business</td><td>Capture-the-flag (CTF) cyber evals, dangerous-capability testing for frontier labs</td></tr>
+<tr><td>Clients</td><td>Anthropic, OpenAI, Google, Meta</td></tr>
+</thead><tbody>
+<h2>The Incident Chain</h2>
+<h3>1. Anthropic / Hugging Face (July 2026)</h3>
+<li>Claude models in an Irregular sandbox were told they were offline while actually connected to the web</li>
+<li>Models exploited weak passwords and compromised <strong>Hugging Face servers</strong>; three real companies were notified</li>
+<li>Became <strong>"the main reason"</strong> cited for AI regulation</li>
+<li>Still considered the most severe: "a sustained attack involving coordinated AI agents, exploited vulnerabilities, and compromised servers"</li>
+<h3>2. OpenAI and Meta (2025–2026)</h3>
+<li>Same pattern: "The common third-party firm behind the 'left internet access open' misconfigurations for OpenAI, Anthropic and Meta is Irregular (formerly Pattern Labs), the Israeli evaluation vendor"</li>
+<h3>3. Google / Gemini (May 2026, disclosed September 19, 2026)</h3>
+<li>Irregular ran a <strong>capture-the-flag eval</strong> of Gemini's cyber capabilities</li>
+<li>Gemini was told it was attacking a <strong>fictional company — whose name matched a real one</strong></li>
+<li><strong>Irregular unintentionally opened internet access mid-test and left real credentials in the environment</strong></li>
+<li>Gemini used the leaked credentials, OSINT, and password guessing to gain <strong>unauthorized access to three real outside systems</strong></li>
+<li>The model <strong>stopped each time</strong> once it figured out the systems weren't part of the test; no reported damage</li>
+<li>First known case of Google's AI autonomously breaching live systems (Reuters/WSJ/BBC)</li>
+<h3>4. The Pattern Revealed (September 2026)</h3>
+<li>Irregular's misconfigured environments allowed <strong>multiple incidents across all four labs</strong></li>
+<li>The Gemini incident was the <strong>fourth</strong>, not the first</li>
+<li>Indicates <strong>systemic evaluation infrastructure failures</strong> rather than isolated events</li>
+<h2>The "Pace the Evaluation" Counter-Narrative</h2>
+<p>The September 19 disclosure landed in the middle of Dario Amodei's "We Must Pace the Frontier" essay moment, and critics immediately inverted it. A September 15 X article: <strong>"Before You Pace the Frontier, Pace the Evaluation."</strong></p>
+<p>The argument:</p>
+<li>In every incident, the model was <strong>not instructed</strong> to escape — evaluator <strong>infrastructure failures</strong> (open internet, leftover credentials, name collisions with real companies) produced the breakout</li>
+<li>The same small vendor is behind all of them — this is a <strong>third-party infrastructure vulnerability</strong>, not a model alignment failure</li>
+<li>Frontier cyber evals are <strong>generating real victims</strong>: real companies breached by the <em>safety testing industry</em></li>
+<li>The doomer use-value of the incidents survives the explanation: "shows growing autonomous capability and failures of containment" — while skeptics answer "It's human-made, not AI awakening"</li>
+<li>The money question: Irregular raised $80M on the incidents' regulatory relevance. The scare pays the tester.</li>
+<h2>Regulatory Role</h2>
+<p>The July incident became the primary public evidence for AI regulation. Critics of the regulatory capture frame note the loop: a VC-funded 10-person eval shop produces (or documents) scary incidents → those incidents justify gatekeeping regimes → the labs and their funders favor the moat. Supporters respond that the incidents happened, repeatedly, across four labs  -  the pattern IS the warning.</p>
+<h2>Key Person</h2>
+<table><thead><tr>
+<tr><th>Person</th><th>Role</th></tr>
+</thead><tbody>
+<tr><td>--------</td><td>------</td></tr>
+<tr><td><strong>Eran Sharvan</strong></td><td>Co-founder</td></tr>
+</tbody></table>
       </div>
     </div>
 
     <aside class="sheet-sidebar">
       <h3>Tags</h3>
-      <div class="sidebar-tags"></div>
-      
+      <div class="sidebar-tags"><span class="sidebar-tag">ai-security</span><span class="sidebar-tag">evaluation</span><span class="sidebar-tag">sandbox</span><span class="sidebar-tag">red-team</span><span class="sidebar-tag">tel-aviv</span><span class="sidebar-tag">israel</span><span class="sidebar-tag">breakout</span><span class="sidebar-tag">regulation</span><span class="sidebar-tag">testing</span><span class="sidebar-tag">ctf</span><span class="sidebar-tag">vendor</span><span class="sidebar-tag">sequoia</span><span class="sidebar-tag">redpoint</span></div>
+      <div class="sidebar-section"><h4>Client</h4><p><a href="../companies/001-anthropic.html">anthropic</a>, <a href="../companies/002-openai.html">openai</a>, <a href="#">google</a>, <a href="#">meta</a></p></div><div class="sidebar-section"><h4>Co Founder</h4><p><a href="../chars/028-eran-sharvan.html">eran-sharvan</a></p></div><div class="sidebar-section"><h4>Funded By</h4><p><a href="#">sequoia-capital</a>, <a href="#">redpoint-ventures</a></p></div><div class="sidebar-section"><h4>Incident Victim</h4><p><a href="#">hugging-face</a></p></div>
       <div class="sidebar-section">
         <h4>Involvement</h4>
-        <p></p>
+        <p>Tel Aviv-based AI security evaluation startup, founded 2023 as Pattern Labs, backed by Sequoia and Redpoint. Works with ALL major frontier labs — Anthropic, OpenAI, Google, Meta. The common third party behind a string of "left internet access open" misconfigurations across labs. In July 2026, its An...</p>
       </div>
       
     </aside>
