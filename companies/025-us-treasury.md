@@ -34,4 +34,4 @@ sources:
 - A gate is still a gate: "open-source AI is a national security risk" serves the same moat function as "unsafe frontier models" — the political side just swaps who gets excluded
 
 ## See Also
-[[scott-bessent]] [[donald-trump]] [[effective-altruism]] [[anthropic]] [[openai]] [[hugging-face]] [[irregular]]
+[[scott-bessent]] [[donald-trump]] [[effective-altruism]] [[anthropic]] [[openai]] [[Hugging Face]] [[irregular]]

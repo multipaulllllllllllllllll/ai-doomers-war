@@ -42,4 +42,4 @@ Cato keynote (Sept 19): probing "state-backed hacks using **open-source AI**" �
 Bessent sits at the intersection of the wiki's political cluster (Trump 016, Vance 050, Sanders 048, Jeffries 029): Treasury controls sanctions + SARs (follow the money), while the EA network controls grants + evaluations + Hill lobbying. The Sept 2026 cycle is the first open collision between those two money powers over who regulates AI — with the Irregular incident logs as the contested evidence.
 
 ## See Also
-[[donald-trump]] · [[jd-vance]] · [[effective-altruism]] · [[anthropic]] · [[openai]] · [[hugging-face]] · [[irregular]]
+[[donald-trump]] · [[jd-vance]] · [[effective-altruism]] · [[anthropic]] · [[openai]] · [[Hugging Face]] · [[irregular]]

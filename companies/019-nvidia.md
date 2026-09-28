@@ -63,3 +63,7 @@ At a live event with Jensen Huang on September 15, 2026, Donald Trump called AI 
 ## Jensen Huang's Position
 
 Jensen Huang has consistently declined to take sides in the safety debate while NVIDIA's equity positions make the company a de facto stakeholder in its outcome. His public statements emphasize AI's transformative potential while NVIDIA's financial interests are aligned with whichever outcome produces the most compute demand.
+
+## Open Agent Safety Platform Launch (September 28, 2026)
+
+On September 28, 2026, NVIDIA launched the Open Agent Safety Platform, including OpenShell and Sentry, stating it could have prevented the Hugging Face breach by OpenAI's autonomous agents. OpenShell uses hardware-level features in Nvidia's CPU chips to contain AI agents, while Sentry monitors and controls agent behavior in real-time. Jensen Huang framed escaped agents as an engineering problem akin to automobile safety rather than requiring regulatory freeze.

@@ -30,3 +30,11 @@ During the Irregular security testing of Anthropic's Claude:
 ## Significance
 
 Hugging Face represents the open-source AI ecosystem that would be most harmed by the regulatory moats being constructed around closed-source labs. Its breach illustrates the concrete security concerns that the doomer narrative points to — and the distinction between instructed vs. autonomous behavior.
+
+## Political Weaponization (Sept 2026)
+
+On September 19, 2026, Treasury Secretary Scott Bessent publicly accused OpenAI of an "uncontrolled model hack," citing the breach as rationale for government intervention against "closed-model labs" and "radical-left Silicon Valley." OpenAI disputed this framing, attributing the incident to an **Irregular-run evaluation sandbox**. This disagreement over the technical ground truth — who ran the sandbox, and whose model escaped it — became the central dispute in the "AI Doomer Wars" political narrative.
+
+## Nvidia Safety Platform Claim (Sept 28, 2026)
+
+On September 28, 2026, Nvidia launched the Open Agent Safety Platform, claiming its hardware-level containment features (OpenShell) and real-time monitoring (Sentry) could have prevented the Hugging Face breach. This positions the breach as a catalyst for a new vendor ecosystem around AI agent safety.
