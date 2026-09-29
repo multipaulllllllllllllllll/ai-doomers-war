@@ -18,7 +18,7 @@ investor_relations:
   ipo_timing: "could IPO as soon as next month (~October 2026)"
   regulatory_beneficiary: "superintelligence-ban"
 involvement: |
-  San Francisco-based AI lab founded in 2021 by Dario and Daniela Amodei (ex-OpenAI). Creator of Claude family of models. NVIDIA committed $10B in equity (part of $70B total across AI labs including $30B to OpenAI). IPO target: $2T valuation — could list as soon as next month (~October 2026) per Bloomberg reporting. Dario Amodei published "We Must Pace the Frontier" (~Sep 12, 2026) calling for industry slowdown while the company races toward IPO. Jacob Coxon's exit letter (Sep 8, 2026) hit 170-172M views; he still holds OpenAI equity. TIME cover story "The AI Tipping Point" frames the Coxon resignation as the catalyst. Central to the doomer regulatory narrative — CEO coordinated with OpenAI on three-lab pacing agreement within 48 hours of Coxon's post.
+  San Francisco-based AI lab founded in 2021 by Dario and Daniela Amodei (ex-OpenAI). Creator of Claude family of models. NVIDIA committed $10B in equity (part of $70B total across AI labs including $30B to OpenAI). IPO: confidential S-1 June 1, PUBLIC PROSPECTUS Sept 28, 2026 (Reuters) — $2T+ expected valuation, Nasdaq, Nvidia anchor up to $10B, debut possibly pushed past the midterms; the filing itself names 'backlash against AI' as a risk factor. Dario Amodei published "We Must Pace the Frontier" (~Sep 12, 2026) calling for industry slowdown while the company races toward IPO. Jacob Coxon's exit letter (Sep 8, 2026) hit 170-172M views; he still holds OpenAI equity. TIME cover story "The AI Tipping Point" frames the Coxon resignation as the catalyst. Central to the doomer regulatory narrative — CEO coordinated with OpenAI on three-lab pacing agreement within 48 hours of Coxon's post.
 sources:
   - "Coxon letter (Sept 8, 2026)"
   - "Kevin Bass / X (Sept 14, 2026)"
@@ -94,3 +94,16 @@ On **September 25, 2026**, the **DC Circuit ruled 2-1 against Anthropic**, affir
 - Practical effect: **Claude stays out of Pentagon systems and military contractors** — "your red lines don't bind the Pentagon."
 - Analyst read: enterprises split their AI stacks this quarter — one compliant model for DoD work, another for everything else. **Dual-vendor is no longer optional.**
 - Irony noted across X: the safety refusals that anchor Anthropic's brand are now a procurement liability — while Bessent's "no liability shield" frame simultaneously pins incident responsibility on lab management. The regulation-scared-the-narrative loop closes from both directions.
+
+## September 28, 2026 Update: The Public Prospectus — AI Backlash as a Named Risk
+
+**The S-1 went public.** Following the confidential draft submission (June 1, 2026), Anthropic's public IPO prospectus surfaced Sept 28 (Reuters), making a sweeping claim: **AI will transform the global economy more profoundly than industrialization, electricity and the internet**. Key numbers from the filing:
+
+- **$20.28B** in cash, equivalents and short-term investments (as of Dec 31) — against what Reuters characterized as "surging costs"
+- Pricing discussion around the **$965B** private-market mark (Forge Global, Sept 26); an IPO that "could value the company at more than **$2 trillion**"
+- **Nasdaq** listing; **Nvidia in talks to anchor up to $10B** of the offering (Reuters, Sept 11)
+- Debut reportedly **pushed to after the November midterms** — the election itself now a variable in the offering's timing
+
+**The most doomer-relevant line in the filing:** per CNBC's August review of the filings, Anthropic discloses the **"backlash against AI"** as an enumerated risk factor. The company's own SEC document concedes that the political movement this wiki documents — liability regimes, kill-switch mandates, Treasury actions, the Bessent posture — is financially material to Anthropic. A safety-majority public-benefit corporation preparing the largest tech listing in history simultaneously: (1) sued the Pentagon for blacklist treatment, (2) lobbied California to drop liability carve-outs, and (3) published a pacing-the-frontier cover essay. [[Scott Bessent]] and the [[US Treasury]]-led regulatory push are now, on Anthropic's own paper, risk factors priced into a $2 trillion valuation.
+
+**Source:** Reuters "Anthropic's IPO prospectus shows sweeping AI vision, surging costs" (https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/); Anthropic "confidentially submits draft S-1" (https://www.anthropic.com/news/confidential-draft-s1-sec); CNBC Sept 5 & Aug 21; Business Insider Nasdaq report.
