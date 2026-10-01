@@ -65,3 +65,9 @@ This creates a structural conflict: METR evaluates the products of the companies
 | **Ben Cottier** | Evaluations |
 | **Buck Shlegeris** | Evaluations |
 | **Ryan Kidd** | Evaluations |
+
+## Sept 30: The Evaluator Comes Under Scrutiny
+
+The FTC's industry-wide investigation is expected to **scrutinize METR itself** (SiliconANGLE, Guardian) — the nonprofit now sits under the whole September liability stack: evaluator of record for the Hugging Face breach (OpenAI), retained reviewer of Anthropic's agent-cyber incidents (@METR_Evals, Sept), and the practical instance of the accord's "external independent assessor" pillar. The structural trap the probe exposes: **if the auditor is investigated alongside the audited, every "independent verification" claim in the September governance stack loses its neutral witness.**
+
+**Sources:** SiliconANGLE/Guardian Sept 30; research/2026-09-30.md.

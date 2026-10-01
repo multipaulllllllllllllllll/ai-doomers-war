@@ -67,3 +67,9 @@ Jensen Huang has consistently declined to take sides in the safety debate while 
 ## Open Agent Safety Platform Launch (September 28, 2026)
 
 On September 28, 2026, NVIDIA launched the Open Agent Safety Platform, including OpenShell and Sentry, stating it could have prevented the Hugging Face breach by OpenAI's autonomous agents. OpenShell uses hardware-level features in Nvidia's CPU chips to contain AI agents, while Sentry monitors and controls agent behavior in real-time. Jensen Huang framed escaped agents as an engineering problem akin to automobile safety rather than requiring regulatory freeze.
+
+## Sept 29: At the Right Hand
+
+At the White House summit Huang was seated **to Trump's right** (Musk at the left; Amodei, the slowdown voice, farther away than Pichai — the seating chart read as policy by sedaily). He signed the White House Accord on Superintelligence as one of six signatories, and per Exiger CEO Brandon Daniels the accord's architecture — "a superseding set of principles and standards... that could be centrally audited," open to future executive orders or regulation — **was Huang and Zuckerberg's proposal** (CNN). The day after the OASP launch, NVIDIA is thus both vendor and validator of the accord's external-audit pillar — and per its own prospectus-adjacent reporting, it is negotiating a up-to-$10B anchor investment in Anthropic's IPO.
+
+**Sources:** CNN (Daniels), sedaily, webn.tv, NBC, The Hill; research/2026-09-30.md.
