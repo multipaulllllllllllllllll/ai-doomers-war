@@ -38,6 +38,9 @@ sources: [\"@handle, YYYY-MM-DD\"]
 2. Append raw findings to `research/YYYY-MM-DD.md` (create dir with `mkdir -p` first -
    it may not exist on a fresh checkout). This file is the crash-recovery backup.
 3. Only then edit sheets; keep every claim attributed to a named handle/post/date.
+4. Integrate new events into the hub `### The Full September 2026 Timeline` table and the
+   "What the timeline shows" bullets — dated sweep sections at the doc end do NOT count
+   as timeline integration (hub readers see the table, not the trailing logs).
 
 ## R3. Rebuild & deploy
 
@@ -65,6 +68,9 @@ Verify after 2-5 min: curl a changed page, check for expected new string.
 
 characters.html: one `<a class="pill pill-X" href="chars/NNN-slug.html">Name</a>` inside
 the matching group; keep `N people` subtitle and footer counts current.
+index.html sweep entries: `timeline-item` divs go inside the `.timeline` div of
+`timeline-section` (never `quotes-section`/`quotes-grid`) — new sweeps append after the
+last dated item, keep `data-phase` and add a `tl-entities` span; also sync footer counts.
 companies.html: rebuild card grid from frontmatter when >2 sheets change - pattern:
 parse existing `entity-card` blocks, add hand-roles dict for new sheets, splice between
 `<div class="entity-grid">` and the footer div (a working recipe exists in session
@@ -106,6 +112,7 @@ label's center column; every `^` above a label likewise (a python assert pass is
 | sidebar shows plain text for a rel | key not in name_map | match spelling to a sheet `name`/slug exactly |
 | stale HTML for deleted sheet | compiler never deletes | R4 step 1 |
 | xurl exit 1 | malformed/over-filtered query | shorten query; drop `site:` |
+| hub .md URL 404s on live site | hub md has YAML frontmatter → Jekyll renders it as `AI-Doomer-Wars-Wiki.html`; raw .md not served. Verify by curling the .html. (runbook.md has no frontmatter and serves as .md) | curl AI-Doomer-Wars-Wiki.html |
 | browser can't launch | Chrome profile lock | use xurl + curl; never fight the lock |
 
 ## R9. Rollback / recovery
