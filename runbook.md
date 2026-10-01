@@ -71,6 +71,9 @@ the matching group; keep `N people` subtitle and footer counts current.
 index.html sweep entries: `timeline-item` divs go inside the `.timeline` div of
 `timeline-section` (never `quotes-section`/`quotes-grid`) — new sweeps append after the
 last dated item, keep `data-phase` and add a `tl-entities` span; also sync footer counts.
+Format inside items: `<div class="tl-content"><h3>Title</h3><p>Body</p><span class=
+"tl-entities">Names…</span></div>` — entity names are PLAIN TEXT on index.html (pills with
+hrefs belong to characters.html; never link to sheets that don't exist).
 companies.html: rebuild card grid from frontmatter when >2 sheets change - pattern:
 parse existing `entity-card` blocks, add hand-roles dict for new sheets, splice between
 `<div class="entity-grid">` and the footer div (a working recipe exists in session
