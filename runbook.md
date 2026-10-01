@@ -44,7 +44,7 @@ sources: [\"@handle, YYYY-MM-DD\"]
 ```bash
 cd ~/ai-doomer-wiki
 rm -rf __pycache__ *.pyc                      # stale module shadowing
-python3 convert_sheets.py                     # expect: 54 chars + 25 companies + Done.
+python3 convert_sheets.py                     # expect: 54 chars + 26 companies + Done.
 cd site
 cp ../characters/*.md characters/ && cp ../companies/*.md companies/
 cp ../research/*.md research/ && cp ../AI-Doomer-Wars-Wiki.md .   # hub mirror
@@ -83,10 +83,10 @@ grep -l 'href="#"' chars/*.html companies/*.html | wc -l
 # 3. raw wiki-link leakage
 grep -rc '\[\[' chars/*.html companies/*.html | grep -v ':0' || echo clean
 # 4. ghost pages: html without md source
-comm -13 <(ls ../companies/*.md ../characters/*.md | xargs -n1 basename | sort) \
-         <(ls chars/*.html companies/*.html | xargs -n1 basename | sed s/.html// | sort)
+comm -13 <(ls ../companies/*.md ../characters/*.md | xargs -n1 basename | sed 's/\.md$//' | sort) \
+         <(ls chars/*.html companies/*.html | xargs -n1 basename | sed 's/\.html$//' | sort)
 ```
-Expected steady state: 54/25 counts equal in all views; leakage `clean`; ghosts empty;
+Expected steady state: 54/26 counts equal in all views; leakage `clean`; ghosts empty;
 dead-link list contains only intentional placeholders (peter-singer, toby-ord etc.).
 
 ## R7. Diagram maintenance
@@ -125,4 +125,4 @@ label's center column; every `^` above a label likewise (a python assert pass is
 - Compiler: `~/ai-doomer-wiki/convert_sheets.py` (418 LOC, stdlib only)
 - xurl: `/home/yollama/.local/bin/xurl`
 - Cron: `ec04ed3ec082` (every 6h: convert + mirror + push; no new research)
-- Runbook last reviewed: 2026-09-29
+- Runbook last reviewed: 2026-09-30
