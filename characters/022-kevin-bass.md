@@ -7,11 +7,11 @@ relationships:
   subject: [jaan-tallinn, dustin-moskovitz, anthropic, metr, coefficient-giving, controlai]
   reported_by: [billy-perrigo, thom-aster]
 involvement: |
-  Investigative blogger who published (Sept 14, 2026) a financial audit of Anthropic's ecosystem — the "Anthropic Network" investigation. Traced the funding chain from Anthropic investors through National Philanthropic Trust (NPT) to METR's network via IRS Form 990 filings and SEC documents. Key findings: NPT FY2025 grants to METR's network totaled ~$166M (Founders Pledge $78.8M, RAND Corp $61.6M, FAR AI $14.4M, Effective Ventures USA $11.5M, Epoch AI). Anthropic Series H (May 28, 2026) named Jane Street and D.E. Shaw Ventures as investors. Called for Congressional investigation into the funding network. Described the loop: METR as evaluator → Tarbell and other outlets amplify AI-doom narratives → regulatory moat benefits Anthropic → investors' equity increases. Thread: 88K+ impressions, 692 likes.
+  Investigative blogger who published (Sept 14, 2026) a financial audit of Anthropic's ecosystem, the "Anthropic Network" investigation. Traced the funding chain from Anthropic investors through National Philanthropic Trust (NPT) to METR's network via IRS Form 990 filings and SEC documents. Key findings: NPT FY2025 grants to METR's network totaled ~$166M (Founders Pledge $78.8M, RAND Corp $61.6M, FAR AI $14.4M, Effective Ventures USA $11.5M, Epoch AI). Anthropic Series H (May 28, 2026) named Jane Street and D.E. Shaw Ventures as investors. Called for Congressional investigation into the funding network. Described the loop: METR as evaluator → Tarbell and other outlets amplify AI-doom narratives → regulatory moat benefits Anthropic → investors' equity increases. Thread: 88K+ impressions, 692 likes.
 sources:
-  - "Kevin Bass / X thread (Sept 14, 2026) — @kevinnbass"
+  - "Kevin Bass / X thread (Sept 14, 2026), @kevinnbass"
   - "Kevin Bass / X follow-up posts (Sept 15-16, 2026)"
-  - "IRS Form 990 Schedule I filings — National Philanthropic Trust FY2023-FY2025"
+  - "IRS Form 990 Schedule I filings, National Philanthropic Trust FY2023-FY2025"
   - "Anthropic Series H (May 28, 2026)"
 ---
 
@@ -19,9 +19,9 @@ sources:
 
 ## Summary
 
-Kevin Bass is an investigative blogger and AI safety critic who published a landmark financial audit of the Anthropic ecosystem on September 14, 2026. His thread — the "Anthropic Network" investigation — reconstructed the complete funding chain from Anthropic investors through National Philanthropic Trust (NPT) to METR's network of grantees, using IRS Form 990 filings and SEC documents. The thread reached 88,000+ impressions and catalyzed significant debate about conflicts of interest in AI safety funding. Bass is calling for a Congressional investigation.
+Kevin Bass is an investigative blogger and AI safety critic who published a landmark financial audit of the Anthropic ecosystem on September 14, 2026. His thread, the "Anthropic Network" investigation, reconstructed the complete funding chain from Anthropic investors through National Philanthropic Trust (NPT) to METR's network of grantees, using IRS Form 990 filings and SEC documents. The thread reached 88,000+ impressions and catalyzed significant debate about conflicts of interest in AI safety funding. Bass is calling for a Congressional investigation.
 
-## The Audit — Key Findings
+## The Audit: Key Findings
 
 ### National Philanthropic Trust (NPT) Grants
 
@@ -54,11 +54,11 @@ Bass's core structural argument:
 
 ### The Evaluator Capture Problem
 
-METR is positioned as the quasi-independent third-party evaluator for Anthropic's models under proposed regulations. But METR's funding base — through NPT and Coefficient — is drawn from the same EA network that holds Anthropic equity. This means the evaluator is financially connected to the lab it evaluates.
+METR is positioned as the quasi-independent third-party evaluator for Anthropic's models under proposed regulations. But METR's funding base, through NPT and Coefficient, is drawn from the same EA network that holds Anthropic equity. This means the evaluator is financially connected to the lab it evaluates.
 
 ## The Congressional Call
 
-Bass is actively calling for a Congressional investigation into what he calls the Anthropic Network — specifically:
+Bass is actively calling for a Congressional investigation into what he calls the Anthropic Network, specifically:
 - Full disclosure of Anthropic's investor base and any related philanthropic positions
 - IRS Form 990 filings for all NPT grantees
 - METR's complete funding sources and any financial relationships with Anthropic employees
@@ -66,4 +66,4 @@ Bass is actively calling for a Congressional investigation into what he calls th
 
 ## Significance
 
-Bass represents the financial transparency wing of the structural critique — moving beyond "labs raise capital" to tracing the exact dollars through specific legal entities (NPT, Coefficient, Founders Pledge, etc.) using public filings.
+Bass represents the financial transparency wing of the structural critique, moving beyond "labs raise capital" to tracing the exact dollars through specific legal entities (NPT, Coefficient, Founders Pledge, etc.) using public filings.

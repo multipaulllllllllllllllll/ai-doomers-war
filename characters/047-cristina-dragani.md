@@ -15,4 +15,4 @@ sources:
 
 ## Summary
 
-Cristina Dragani is an X/Twitter commentator who reported that the Bernie Sanders superintelligence ban bill was authored by ControlAI — specifically that Andrea Miotti and ControlAI wrote the legislative language that Sanders introduced.
+Cristina Dragani is an X/Twitter commentator who reported that the Bernie Sanders superintelligence ban bill was authored by ControlAI, specifically that Andrea Miotti and ControlAI wrote the legislative language that Sanders introduced.

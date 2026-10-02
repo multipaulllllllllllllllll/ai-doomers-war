@@ -19,7 +19,7 @@ sources:
 
 ## Summary
 
-Cari Tuna is the co-founder of Good Ventures (now Coefficient Giving) alongside her husband Dustin Moskovitz. Together they have built the largest private Effective Altruism funding stream directed at AI safety organizations. Tuna's role is primarily as a co-funder with Moskovitz — their joint giving decisions have deployed tens of millions of dollars into the EA-aligned AI safety ecosystem.
+Cari Tuna is the co-founder of Good Ventures (now Coefficient Giving) alongside her husband Dustin Moskovitz. Together they have built the largest private Effective Altruism funding stream directed at AI safety organizations. Tuna's role is primarily as a co-funder with Moskovitz, their joint giving decisions have deployed tens of millions of dollars into the EA-aligned AI safety ecosystem.
 
 ## Funding Portfolio (with Moskovitz, FY2025)
 

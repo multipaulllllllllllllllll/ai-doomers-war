@@ -19,7 +19,7 @@ sources:
 
 ## Summary
 
-Safe Superintelligence (SSI) was founded by Ilya Sutskever in May 2024, shortly after leaving OpenAI. The company's sole mission is building safe superintelligent AI — explicitly rejecting the commercial pressure that Sutskever believed compromised safety at OpenAI. SSI raised $1B at founding and operates under a novel structure: a single-purpose company with one goal and one product.
+Safe Superintelligence (SSI) was founded by Ilya Sutskever in May 2024, shortly after leaving OpenAI. The company's sole mission is building safe superintelligent AI, explicitly rejecting the commercial pressure that Sutskever believed compromised safety at OpenAI. SSI raised $1B at founding and operates under a novel structure: a single-purpose company with one goal and one product.
 
 ## Significance
 

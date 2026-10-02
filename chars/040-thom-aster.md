@@ -15,4 +15,4 @@ sources:
 
 ## Summary
 
-Thom Aster is an X/Twitter commentator who posted the founding thread establishing the Conjecture/ControlAI connection — identifying Andrea Miotti, Connor Leahy, and Gabriel Alfour as Conjecture alumni who founded ControlAI. This thread provided the organizational history that contextualized ControlAI's origins.
+Thom Aster is an X/Twitter commentator who posted the founding thread establishing the Conjecture/ControlAI connection, identifying Andrea Miotti, Connor Leahy, and Gabriel Alfour as Conjecture alumni who founded ControlAI. This thread provided the organizational history that contextualized ControlAI's origins.

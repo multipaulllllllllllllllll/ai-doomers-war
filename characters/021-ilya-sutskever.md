@@ -17,7 +17,7 @@ sources:
 
 ## Summary
 
-Ilya Sutskever is the OpenAI co-founder and former Chief Scientist who became the most visible symbol of the doomer turn in AI safety. His role in the November 2023 board coup — where the board attempted to remove Sam Altman — was initially framed as a safety-aligned move, though the specifics were never fully disclosed. He later led OpenAI's Superalignment team before leaving to found Safe Superintelligence (SSI) in May 2024.
+Ilya Sutskever is the OpenAI co-founder and former Chief Scientist who became the most visible symbol of the doomer turn in AI safety. His role in the November 2023 board coup, where the board attempted to remove Sam Altman, was initially framed as a safety-aligned move, though the specifics were never fully disclosed. He later led OpenAI's Superalignment team before leaving to found Safe Superintelligence (SSI) in May 2024.
 
 ## Key Events
 
@@ -27,7 +27,7 @@ Sutskever was on the board that voted to fire Altman, initially framed as a safe
 
 ### Superalignment
 
-After returning to OpenAI, Sutskever led the Superalignment team — a group dedicated to solving the technical problem of aligning superintelligent AI systems. His public position shifted to the doomer framing: superintelligence is coming faster than expected, and we don't know how to align it.
+After returning to OpenAI, Sutskever led the Superalignment team, a group dedicated to solving the technical problem of aligning superintelligent AI systems. His public position shifted to the doomer framing: superintelligence is coming faster than expected, and we don't know how to align it.
 
 ### SSI
 

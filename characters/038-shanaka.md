@@ -18,5 +18,5 @@ sources:
 Shanaka is an X/Twitter commentator who reported on Donald Trump's Truth Social post characterizing the AI doomer narrative as a "hoax and conspiracy." Their posts captured Trump's framing for the record.
 
 <!-- <!-- ## See Also
-<!-- - [[donald-trump]] — Posted the content --> -->
+<!-- - [[donald-trump]], Posted the content --> -->
 -->

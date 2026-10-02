@@ -8,7 +8,7 @@ relationships:
 involvement: |
   AI safety commentator who posted about the "gambling with our lives" framing of the AI safety debate (TechCrunch coverage, Sept 9, 2026). Covered the doomer narrative from the perspective of Anthropic's internal safety culture.
 sources:
-  - "TechCrunch — 'gambling with our lives' (Sept 9, 2026)"
+  - "TechCrunch, 'gambling with our lives' (Sept 9, 2026)"
 ---
 
 # Ajay Corneth

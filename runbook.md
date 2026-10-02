@@ -52,8 +52,20 @@ does not authorize publishing or an automated wiki sweep.
    it may not exist on a fresh checkout). This file is the crash-recovery backup.
 3. Only then edit sheets; keep every claim attributed to a named handle/post/date.
 4. Integrate new events into the hub `### The Full September 2026 Timeline` table and the
-   "What the timeline shows" bullets — dated sweep sections at the doc end do NOT count
+   "What the timeline shows" bullets, dated sweep sections at the doc end do NOT count
    as timeline integration (hub readers see the table, not the trailing logs).
+
+## R2b. House writing style (reader-facing, mandatory)
+
+- No em dashes (U+2014) anywhere: markdown sheets, hub, research logs, static HTML,
+  chat reports. The owner treats em dashes as editorial tone injected into the site.
+  Connectors instead: colon for labels and "quote": explanation, comma for appositives,
+  semicolon between related clauses, parentheses for citation as "text" (Outlet, Date).
+- Date ranges keep the en dash (U+2013), e.g. 2021–present.
+- In fenced diagrams: box-drawing characters (U+2500) for lines, ` : ` for inline labels;
+  never U+2014 sequences.
+- Gate before deploy: `grep -rlc $'\u2014' *.md characters companies research site/*.html`
+  must print nothing.
 
 ## R3. Rebuild & deploy
 
@@ -82,10 +94,10 @@ Verify after 2-5 min: curl a changed page, check for expected new string.
 characters.html: one `<a class="pill pill-X" href="chars/NNN-slug.html">Name</a>` inside
 the matching group; keep `N people` subtitle and footer counts current.
 index.html sweep entries: `timeline-item` divs go inside the `.timeline` div of
-`timeline-section` (never `quotes-section`/`quotes-grid`) — new sweeps append after the
+`timeline-section` (never `quotes-section`/`quotes-grid`), new sweeps append after the
 last dated item, keep `data-phase` and add a `tl-entities` span; also sync footer counts.
 Format inside items: `<div class="tl-content"><h3>Title</h3><p>Body</p><span class=
-"tl-entities">Names…</span></div>` — entity names are PLAIN TEXT on index.html (pills with
+"tl-entities">Names…</span></div>`, entity names are PLAIN TEXT on index.html (pills with
 hrefs belong to characters.html; never link to sheets that don't exist).
 companies.html: rebuild card grid from frontmatter when >2 sheets change - pattern:
 parse existing `entity-card` blocks, add hand-roles dict for new sheets, splice between

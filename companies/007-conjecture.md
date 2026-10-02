@@ -8,9 +8,9 @@ relationships:
 investor_relations:
   type: "AI governance organization"
 involvement: |
-  AI governance organization founded by Connor Leahy and Gabriel Alfour. Andrea Miotti was Head of Strategy & Governance. All three alumni went on to found/run ControlAI — the policy organization that wrote the UK and US superintelligence ban bills.
+  AI governance organization founded by Connor Leahy and Gabriel Alfour. Andrea Miotti was Head of Strategy & Governance. All three alumni went on to found/run ControlAI, the policy organization that wrote the UK and US superintelligence ban bills.
 sources:
-  - "X/Thom Aster — ControlAI founding thread (Sept 14, 2026)"
+  - "X/Thom Aster, ControlAI founding thread (Sept 14, 2026)"
 ---
 
 # Conjecture

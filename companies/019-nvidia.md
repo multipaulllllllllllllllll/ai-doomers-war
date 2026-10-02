@@ -14,10 +14,10 @@ investor_relations:
   openai_equity: "$30 billion"
   other_partners_equity: "$30 billion"
 involvement: |
-  NVIDIA is the critical infrastructure provider for the AI race — its GPUs power every major frontier lab. Beyond selling chips, NVIDIA has committed $70 billion in equity investments across AI labs: $30B to OpenAI, $10B to Anthropic, $30B to other partners. Jensen Huang appeared with Donald Trump on September 15, 2026, when Trump called AI safety a "hoax." This positions NVIDIA as both the enabler of the AI race and a major financial beneficiary of the regulatory moat that the doomer narrative creates. If safety regulation bars open-source competitors and sustains closed-source frontier labs, NVIDIA's data center revenue is further protected. NVIDIA's total equity investments across AI labs is approximately $70B — capital deployment that represents the largest single investment in AI infrastructure beyond the labs themselves.
+  NVIDIA is the critical infrastructure provider for the AI race, its GPUs power every major frontier lab. Beyond selling chips, NVIDIA has committed $70 billion in equity investments across AI labs: $30B to OpenAI, $10B to Anthropic, $30B to other partners. Jensen Huang appeared with Donald Trump on September 15, 2026, when Trump called AI safety a "hoax." This positions NVIDIA as both the enabler of the AI race and a major financial beneficiary of the regulatory moat that the doomer narrative creates. If safety regulation bars open-source competitors and sustains closed-source frontier labs, NVIDIA's data center revenue is further protected. NVIDIA's total equity investments across AI labs is approximately $70B, capital deployment that represents the largest single investment in AI infrastructure beyond the labs themselves.
 sources:
-  - "@NGLSHMUELI / X — NVIDIA $70B equity breakdown (Sept 15, 2026)"
-  - "@stock_duty / X — Trump calls AI safety a hoax with Jensen Huang (Sept 15, 2026)"
+  - "@NGLSHMUELI / X, NVIDIA $70B equity breakdown (Sept 15, 2026)"
+  - "@stock_duty / X, Trump calls AI safety a hoax with Jensen Huang (Sept 15, 2026)"
   - "Bloomberg reporting on AI lab financing rounds"
 ---
 
@@ -27,7 +27,7 @@ sources:
 
 NVIDIA (NASDAQ: NVDA) is the semiconductor company whose GPUs power every major frontier AI lab. CEO Jensen Huang has positioned NVIDIA as the "picks and shovels" of the AI gold rush. Beyond chip sales, NVIDIA has committed $70 billion in equity investments across AI labs, making it one of the largest financial stakeholders in the AI ecosystem beyond the labs themselves.
 
-On September 15, 2026, Jensen Huang appeared live with Donald Trump, who called AI safety a "hoax" during the event. This moment crystallizes NVIDIA's position: it is both the enabler of the AI race and a major beneficiary of whatever regulatory outcome emerges — whether "pause" or "go," NVIDIA wins.
+On September 15, 2026, Jensen Huang appeared live with Donald Trump, who called AI safety a "hoax" during the event. This moment crystallizes NVIDIA's position: it is both the enabler of the AI race and a major beneficiary of whatever regulatory outcome emerges, whether "pause" or "go," NVIDIA wins.
 
 ## The $70 Billion Equity Commitment
 
@@ -40,7 +40,7 @@ NVIDIA has deployed significant equity capital across the AI lab ecosystem:
 | **Other partners** | $30 billion |
 | **Total** | **$70 billion** |
 
-These are equity investments, not just chip supply agreements. NVIDIA has financial stakes in the outcomes of its customers — OpenAI and Anthropic both benefit from regulatory moats that sustain their valuations, which in turn affects NVIDIA's equity positions.
+These are equity investments, not just chip supply agreements. NVIDIA has financial stakes in the outcomes of its customers, OpenAI and Anthropic both benefit from regulatory moats that sustain their valuations, which in turn affects NVIDIA's equity positions.
 
 ## The Regulatory Moat Argument
 
@@ -58,7 +58,7 @@ This creates what critics call a "heads I win, tails you lose" dynamic: NVIDIA b
 
 ## The Trump Moment (September 15, 2026)
 
-At a live event with Jensen Huang on September 15, 2026, Donald Trump called AI safety a "hoax." The same day, the 10-year US Treasury yield hit 5% (a 19-year high). The juxtaposition — Trump dismissing AI safety concerns while standing next to NVIDIA's CEO — underscored the political polarization around AI regulation.
+At a live event with Jensen Huang on September 15, 2026, Donald Trump called AI safety a "hoax." The same day, the 10-year US Treasury yield hit 5% (a 19-year high). The juxtaposition, Trump dismissing AI safety concerns while standing next to NVIDIA's CEO, underscored the political polarization around AI regulation.
 
 ## Jensen Huang's Position
 
@@ -70,10 +70,10 @@ On September 28, 2026, NVIDIA launched the Open Agent Safety Platform, including
 
 ## Sept 29: At the Right Hand
 
-At the White House summit Huang was seated **to Trump's right** (Musk at the left; Amodei, the slowdown voice, farther away than Pichai — the seating chart read as policy by sedaily). He signed the White House Accord on Superintelligence as one of six signatories, and per Exiger CEO Brandon Daniels the accord's architecture — "a superseding set of principles and standards... that could be centrally audited," open to future executive orders or regulation — **was Huang and Zuckerberg's proposal** (CNN). The day after the OASP launch, NVIDIA is thus both vendor and validator of the accord's external-audit pillar — and per its own prospectus-adjacent reporting, it is negotiating a up-to-$10B anchor investment in Anthropic's IPO.
+At the White House summit Huang was seated **to Trump's right** (Musk at the left; Amodei, the slowdown voice, farther away than Pichai, the seating chart read as policy by sedaily). He signed the White House Accord on Superintelligence as one of six signatories, and per Exiger CEO Brandon Daniels the accord's architecture, "a superseding set of principles and standards... that could be centrally audited," open to future executive orders or regulation, **was Huang and Zuckerberg's proposal** (CNN). The day after the OASP launch, NVIDIA is thus both vendor and validator of the accord's external-audit pillar, and per its own prospectus-adjacent reporting, it is negotiating a up-to-$10B anchor investment in Anthropic's IPO.
 
 **Sources:** CNN (Daniels), sedaily, webn.tv, NBC, The Hill; research/2026-09-30.md.
 
-## September 28–29, 2026: The Pope Reads the Announcement — and Answers It
+## September 28–29, 2026: The Pope Reads the Announcement: and Answers It
 
-Hours after NVIDIA launched the Open Agent Safety Platform, **Pope Leo XIV**, aboard the papal plane returning from France, told reporters he had read that afternoon about "Nvidia introducing guardrails into AI" — and then: **"He's the same one, however, that says there should be no limits placed and no government regulation."** The critique lands on the exact seam of the Sept 28 strategy: selling containment tooling (OpenShell/Sentry) while lobbying against mandated containment (Huang's CBS statement that he "agrees with Trump" on AI safety; the "engineering problem, not a regulatory freeze" frame). With the pope's moral platform (1.4B faithful) naming it days before midterms, NVIDIA's vendor-safety narrative now has a religious counter-narrative: guardrails without limits is marketing, not safety. **Source:** Thenewweb/PBS NewsHour/NBC (papal plane presser, Sept 28-29).
+Hours after NVIDIA launched the Open Agent Safety Platform, **Pope Leo XIV**, aboard the papal plane returning from France, told reporters he had read that afternoon about "Nvidia introducing guardrails into AI" (and then: **"He's the same one, however, that says there should be no limits placed and no government regulation."** The critique lands on the exact seam of the Sept 28 strategy: selling containment tooling (OpenShell/Sentry) while lobbying against mandated containment (Huang's CBS statement that he "agrees with Trump" on AI safety; the "engineering problem, not a regulatory freeze" frame). With the pope's moral platform (1.4B faithful) naming it days before midterms, NVIDIA's vendor-safety narrative now has a religious counter-narrative: guardrails without limits is marketing, not safety. **Source:** Thenewweb/PBS NewsHour/NBC (papal plane presser, Sept 28-29).)

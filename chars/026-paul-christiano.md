@@ -27,4 +27,4 @@ Paul Christiano is an AI safety researcher who represents the technical pipeline
 
 ## Relationship to Doomer Debate
 
-Christiano represents the technical doomer position — not primarily a political actor but a researcher who believes the alignment problem is genuinely hard and the default outcome with superintelligent AI is bad. His technical work underlies much of what Anthropic calls its safety approach.
+Christiano represents the technical doomer position, not primarily a political actor but a researcher who believes the alignment problem is genuinely hard and the default outcome with superintelligent AI is bad. His technical work underlies much of what Anthropic calls its safety approach.

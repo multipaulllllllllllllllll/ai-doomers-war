@@ -9,7 +9,7 @@ relationships:
 involvement: |
   Co-founded Conjecture (AI governance org). Helped Andrea Miotti found ControlAI. Conjecture alumni network forms the core of the ControlAI policy team. Tallinn-funded.
 sources:
-  - "X/Thom Aster — ControlAI founding thread (Sept 14, 2026)"
+  - "X/Thom Aster, ControlAI founding thread (Sept 14, 2026)"
 ---
 
 # Gabriel Alfour

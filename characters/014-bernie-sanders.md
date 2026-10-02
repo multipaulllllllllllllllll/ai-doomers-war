@@ -7,17 +7,17 @@ relationships:
   co_sponsor: [greg-casar]
   bill_author: [andrea-miotti, controlai]
 involvement: |
-  Senator Bernie Sanders (I-VT) announced plans to introduce the "Ban Artificial Superintelligence Act" — a bill that would prohibit development of smarter-than-human AI and temporarily pause all advanced AI research until new safety rules are established. The bill was drafted by ControlAI (Andrea Miotti). Sanders introduced the US version of the UK-origin regulatory framework. Co-sponsored by Rep. Greg Casar (D-TX).
+  Senator Bernie Sanders (I-VT) announced plans to introduce the "Ban Artificial Superintelligence Act" (a bill that would prohibit development of smarter-than-human AI and temporarily pause all advanced AI research until new safety rules are established. The bill was drafted by ControlAI (Andrea Miotti). Sanders introduced the US version of the UK-origin regulatory framework. Co-sponsored by Rep. Greg Casar (D-TX).)
 sources:
-  - "TIME — 'The Growing Push to Ban Superintelligent AI' by Billy Perrigo (Sept 8, 2026)"
-  - "X/Cristina Dragani — Sanders-Casar authored by ControlAI (Sept 14, 2026)"
+  - "TIME, 'The Growing Push to Ban Superintelligent AI' by Billy Perrigo (Sept 8, 2026)"
+  - "X/Cristina Dragani, Sanders-Casar authored by ControlAI (Sept 14, 2026)"
 ---
 
 # Bernie Sanders
 
 ## Summary
 
-Bernie Sanders, the independent Senator from Vermont, is the Congressional sponsor of the US version of the superintelligence ban bill originally drafted by ControlAI. His involvement brings significant progressive political credibility to the doomer regulatory agenda, translating the technical AI safety arguments into the language of progressive politics — anti-monopoly, worker protection, and government oversight of corporate power.
+Bernie Sanders, the independent Senator from Vermont, is the Congressional sponsor of the US version of the superintelligence ban bill originally drafted by ControlAI. His involvement brings significant progressive political credibility to the doomer regulatory agenda, translating the technical AI safety arguments into the language of progressive politics, anti-monopoly, worker protection, and government oversight of corporate power.
 
 ## The Ban Artificial Superintelligence Act
 

@@ -7,10 +7,10 @@ relationships:
   political_contact: [dario-amodei, sam-altman]
   opposed_by: [donald-trump]
 involvement: |
-  Former President who told Democrats at a fundraiser (Sept 11, 2026) to have a "clear plan" for AI safeguards and make it a "central agenda." Offered himself as a "sounding board" to AI executives (Dario Amodei and Sam Altman). Positioned as the senior Democrat bridging the doomer-aligned labs and the party machinery. His framing was more measured than "nanny AI" — real quotes: AI is "moving very fast in private hands" and "can be dangerous," but also has benefits.
+  Former President who told Democrats at a fundraiser (Sept 11, 2026) to have a "clear plan" for AI safeguards and make it a "central agenda." Offered himself as a "sounding board" to AI executives (Dario Amodei and Sam Altman). Positioned as the senior Democrat bridging the doomer-aligned labs and the party machinery. His framing was more measured than "nanny AI" (real quotes: AI is "moving very fast in private hands" and "can be dangerous," but also has benefits.)
 sources:
-  - "TechCrunch — 'Obama urges Democrats to have a clear plan for AI safeguards' (Sept 13, 2026)"
-  - "NBC News — 'Obama says Democrats need clear plan for AI policy' (Sept 13, 2026)"
+  - "TechCrunch, 'Obama urges Democrats to have a clear plan for AI safeguards' (Sept 13, 2026)"
+  - "NBC News, 'Obama says Democrats need clear plan for AI policy' (Sept 13, 2026)"
   - "NYT coverage of Sept 11 fundraiser via Hakeem Jeffries interview"
 ---
 
@@ -32,7 +32,7 @@ Jeffries responded: "the former president is correct that decisive action must b
 
 ## Relationship to Doomer Network
 
-Obama's role is primarily symbolic — the former President's endorsement of AI regulation provides political legitimacy to the Democratic policy push. His private conversations with Amodei and Altman suggest ongoing dialogue between the doomer-aligned labs and the Democratic establishment. His framing was notably more measured than the "nanny AI" characterization that appeared in earlier wiki versions — the actual quotes reflect genuine concern about concentration of AI power in private hands, framed within a pro-innovation, pro-regulation Democratic posture.
+Obama's role is primarily symbolic, the former President's endorsement of AI regulation provides political legitimacy to the Democratic policy push. His private conversations with Amodei and Altman suggest ongoing dialogue between the doomer-aligned labs and the Democratic establishment. His framing was notably more measured than the "nanny AI" characterization that appeared in earlier wiki versions, the actual quotes reflect genuine concern about concentration of AI power in private hands, framed within a pro-innovation, pro-regulation Democratic posture.
 
 ## Political Context
 

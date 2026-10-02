@@ -18,5 +18,5 @@ sources:
 Jon Smith is a pseudonymous or independent AI safety commentator covering the doomer debate and regulatory landscape.
 
 <!-- <!-- ## See Also
-<!-- - AI safety — Topic --> -->
+<!-- - AI safety, Topic --> -->
 -->

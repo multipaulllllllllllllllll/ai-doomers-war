@@ -9,8 +9,8 @@ relationships:
 involvement: |
   Heads ControlAI US operations. Co-founder of Conjecture (AI governance org). Former colleague of Andrea Miotti at Conjecture. ControlAI wrote both the UK and US superintelligence ban bills. Tallinn-funded.
 sources:
-  - "X/Thom Aster — ControlAI founding thread (Sept 14, 2026)"
-  - "TIME — 'The Growing Push to Ban Superintelligent AI' (Sept 8, 2026)"
+  - "X/Thom Aster, ControlAI founding thread (Sept 14, 2026)"
+  - "TIME, 'The Growing Push to Ban Superintelligent AI' (Sept 8, 2026)"
 ---
 
 # Connor Leahy
@@ -21,7 +21,7 @@ Connor Leahy is the co-founder of Conjecture and currently heads ControlAI US op
 
 ## Conjecture
 
-Conjecture was an AI governance organization that trained and connected the individuals who now form the leadership of ControlAI. The alumni network — Miotti, Leahy, and Alfour — collectively represent the policy infrastructure of the doomer movement: people who moved from governance research to drafting specific legislative language.
+Conjecture was an AI governance organization that trained and connected the individuals who now form the leadership of ControlAI. The alumni network, Miotti, Leahy, and Alfour, collectively represent the policy infrastructure of the doomer movement: people who moved from governance research to drafting specific legislative language.
 
 ## ControlAI US
 

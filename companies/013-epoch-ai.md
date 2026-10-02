@@ -16,4 +16,4 @@ sources:
 
 ## Summary
 
-Epoch AI is a non-profit research organization focused on technical AI safety research. It is funded by Vitalik Buterin and Dustin Moskovitz — connecting it to both the crypto-to-EA funding pipeline (Buterin) and the broader Moskovitz/Tuna funding network.
+Epoch AI is a non-profit research organization focused on technical AI safety research. It is funded by Vitalik Buterin and Dustin Moskovitz, connecting it to both the crypto-to-EA funding pipeline (Buterin) and the broader Moskovitz/Tuna funding network.

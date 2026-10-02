@@ -20,4 +20,4 @@ Jacob Hilton is a researcher at METR (Machine Evaluation and Tooling Research), 
 
 ## METR's Position in the Regulatory Framework
 
-Under the proposed superintelligence ban framework, METR would serve as the evaluator — testing whether AI systems have capabilities that exceed the defined threshold (e.g., ability to "disempower state authorities"). METR's funding comes from the same EA network that funds ControlAI and invests in Anthropic, creating a structural conflict of interest: METR evaluates the products of the labs that its funders have invested in.
+Under the proposed superintelligence ban framework, METR would serve as the evaluator, testing whether AI systems have capabilities that exceed the defined threshold (e.g., ability to "disempower state authorities"). METR's funding comes from the same EA network that funds ControlAI and invests in Anthropic, creating a structural conflict of interest: METR evaluates the products of the labs that its funders have invested in.

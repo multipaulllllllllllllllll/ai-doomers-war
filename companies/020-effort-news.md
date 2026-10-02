@@ -7,7 +7,7 @@ relationships:
 investor_relations:
   type: "Independent news outlet"
 involvement: |
-  Independent news outlet run by Brian Chau. Has investigated the funding network behind AI safety organizations, journalists, and policy advocates — exposing the same financial connections linking Anthropic investors to the organizations pushing for regulation. Key source for the structural critique of the doomer movement.
+  Independent news outlet run by Brian Chau. Has investigated the funding network behind AI safety organizations, journalists, and policy advocates, exposing the same financial connections linking Anthropic investors to the organizations pushing for regulation. Key source for the structural critique of the doomer movement.
 sources:
   - "Brian Chau / X (Sept 15, 2026)"
 ---
@@ -16,7 +16,7 @@ sources:
 
 ## Summary
 
-Effort News is an independent news outlet run by journalist Brian Chau. It has produced investigative reporting on the funding network behind AI safety organizations, journalists, and policy advocates — documenting the same financial connections that link Anthropic's investors to the organizations pushing for regulation.
+Effort News is an independent news outlet run by journalist Brian Chau. It has produced investigative reporting on the funding network behind AI safety organizations, journalists, and policy advocates, documenting the same financial connections that link Anthropic's investors to the organizations pushing for regulation.
 
 ## Brian Chau's Reporting
 

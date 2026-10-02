@@ -8,7 +8,7 @@ investor_relations:
   type: "Division of Meta Platforms"
   parent: [meta]
 involvement: |
-  Meta's AI division, creator of the open-source Llama model family. Meta has adopted a radically open-source strategy — releasing model weights publicly — positioning itself as the anti-Anthropic in the regulatory debate. Would be most harmed by the regulatory moats being constructed around closed-source labs.
+  Meta's AI division, creator of the open-source Llama model family. Meta has adopted a radically open-source strategy, releasing model weights publicly, positioning itself as the anti-Anthropic in the regulatory debate. Would be most harmed by the regulatory moats being constructed around closed-source labs.
 sources:
   - "Various reporting"
 ---

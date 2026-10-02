@@ -16,4 +16,4 @@ sources:
 
 ## Summary
 
-Charlie Tyrell is the co-director (with Daniel Roher) of "The AI Doc: Or How I Became an Apocaloptimist," a Netflix documentary released September 12, 2026. The film explores the AI doomer debate through the lens of "apocaloptimism" — the idea that both AI catastrophe and utopia are possible outcomes.
+Charlie Tyrell is the co-director (with Daniel Roher) of "The AI Doc: Or How I Became an Apocaloptimist," a Netflix documentary released September 12, 2026. The film explores the AI doomer debate through the lens of "apocaloptimism" (the idea that both AI catastrophe and utopia are possible outcomes.)

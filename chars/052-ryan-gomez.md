@@ -15,4 +15,4 @@ sources:
 
 ## Summary
 
-Ryan G Gomez is an AI safety commentator covering Meta's position in the AI safety debate — the open-source competitor to Anthropic and OpenAI.
+Ryan G Gomez is an AI safety commentator covering Meta's position in the AI safety debate, the open-source competitor to Anthropic and OpenAI.

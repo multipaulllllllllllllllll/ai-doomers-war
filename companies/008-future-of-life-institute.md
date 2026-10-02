@@ -34,4 +34,4 @@ FLI was early-funded by Dustin Moskovitz, the Facebook co-founder who is also th
 
 ## Significance
 
-FLI represents the media/campaign dimension of the doomer ecosystem — translating technical arguments into public pressure campaigns that provide political cover for regulation.
+FLI represents the media/campaign dimension of the doomer ecosystem, translating technical arguments into public pressure campaigns that provide political cover for regulation.

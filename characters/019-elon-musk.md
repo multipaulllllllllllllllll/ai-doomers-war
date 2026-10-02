@@ -18,7 +18,7 @@ sources:
 
 ## Summary
 
-Elon Musk represents the most publicly contradictory position in the AI doomer wars: he has called AI more dangerous than nuclear weapons, signed the Future of Life Institute pause letter in March 2023, and publicly endorsed the doomer framing about extinction risk — while simultaneously building xAI (Grok), competing directly with Anthropic and OpenAI, and deploying AI systems at scale through Tesla and SpaceX.
+Elon Musk represents the most publicly contradictory position in the AI doomer wars: he has called AI more dangerous than nuclear weapons, signed the Future of Life Institute pause letter in March 2023, and publicly endorsed the doomer framing about extinction risk, while simultaneously building xAI (Grok), competing directly with Anthropic and OpenAI, and deploying AI systems at scale through Tesla and SpaceX.
 
 ## The Pause Letter
 
@@ -26,7 +26,7 @@ Musk was one of the original signers of the Future of Life Institute's March 202
 
 ## xAI and Competing Interests
 
-Musk founded xAI in 2023 to compete in the frontier AI race. His Grok models are being deployed commercially. His doomer statements coexist uneasily with his commercial position — he benefits from regulatory uncertainty that slows his competitors while building aggressively himself.
+Musk founded xAI in 2023 to compete in the frontier AI race. His Grok models are being deployed commercially. His doomer statements coexist uneasily with his commercial position, he benefits from regulatory uncertainty that slows his competitors while building aggressively himself.
 
 ## Relationship to Trump
 

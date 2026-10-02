@@ -15,4 +15,4 @@ sources:
 
 ## Summary
 
-David Bergal is a researcher at METR, working on AI capability evaluations. METR's evaluations are central to the proposed regulatory framework for frontier AI — they would serve as the technical gatekeeping mechanism for determining whether AI systems pose sufficient risk to trigger regulatory restrictions.
+David Bergal is a researcher at METR, working on AI capability evaluations. METR's evaluations are central to the proposed regulatory framework for frontier AI, they would serve as the technical gatekeeping mechanism for determining whether AI systems pose sufficient risk to trigger regulatory restrictions.

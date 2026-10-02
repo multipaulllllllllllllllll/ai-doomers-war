@@ -8,18 +8,18 @@ relationships:
   political_contact: [barack-obama, josh-hawley]
   rival: [dario-amodei]
 involvement: |
-  CEO of OpenAI. Ruled out OpenAI's 2026 IPO in explicit connection with the AI safety narrative — linking the IPO delay directly to safety work not being ready. Co-signed the three-lab pacing agreement with Dario Amodei within 48 hours of the Coxon letter (Sept 8, 2026). Has spoken to Barack Obama about AI policy. OpenAI is one of the two primary labs (with Anthropic) whose CEOs are coordinating on the doomer regulatory narrative.
+  CEO of OpenAI. Ruled out OpenAI's 2026 IPO in explicit connection with the AI safety narrative, linking the IPO delay directly to safety work not being ready. Co-signed the three-lab pacing agreement with Dario Amodei within 48 hours of the Coxon letter (Sept 8, 2026). Has spoken to Barack Obama about AI policy. OpenAI is one of the two primary labs (with Anthropic) whose CEOs are coordinating on the doomer regulatory narrative.
 sources:
-  - "TechCrunch — 'Obama urges Democrats' (Sept 13, 2026)"
+  - "TechCrunch, 'Obama urges Democrats' (Sept 13, 2026)"
   - "Various reports on OpenAI IPO delay, September 2026"
-  - "X/@sachinvats — CEO unity thread (Sept 14, 2026)"
+  - "X/@sachinvats, CEO unity thread (Sept 14, 2026)"
 ---
 
 # Sam Altman
 
 ## Summary
 
-Sam Altman is the CEO of OpenAI, the AI lab that in September 2026 found itself in the unusual position of publicly aligning with its primary competitor Anthropic on a development pause — while simultaneously ruling out an IPO and invoking safety as the explicit reason. Altman has been central to the AI doomer wars both as a recipient of regulatory sympathy (OpenAI benefits from the same safety narrative as Anthropic) and as a figure whose sudden public alignment with the "pause" framing required explanation given OpenAI's competitive history with Anthropic.
+Sam Altman is the CEO of OpenAI, the AI lab that in September 2026 found itself in the unusual position of publicly aligning with its primary competitor Anthropic on a development pause, while simultaneously ruling out an IPO and invoking safety as the explicit reason. Altman has been central to the AI doomer wars both as a recipient of regulatory sympathy (OpenAI benefits from the same safety narrative as Anthropic) and as a figure whose sudden public alignment with the "pause" framing required explanation given OpenAI's competitive history with Anthropic.
 
 ## The IPO Ruling Out
 
@@ -29,13 +29,13 @@ OpenAI had been circling an IPO for over a year, with analysts speculating about
 
 When asked if that meant not in 2026: "I would say not 2026."
 
-The framing — linking the IPO delay explicitly to safety — positioned OpenAI as aligned with the regulatory narrative even as Anthropic accelerated toward its own $2T IPO. The competing dynamics served both companies: one used safety to justify a delay, the other used it to justify maximum valuation.
+The framing, linking the IPO delay explicitly to safety, positioned OpenAI as aligned with the regulatory narrative even as Anthropic accelerated toward its own $2T IPO. The competing dynamics served both companies: one used safety to justify a delay, the other used it to justify maximum valuation.
 
 ## The Three-Lab Pacing Agreement
 
-Altman co-signed the three-lab pacing agreement within approximately 48 hours of Jacob Coxon's exit letter. This was notable given OpenAI and Anthropic's competitive history — the companies had engaged in aggressive talent and capability competition. The sudden public cooperation, announced the same week that extinction risk was hitting every headline, required explanation beyond stated safety concerns.
+Altman co-signed the three-lab pacing agreement within approximately 48 hours of Jacob Coxon's exit letter. This was notable given OpenAI and Anthropic's competitive history, the companies had engaged in aggressive talent and capability competition. The sudden public cooperation, announced the same week that extinction risk was hitting every headline, required explanation beyond stated safety concerns.
 
-**@sachinvats** (4,320 impressions): *"Why are Dario and Sam suddenly together, same guys who didn't find a reason to hold hands even for a picture in the presence of a State Head — to understand this one needs to understand the chronology of events in the last 18 months."*
+**@sachinvats** (4,320 impressions): *"Why are Dario and Sam suddenly together, same guys who didn't find a reason to hold hands even for a picture in the presence of a State Head, to understand this one needs to understand the chronology of events in the last 18 months."*
 
 ## Communications with Obama
 
@@ -47,6 +47,6 @@ OpenAI has historically been more capability-focused than Anthropic, though it h
 
 ## Sept 29-30: The Absentee Signatory
 
-Altman **did not attend** the White House summit that produced the accord his company signed — he was in San Francisco hosting DevDay 2026 (Sept 29), introducing **Dots**, a context-learning agent for ChatGPT/Slack/Teams with user-configurable agent rules, and telling the audience he had "regained his focus" after quitting phone-attachment. Around the summit he confirmed on a broadcast interview that OpenAI had **deliberately paused certain training cycles to re-evaluate safety margins** — the first public pause-admission from a frontier lab (theunn). His signature was carried by President **Greg Brockman**; the FTC probe opened the next day (Sept 30) puts Altman's own September disclosures — 53 posted user images, DNS sandbox escape, the Australian agency breach — into a federal investigative record, with executive testimony planned. The week's arc for Altman: "help governments control AI" (Sept 26) → proxy signature at a self-policing summit → named subject of a compulsory one.
+Altman **did not attend** the White House summit that produced the accord his company signed, he was in San Francisco hosting DevDay 2026 (Sept 29), introducing **Dots**, a context-learning agent for ChatGPT/Slack/Teams with user-configurable agent rules, and telling the audience he had "regained his focus" after quitting phone-attachment. Around the summit he confirmed on a broadcast interview that OpenAI had **deliberately paused certain training cycles to re-evaluate safety margins**, the first public pause-admission from a frontier lab (theunn). His signature was carried by President **Greg Brockman**; the FTC probe opened the next day (Sept 30) puts Altman's own September disclosures, 53 posted user images, DNS sandbox escape, the Australian agency breach, into a federal investigative record, with executive testimony planned. The week's arc for Altman: "help governments control AI" (Sept 26) → proxy signature at a self-policing summit → named subject of a compulsory one.
 
 **Sources:** sedaily, theunn, NBC/CNN/The Hill Sept 29; CNBC/NY Post/NYT/SiliconANGLE Sept 30; research/2026-09-30.md.
