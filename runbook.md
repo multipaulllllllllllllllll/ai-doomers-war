@@ -33,6 +33,19 @@ sources: [\"@handle, YYYY-MM-DD\"]
 
 ## R2. Research-first update cycle
 
+### Browser-assisted collection (manual)
+
+Hermes browser automation is available in the `nous` profile through the server's
+local Chrome DevTools endpoint (`http://127.0.0.1:9222`). Check
+`curl -fsS http://127.0.0.1:9222/json/version` before browser-dependent research.
+Use the Hermes browser tool for rendered pages; navigate in a separate tab and retain
+source URL, observed publication date, and quoted text in the dated research log.
+The endpoint shares a browser with other projects: do not close other tabs, change
+account settings, or export cookies/session data. Do not assume a working port now
+means it will be available after a gateway/server restart. If unavailable, record
+that the source could not be verified rather than inventing content. Browser access
+does not authorize publishing or an automated wiki sweep.
+
 1. Search (xurl full path): `/home/yollama/.local/bin/xurl search \"query\" -n 20`
    - Zero-result and exit-1 responses are common; retry with shorter terms; no `site:`.
 2. Append raw findings to `research/YYYY-MM-DD.md` (create dir with `mkdir -p` first -
@@ -116,7 +129,7 @@ label's center column; every `^` above a label likewise (a python assert pass is
 | stale HTML for deleted sheet | compiler never deletes | R4 step 1 |
 | xurl exit 1 | malformed/over-filtered query | shorten query; drop `site:` |
 | hub .md URL 404s on live site | hub md has YAML frontmatter → Jekyll renders it as `AI-Doomer-Wars-Wiki.html`; raw .md not served. Verify by curling the .html. (runbook.md has no frontmatter and serves as .md) | curl AI-Doomer-Wars-Wiki.html |
-| browser can't launch | Chrome profile lock | use xurl + curl; never fight the lock |
+| browser can't launch | Chrome profile lock, or CDP endpoint absent | check `http://127.0.0.1:9222/json/version`; use the configured CDP endpoint while running. If unavailable, record a source outage; do not fight the lock or imply that a browser result was verified. |
 
 ## R9. Rollback / recovery
 
@@ -131,7 +144,7 @@ label's center column; every `^` above a label likewise (a python assert pass is
 
 - Site: https://multipaulllllllllllllllll.github.io/ai-doomers-war/
 - Repo: github.com/multipaulllllllllllllllll/ai-doomers-war (main, Pages legacy /)
-- Inventory: 54 characters, 26 companies, 5 research logs (09-19/21/26/28/29), hub ~1k lines
+- Inventory: 54 characters, 26 companies, 7 research logs (09-15/19/21/26/28/29/30), hub ~1k lines
 - Compiler: `~/ai-doomer-wiki/convert_sheets.py` (418 LOC, stdlib only)
 - xurl: `/home/yollama/.local/bin/xurl`
 - Cron: `ec04ed3ec082` (every 6h: convert + mirror + push; no new research)
