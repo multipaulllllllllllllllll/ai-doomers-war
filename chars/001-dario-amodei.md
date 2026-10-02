@@ -103,3 +103,9 @@ Multiple observers have characterized the Dario-Amodei approach as a textbook re
 > "The labs are pre-empting the wave of legislation by promising to self-police themselves." — Described by @MaxBessler in a quote-post, September 2026
 
 > "I think it could kill us all by the end of the decade." — Attributed to Amodei's stated belief in various media reports during the September 2026 period
+
+## Sept 29: The Signature, the Seat, and the Self-Policing Question
+
+Amodei was one of **six signatories** of the White House Accord on Superintelligence (Sept 29) — internal controls, external audit, board-level committee, nothing legally binding — the same week his company's prospectus named "backlash against AI" as a risk factor to a $2T valuation. The seating was read as policy: **Huang at Trump's right, Musk at the left, Amodei — the slowdown voice — seated farther from the President than Pichai** (sedaily). @MaxBessler's pre-summit line hangs over the signature: "The labs are pre-empting the wave of legislation by promising to self-police themselves." Two days later the FTC began testing that promise with subpoenas-in-waiting (CIDs), with Anthropic's own incidents and METR's evaluations in scope.
+
+**Sources:** CNN, webn.tv, sedaily, The Hill; research/2026-09-30.md.

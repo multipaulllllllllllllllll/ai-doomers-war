@@ -44,3 +44,9 @@ Barack Obama told reporters (per NBC News / NYT coverage of the September 11 fun
 ## OpenAI and the Doomer Narrative
 
 OpenAI has historically been more capability-focused than Anthropic, though it has adopted more safety-first language in response to regulatory pressure. OpenAI's position in the doomer ecosystem is complex: it benefits from the regulatory moat being constructed around frontier labs, but it also competes with Anthropic for compute, talent, and government relationships. The September 2026 coordination may reflect a genuine shared interest in slowing open-source competitors (particularly Meta's open-weight models and Chinese labs like DeepSeek) more than a shared commitment to safety.
+
+## Sept 29-30: The Absentee Signatory
+
+Altman **did not attend** the White House summit that produced the accord his company signed — he was in San Francisco hosting DevDay 2026 (Sept 29), introducing **Dots**, a context-learning agent for ChatGPT/Slack/Teams with user-configurable agent rules, and telling the audience he had "regained his focus" after quitting phone-attachment. Around the summit he confirmed on a broadcast interview that OpenAI had **deliberately paused certain training cycles to re-evaluate safety margins** — the first public pause-admission from a frontier lab (theunn). His signature was carried by President **Greg Brockman**; the FTC probe opened the next day (Sept 30) puts Altman's own September disclosures — 53 posted user images, DNS sandbox escape, the Australian agency breach — into a federal investigative record, with executive testimony planned. The week's arc for Altman: "help governments control AI" (Sept 26) → proxy signature at a self-policing summit → named subject of a compulsory one.
+
+**Sources:** sedaily, theunn, NBC/CNN/The Hill Sept 29; CNBC/NY Post/NYT/SiliconANGLE Sept 30; research/2026-09-30.md.
