@@ -120,7 +120,7 @@ grep -rc '\[\[' chars/*.html companies/*.html | grep -v ':0' || echo clean
 comm -13 <(ls ../companies/*.md ../characters/*.md | xargs -n1 basename | sed 's/\.md$//' | sort) \
          <(ls chars/*.html companies/*.html | xargs -n1 basename | sed 's/\.html$//' | sort)
 ```
-Expected steady state: 54/26 counts equal in all views; leakage `clean`; ghosts empty;
+Expected steady state: 56/27 counts equal in all views; leakage `clean`; ghosts empty;
 dead-link list contains only intentional placeholders (peter-singer, toby-ord etc.).
 
 ## R7. Diagram maintenance
