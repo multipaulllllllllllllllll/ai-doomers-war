@@ -65,7 +65,10 @@ does not authorize publishing or an automated wiki sweep.
 - In fenced diagrams: box-drawing characters (U+2500) for lines, ` : ` for inline labels;
   never U+2014 sequences.
 - Gate before deploy: `grep -rlc $'\u2014' *.md characters companies research site/*.html`
-  must print nothing.
+  must print nothing. Gate scope also covers the pipeline script itself: 2026-10-09 cron
+  caught 5 em dashes in convert_sheets.py comments (reader-facing output stayed clean;
+  comments replaced with '--', cache cleared, regen verified byte-identical). Use `.md`
+  and `.py` in any whole-tree gate so script comments cannot regrow unnoticed.
 
 ## R3. Rebuild & deploy
 
