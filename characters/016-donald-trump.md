@@ -49,3 +49,9 @@ That evening he signed an executive order formally renaming "artificial intellig
 - **Xi meeting in Washington (late Sept):** Xi said AI must remain "always under human control"; Trump focused on the rebrand and dismissing regulation.
 - **Contradicted by Pope Leo XIV by name (Sept 28, papal plane):** concerns are **"not fake news"** and experts "should be taken seriously" (the first papal rebuttal of a US president's tech policy, three weeks before midterms. Trump now fights the doomer narrative on a moral front he can't out-rally: the pope.)
 **Sources:** AP/PBS NewsHour, NewsNation, Thenewweb (Sept 28-29, 2026).
+
+## October 9: The Third Blame Target
+
+The Axios catastrophic-event war games (Maria Curi, Oct 9) name Trump alongside Amodei and Altman as a figure a post-disaster public would turn against, "for his reluctance to regulate it." The labs' internal political premise, per the scoop: **Democrats ascendant after the midterms will move fast to shut down AI**, but be out of their depth, an aging Congress facing an economy "heavily intertwined with an AI infrastructure buildout." Trump's deregulatory posture ("AI-rogue fears are a hoax," the UN speech, covered above) is thus written into the rehearsal script as an accelerant: the man publicly denying the risk is privately accounted for in scenario planning built by the companies he protects. The scoop also cross-references the anti-Trump legitimacy front the wiki logged Oct 2: the pope's "not fake news" rebuttal, three weeks before midterms, against a president the labs assume will not be regulating them when the event comes.
+
+**Sources:** Axios (Maria Curi, Oct 9, 2026); research/2026-10-09.md.

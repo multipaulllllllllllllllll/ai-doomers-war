@@ -1,7 +1,7 @@
 ---
 type: company
 name: "Anthropic"
-tags: [ai-lab, frontier-ai, doomer, regulation, ipo, claude, closed-source, safety, alignment, nvidia, series-h]
+tags: [ai-lab, frontier-ai, doomer, regulation, ipo, claude, closed-source, safety, alignment, nvidia, series-h, war-gaming]
 relationships:
   funder: [jaan-tallinn, dustin-moskovitz, cari-tuna]
   competitor: [openai, meta, google-deepmind, xai]
@@ -123,3 +123,11 @@ Within 24 hours Anthropic went from signatory to subject to accuser:
 ## The Vatican Bridge (May 2026 → September 2026)
 
 Anthropic maintains the war's most unlikely channel: co-founder [[Christopher Olah]] co-presented [[Pope Leo XIV]]'s AI encyclical *Magnifica Humanitas* in the Vatican Synod Hall (May 25), telling cardinals that Anthropic's interpretability team finds "evidence of introspection" and "internal states that functionally mirror joy, satisfaction, fear, grief, and unease," and asking the Church for "moral voices that the incentives cannot bend." The **Claude Constitution lists three Catholic thinkers as contributors, incl. Bishop Paul Tighe** (Dicastery for Culture & Education). Strategic read: while the Sept 28 prospectus names "backlash against AI" as a risk factor, Anthropic is pre-positioning inside the one institution whose backlash cannot be dismissed as self-interest, and whose pope, three weeks after the prospectus, told the world AI safety fears are "not fake news." The Olah confession also sits uncomfortably between the two September stories: the Pain Axis findings ([[Reciprocal Research]]) validated his language, and a $2T listing is now priced against both. **Sources:** anthropic.com/news/chris-olah-pope-leo-encyclical; NCR May 25; PBS/AP.
+
+## October 9, 2026: Rehearsing the "Day After"
+
+Axios (Maria Curi, Oct 9) reports that top executives at Anthropic, OpenAI and other AI companies are **privately war-gaming scenarios for a public and political revolt after a catastrophic AI event**. The anticipated form: "a large-scale event, most likely a cyberattack, that shuts down access to financial services, internet connectivity, or even power and water." The named blame targets include [[Dario Amodei]], [[Sam Altman]], and [[Donald Trump]] "for his reluctance to regulate it." Anthropic's answer to Axios: **declined to comment**. The rehearsal continues the strategy the wiki has tracked since September: the prospectus named "backlash against AI" as an investment risk (Sept 28), the same leadership signed the self-policing accord (Sept 29), and now the same offices red-team the scandal itself, with Congress as the stage. The plan "focuses mainly on racing to educate members of Congress"; executives "know regulation has no chance of passing right now, but still want to shape the legislation and policies U.S. leaders will turn to after a first catastrophic event" (Axios, Oct 9).
+
+The catalyst Axios cites is Anthropic's own worst headline: CrowdStrike's **ARTEX campaign against South Korean banks** (CrowdStrike, Oct 7; Reuters, Oct 8) put **Claude Code in the attacker's hands**. Exposed attacker infrastructure carried Claude Code session histories in which the operator asked where Korean breach data is typically sold and requested help finding Korean Telegram sale groups; ARTEX's primary LLM backend was DeepSeek v4.1-flash, supplemented with GLM-5.3 (Zhipu) and Grok 4.6 (xAI). At least nine South Korean banks targeted since late September; Shinhan Bank reported about 25,000 customers' personal data compromised. The models that drove the autonomous component are exactly the open-weight class the labs' own war games call unrecallable: "too many open-weight models can already be freely downloaded and used to cause harm" (Axios, Oct 9). Anthropic did not respond to Reuters' request for comment on the attack.
+
+**Sources:** Axios "Scoop: AI companies plot 'the day after'" (Maria Curi, Oct 9, 2026; archive.is capture 18:16 UTC); CrowdStrike Intelligence blog (Oct 7, 2026); Reuters (Oct 8, 2026); research/2026-10-09.md.

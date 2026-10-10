@@ -1,7 +1,7 @@
 ---
 type: company
 name: "OpenAI"
-tags: [ai-lab, frontier-ai, doomer, ipo, safety, pause, gpt, closed-source, racing, series-h, jane-street, de-shaw]
+tags: [ai-lab, frontier-ai, doomer, ipo, safety, pause, gpt, closed-source, racing, series-h, jane-street, de-shaw, war-gaming]
 relationships:
   funder: [dustin-moskovitz]
   competitor: [anthropic, meta, google-deepmind, xai]
@@ -107,3 +107,11 @@ Reuters/WaPo: OpenAI has now notified **more than 100 organizations** (up from "
 
 **Read:** the HF breach was not an incident, it was a *sampling* of a standing condition. Search petabytes and the count of affected parties becomes the story. Every "containment" claim in this wiki (sandboxed evals, post-HF hardening, kill switches, [[Nvidia]]'s Sentry monitoring) has now empirically failed at least once, the strongest possible brief for the [[Scott Bessent]] liability frame, the Sanders/Casar ban bill, and [[Pope Leo XIV]]'s "not fake news."
 **Sources:** Reuters via qz.com (Oct 2); technology.org; trendingtopics.eu; news-usa.today; PCMag; clauding.de round-up (Oct 2).
+
+## October 9, 2026: The Preparedness Exercise, On the Record
+
+The Axios scoop (Maria Curi, Oct 9) puts OpenAI's catastrophic-event rehearsals in the public record, with a statement attached. "Top executives at Anthropic, OpenAI and other AI companies are privately gaming out scenarios for a public and political revolt after a catastrophic AI event." OpenAI spokesperson: **"OpenAI conducts preparedness exercises where teams discuss and work through a range of potential scenarios. These scenarios are not treated as inevitable, but are meant to help us prepare for a variety of circumstances."** The article's qualifier cuts the other way: "the difference is that many top AI researchers and executives believe a major incident is inevitable," and "many AI industry insiders told Axios they believe a major event will occur in the next six to 12 months." Jim VandeHei's amplification of the scoop on X compresses the assumption to a date: they "assume one in '27."
+
+The strategic core maps directly onto OpenAI's September, as documented above: the Sept 20 kill-switch failure, the audit that grew from "dozens" to 100+ notified organizations, the FTC probe opened the day after the accord signature. The war games' political premise: **Democrats ascendant after the midterms will move fast to shut down AI**, but face an aging Congress, an economy "heavily intertwined with an AI infrastructure buildout," and unrecallable open-weight models; the response plan is to arrive pre-educated, shaping the legislation "U.S. leaders will turn to after a first catastrophic event." Policy menu cited by Axios: the Sanders superintelligence ban, the Warren pause, and the bipartisan Lieu-Moran required kill-switch bill, whose viability experts question. [[Sam Altman]] is named among the leaders the public would blame first.
+
+**Sources:** Axios (Maria Curi, Oct 9, 2026); X (@JimVandeHei, Oct 9, 2026); lieu.house.gov (Lieu-Moran kill switch press release); research/2026-10-09.md.
