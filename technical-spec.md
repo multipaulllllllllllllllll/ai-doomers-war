@@ -1,7 +1,7 @@
 # Technical Specification - AI Doomer Wars Wiki
 
 **Project:** `~/ai-doomer-wiki` - an Obsidian-style research wiki compiled to a static HTML site (GitHub Pages).
-**Reviewed:** 2026-09-19 (commit `d91a78e`) | **Repo:** `https://github.com/multipaulllllllllllllllll/ai-doomers-war`
+**Reviewed:** 2026-10-23 | **Repo:** `https://github.com/multipaulllllllllllllllll/ai-doomers-war`
 
 ## 1. Overview
 
@@ -19,14 +19,14 @@ Design invariants:
 
 ```
  ~/ai-doomer-wiki/                    (SOURCE OF TRUTH - not git-tracked as a whole)
-   characters/NNN-name.md   53         - person sheets (frontmatter + body)
-   companies/NNN-name.md    24         - org sheets
-   research/YYYY-MM-DD.md    2         - daily raw-capture logs
-   AI-Doomer-Wars-Wiki.md  ~1k lines   - narrative hub (markdown only, not in repo)
-   convert_sheets.py       418 LOC     - the compiler (stdlib Python, zero deps)
+   characters/NNN-name.md   58         - person sheets (frontmatter + body)
+   companies/NNN-name.md    28         - org sheets
+   research/YYYY-MM-DD.md   10         - daily raw-capture logs
+   AI-Doomer-Wars-Wiki.md ~1.1k lines  - narrative hub (markdown only; mirrored into site/)
+   convert_sheets.py       436 LOC     - the compiler (stdlib Python, zero deps)
    site/                               - git repo root, published as-is to GitHub Pages
-     chars/*.html    53    (generated)
-     companies/*.html 24   (generated)
+     chars/*.html    58    (generated)
+     companies/*.html 28   (generated)
      *.html *.css          (HAND-MAINTAINED: index, characters, companies, about, style)
      characters/ companies/ research/ *.md   (mirrored sources, committed)
      .git/ -> multipaulllllllllllllllll/ai-doomers-war @ main
@@ -44,7 +44,7 @@ entity is truly replaced), `slug` = kebab-case, unique. Output URL:
 `site/chars/<NNN-slug>.html` (type: character) or `site/companies/<NNN-slug>.html`
 (type: company). The numeric prefix is stripped from all cross-reference keys.
 
-Frontmatter (custom YAML-subset; field census across 77 sheets):
+Frontmatter (custom YAML-subset; field census across 86 sheets):
 
 | field | req | type | notes |
 |---|---|---|---|
@@ -55,6 +55,7 @@ Frontmatter (custom YAML-subset; field census across 77 sheets):
 | `tags` | yes | inline list `[a, b]` | sidebar chips |
 | `involvement` | yes | `\|` multiline | sidebar excerpt (first 300 chars) |
 | `relationships` | yes | block mapping key: [list] | edge labels -> sidebar links |
+| `investor_relations` | companies | block mapping key: scalar | investor facts (CEO, equity); data-only, not rendered |
 | `sources` | no | inline list | sidebar Sources |
 
 Parser limitations (deliberate, ~50 LOC custom YAML subset):
@@ -95,9 +96,9 @@ relationship targets render `href="#"` (visible-but-dead; audit with:
 
 | file | layout | sync duty when sheets change |
 |---|---|---|
-| `index.html` (317 LOC) | hero + dated `timeline-item` cards (`data-phase` early/mid/late - only these styled) + structure section | add cards for new cycles; keep hero numbers in sync with sheets |
-| `characters.html` (128) | grouped pill browser (`entity-browser`, 1 column; groups=Roles with `pill pill-lab/pol/funder/media/...`) | add/remove one `<a class="pill" href="chars/NNN-slug.html">` per change |
-| `companies.html` (157) | `entity-grid` cards (`entity-card/ec-name/ec-role/ec-tags`) | rebuild card list from `.md` frontmatter; hand-roles for legacy cards are kept in a dict when regenerating |
+| `index.html` (398 LOC) | hero + dated `timeline-item` cards (`data-phase` early/mid/late - only these styled) + structure section | add cards for new cycles; keep hero numbers in sync with sheets |
+| `characters.html` (133) | grouped pill browser (`entity-browser`, 1 column; groups=Roles with `pill pill-lab/pol/funder/media/...`) | add/remove one `<a class="pill" href="chars/NNN-slug.html">` per change |
+| `companies.html` (177) | `entity-grid` cards (`entity-card/ec-name/ec-role/ec-tags`) | rebuild card list from `.md` frontmatter; hand-roles for legacy cards are kept in a dict when regenerating |
 | `about.html` (61) | prose + GitHub links | update counts |
 | `style.css` (363) | dark theme via `:root` vars (bg/card/text/muted/accent + per-entity accents) | `pre.diagram`: `white-space:pre; overflow-x:auto; box-drawing-safe mono stack @ .78rem` |
 
@@ -122,8 +123,8 @@ relationship targets render `href="#"` (visible-but-dead; audit with:
 
 ## 8. Known Gaps & Risks (accepted)
 
-1. **`AI-Doomer-Wars-Wiki.md` hub is not mirrored into the repo** - single-copy risk.
-   Mitigation: copy it into `site/` each sync (added to runbook).
+1. **Hub mirror depends on a manual copy** - single-copy risk if a sync skips the runbook step.
+   Mitigation: copy `AI-Doomer-Wars-Wiki.md` into `site/` each sync (runbook R3).
 2. **Index pages drift silently** - no automation checks that pills/cards match the
    sheet set. Runbook step "verify index" (diff hrefs vs `ls`).
 3. **Stale artifacts on rename/delete** - compiler never deletes; manual `rm` of both
