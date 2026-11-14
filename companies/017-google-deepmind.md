@@ -28,3 +28,9 @@ DeepMind represents the established tech giant in the AI race. It is less associ
 - **Gemini**: Family of frontier AI models
 - **AlphaFold**: Protein folding research (Nobel-adjacent)
 - **AlphaCode**: Coding AI
+
+## November 12, 2026: Named in the halt-frontier suit
+
+Public Citizen announced a coalition filing on November 12, 2026, and Reuters independently reported a suit against Anthropic, Google, Meta, OpenAI, and SpaceXSI seeking to halt frontier training. This sheet records Google as a named defendant in that Reuters / Public Citizen pairing. The exact complaint caption and full plaintiff list were not recovered from a complaint PDF this sweep, so this page does not treat every coalition name as a verified party.
+
+**Sources:** Public Citizen (November 12, 2026); Reuters (November 12, 2026); research/2026-11-13.md.

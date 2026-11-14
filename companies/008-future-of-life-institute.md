@@ -35,3 +35,9 @@ FLI was early-funded by Dustin Moskovitz, the Facebook co-founder who is also th
 ## Significance
 
 FLI represents the media/campaign dimension of the doomer ecosystem, translating technical arguments into public pressure campaigns that provide political cover for regulation.
+
+## November 12, 2026: Coalition coverage around halt-frontier
+
+Public Citizen's November 12, 2026 announcement and Reuters's independent report describe a coalition suit seeking to halt frontier AI training. Future of Life Institute appears in surrounding coalition coverage of that news cycle. Because the live complaint PDF caption was not recovered this sweep, this sheet does not assert that FLI is a named plaintiff. Treat FLI as a coalition-adjacent safety nonprofit in the same week until a caption check lands.
+
+**Sources:** Public Citizen (November 12, 2026); Reuters (November 12, 2026); research/2026-11-13.md.

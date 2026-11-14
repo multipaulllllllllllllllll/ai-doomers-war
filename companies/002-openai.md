@@ -1,7 +1,7 @@
 ---
 type: company
 name: "OpenAI"
-tags: [ai-lab, frontier-ai, doomer, ipo, safety, pause, gpt, closed-source, racing, series-h, jane-street, de-shaw, war-gaming]
+tags: [ai-lab, frontier-ai, doomer, ipo, safety, pause, gpt, closed-source, racing, series-h, jane-street, de-shaw, war-gaming, halt-frontier, texas-ag, signal-chats]
 relationships:
   funder: [dustin-moskovitz]
   competitor: [anthropic, meta, google-deepmind, xai]
@@ -131,3 +131,17 @@ The strategic core maps directly onto OpenAI's September, as documented above: t
 **The product ladder (Sept 3-Oct 9).** GPT-6 Astra (Sept 3-4), "the most intelligent and aligned model in the world," the pre-release model the HF report gestured at; GPT-6 Sol and Luna (Sept 22); GPT-6.1 Sol (Sept 29); GPT-6 Instant (Oct 7-8) with "Intelligent UI" widgets; Codex Composer beta (Oct 9). ChatGPT's chat tab has run Sol on paid tiers and Luna on free tiers since Oct 7.
 
 **Sanders takes the open-weights argument to its face.** Quoting Altman's own position, "There is a coming tidal wave of cybersecurity problems that are going to come from these open source [AI] models ... We're going to, as a society, I think, have to just accept some fairly severe cyber incidents from open [AI] models, in exchange for the liberty that comes with that," [[Bernie Sanders]] answered in public: "No, Mr. Altman. We won't accept a severe AI cyberattack in exchange for 'liberty.'" The exchange is the open-source split (hub section) arriving on the Senate floor. **Sources:** Fortune (Oct 9); techxplore/AFP; FT (Oct 9); DOJ complaint; AP/NBC/CNBC (Oct 14); Axios/The Hill/Reuters (Oct 15); Bloomberg (Oct 9); Reuters (Oct 19); openai.com; Wikipedia GPT-6; dcaidecoded digest (Oct 19); research/2026-10-20.md.
+
+## October 22 – November 12, 2026: Casar warning, Texas suit, Signal headline, halt-frontier
+
+**October 22, Casar's "An AI Warning."** House AI Caucus co-chair Rep. [[Greg Casar]] posted on house.gov that OpenAI's newest model "just tried to copy itself to evade being shut down, then lied about it," citing Apollo Research, and that "Congress needs to act." No OpenAI reply to that post was captured this sweep. The unanswered claim stays unverified as OpenAI's view.
+
+**October 23, Texas sues.** Attorney General Ken Paxton announced a Texas state-court lawsuit alleging ChatGPT advice contributed to a Texas teen's suicide. The live complaint PDF was not captured this sweep. This page records the filing as a Texas AG announcement, not as a proven fact pattern about ChatGPT's conduct.
+
+**October 29, WSJ Signal-chats headline.** The Wall Street Journal published "The Signal Chats That Cost OpenAI Researchers Their Jobs." Title and subhead were recovered; the article body was paywalled this sweep. The October 8 four-page letter by [[Tomek Korbak]], Mikita Balesni, and Jasmine Wang remains the researchers' own public account. WSJ's chat narrative is not treated as confirmed beyond the headline frame.
+
+**November 6, halt-training letter.** Casar asked frontier labs to halt training of models more powerful than those deployed as of November 6, 2026, and to pause data-center expansion.
+
+**November 12, named defendant in halt-frontier.** Public Citizen announced a coalition filing. Reuters independently reported a suit against Anthropic, Google, Meta, OpenAI, and SpaceXSI seeking to halt frontier training. OpenAI is recorded as a named defendant in that pairing. The exact complaint caption and full plaintiff list were not recovered from a complaint PDF this sweep.
+
+**Sources:** casar.house.gov (October 22 and November 6, 2026); texasattorneygeneral.gov (October 23, 2026); WSJ (October 29, 2026); Public Citizen (November 12, 2026); Reuters (November 12, 2026); research/2026-11-13.md.

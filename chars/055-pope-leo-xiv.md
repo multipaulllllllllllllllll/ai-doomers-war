@@ -87,3 +87,9 @@ The pope chose **Christopher Olah**, Anthropic co-founder, head of interpretabil
 - Whether any U.S. bishop conference or the pope himself responds to the Pain Axis paper (Olah's May speech pre-empted it)
 - A papal call for an international body in the Department-of-AI-bill window before the midterms
 - Whether Trump escalates against "the pope says" the way he did against "the experts say"
+
+## October 30, 2026: Autonomous weapons remarks, not a new encyclical
+
+Catholic News Service, carried by the USCCB, reported that Pope Leo XIV told the International Catholic Legislators Network on October 30, 2026, that the development and use of autonomous weapons is "an ethical tragedy" and "a grave concern for the Church and all humanity." This is a CNS / USCCB report of remarks. It is not a new encyclical and it does not replace *Magnifica Humanitas*. The Future of Life Institute appears in surrounding coverage of the same news cycle; this sheet does not convert that coverage into a Vatican-FLI joint statement.
+
+**Sources:** USCCB / Catholic News Service (October 30, 2026); research/2026-11-13.md.

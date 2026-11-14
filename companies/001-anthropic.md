@@ -1,7 +1,7 @@
 ---
 type: company
 name: "Anthropic"
-tags: [ai-lab, frontier-ai, doomer, regulation, ipo, claude, closed-source, safety, alignment, nvidia, series-h, war-gaming]
+tags: [ai-lab, frontier-ai, doomer, regulation, ipo, claude, closed-source, safety, alignment, nvidia, series-h, war-gaming, s1, fable, mythos, halt-frontier]
 relationships:
   funder: [jaan-tallinn, dustin-moskovitz, cari-tuna]
   competitor: [openai, meta, google-deepmind, xai]
@@ -15,7 +15,7 @@ investor_relations:
   series_a_lead: ["jaan-tallinn", "dustin-moskovitz"]
   nvidia_equity: "$10 billion"
   ipo_target: "$2T valuation"
-  ipo_timing: "could IPO as soon as next month (~October 2026)"
+  ipo_timing: "S-1 public October 26, 2026; CNBC November 10 range $70 to $78; Reuters November 13 demand coverage"
   regulatory_beneficiary: "superintelligence-ban"
 involvement: |
   San Francisco-based AI lab founded in 2021 by Dario and Daniela Amodei (ex-OpenAI). Creator of Claude family of models. NVIDIA committed $10B in equity (part of $70B total across AI labs including $30B to OpenAI). IPO: confidential S-1 June 1, PUBLIC PROSPECTUS Sept 28, 2026 (Reuters), $2T+ expected valuation, Nasdaq, Nvidia anchor up to $10B, debut possibly pushed past the midterms; the filing itself names 'backlash against AI' as a risk factor. Dario Amodei published "We Must Pace the Frontier" (~Sep 12, 2026) calling for industry slowdown while the company races toward IPO. Jacob Coxon's exit letter (Sep 8, 2026) hit 170-172M views; he still holds OpenAI equity. TIME cover story "The AI Tipping Point" frames the Coxon resignation as the catalyst. Central to the doomer regulatory narrative, CEO coordinated with OpenAI on three-lab pacing agreement within 48 hours of Coxon's post.
@@ -141,3 +141,15 @@ The October revelations run in a sequence that reads like a lab surrendering gro
 ## October 13-19: The $16.8 Billion Quarter and the $1.5T Question
 
 At the Oct 14 San Francisco investor day, [[Dario Amodei]] and CFO Krishna Rao walked investors through Q1 $4.7B, Q2 $11.6B, Q3 $16.8B: 45 percent sequential growth, a hard deceleration from Q2's roughly 147 percent, annualized revenue expected below the $100B line. The offsets: adjusted profitability in Q3 (second straight quarter), cash-flow positive, $1.70 of revenue per $1 of compute. The market's answer came through Reuters (Oct 15): prospective IPO investors now discuss roughly **$1.5 trillion, down from about $2 trillion**. The filing clock is public: the S-1 must appear by Friday Oct 23 to support a Nov 9 roadshow under the SEC 15-day rule, and the debut is expected **mid-November**, after the Nov 3 midterms, against a September narrative that had the listing days before them. The company that rehearsed the day after a catastrophe (Oct 9 Axios scoop) is now walking into its own listing with a deceleration curve, an FTC subpoena, and a watchdog embedded in its office. **Sources:** Anthropic newsroom (Oct 6, Oct 9, Oct 15); Reuters (Oct 9, Oct 15, Oct 19); NYT (Oct 9); Axios (Maria Curi, Oct 9); TechCrunch (Oct 9, Oct 15); Ars Technica (Oct 19); FT via Yahoo (Oct 14); CNBC (Oct 13-15); Gate News (Oct 17); metr.org (Oct 14); research/2026-10-20.md.
+
+## October 26 – November 13, 2026: Public S-1, Fable and Mythos 5.2, halt-frontier
+
+**October 26, the S-1 is no longer confidential.** Anthropic's newsroom said a confidential Form S-1 had been submitted June 1, 2026, and that the registration statement was now posted. The proposed Nasdaq ticker is ANT. CNBC (November 2, 2026) reported third-quarter figures drawn from that prospectus. CNBC (November 10, 2026) reported that Anthropic set a price range of $70 to $78 for the upcoming IPO. Reuters (November 13, 2026) reported investors flocking to the IPO while questioning the durability of an AI lead. The September 28 prospectus already named "backlash against AI" as a risk factor; the October 26 public S-1 and the November price-range story are the listing mechanics catching up to that risk factor, not a new invention of it.
+
+**November 5, METR's acceleration assessment.** [[METR]] published "Anthropic AI R&D Acceleration Assessment," claiming a roughly 6x median coding-agent speedup inside a time-horizon evaluation frame. Independent outlets recovered this sweep did not reproduce that multiplier. The 6x figure stays METR-primary. See the METR sheet.
+
+**November 9, Claude Fable and Mythos 5.2.** Anthropic's product post described Fable as a new Claude and Mythos 5.2 as a specialized cyber model. Company-claim scientific anecdotes in that post (including black-hole and Fermat-adjacent examples) are not independently verified this sweep and are not repeated here as demonstrated science. Fable and Mythos 5.2 are recorded as Anthropic's own product claims in the IPO window.
+
+**November 12, named defendant in halt-frontier.** Public Citizen announced a coalition filing on November 12, 2026. Reuters independently reported a suit against Anthropic, Google, Meta, OpenAI, and SpaceXSI seeking to halt frontier training. This sheet records Anthropic as a named defendant in that Reuters / Public Citizen pairing. The exact complaint caption and full plaintiff list were not recovered from a complaint PDF this sweep, so coalition names beyond that defendant pairing are not treated as verified parties.
+
+**Sources:** anthropic.com S-1 newsroom (October 26, 2026); CNBC (November 2 and November 10, 2026); Reuters (November 13, 2026); metr.org (November 5, 2026); anthropic.com Claude Fable and Mythos 5.2 (November 9, 2026); Public Citizen (November 12, 2026); Reuters (November 12, 2026); research/2026-11-13.md.

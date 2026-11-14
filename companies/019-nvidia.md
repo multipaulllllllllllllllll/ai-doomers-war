@@ -1,14 +1,14 @@
 ---
 type: company
 name: "NVIDIA"
-tags: [semiconductor, gpu, ai-infrastructure, equity-investor, openai, anthropic, jensen-huang, compute, regulatory, moat]
+tags: [semiconductor, gpu, ai-infrastructure, equity-investor, openai, anthropic, jensen-huang, colette-kress, compute, regulatory, moat, ceo-transition]
 relationships:
   investor_in: [openai, anthropic]
   competitor: [google-deepmind, meta-ai, xai]
   partner: [microsoft, openai]
 investor_relations:
   type: "Public company (NASDAQ: NVDA)"
-  ceo: "Jensen Huang"
+  ceo: "Colette Kress (interim, November 12, 2026); Jensen Huang resigned November 12, 2026"
   equity_investments: "$70 billion total across AI labs"
   anthropic_equity: "$10 billion"
   openai_equity: "$30 billion"
@@ -81,3 +81,15 @@ Hours after NVIDIA launched the Open Agent Safety Platform, **Pope Leo XIV**, ab
 ## October 14: Huang Answers the Pope
 
 Fortune (Oct 14): Jensen Huang responded to [[Pope Leo XIV]]'s safety criticism, the pope had named him by name in September while NVIDIA shipped its guardrails platform the same afternoon, with a conciliatory frame: "We all care about the same thing." The pope's answer to the UN "hoax" speech had also taken a shot at a tech leader who "says there should be no limits placed and no government regulation." Huang's response marks the first direct bridge attempt between the legitimacy front (Vatican) and the engineering front (OASP): the moral authority is now someone the industry's most valuable company publicly seeks common ground with rather than dismisses. **Sources:** Fortune (Oct 14, 2026); Axios (Sept 28, 2026); research/2026-10-20.md.
+
+## November 8-12, 2026: Independent investigation, Huang resigns, Colette Kress interim CEO
+
+On November 8, 2026, NVIDIA's board of directors said it had initiated an independent investigation. This page records the company's stated predicate. It does not expand that investigation into a foreign-intelligence story the recovered NVIDIA text does not carry.
+
+On November 10, 2026, the independent members of the NVIDIA board said they were "deeply disappointed" in Jensen Huang and had asked him to resign. The same statement named Joon H. Kim of Wachtell, Lipton, Rosen and Katz as counsel.
+
+On November 12, 2026, NVIDIA announced that Huang had resigned as CEO. The board appointed [[Colette Kress]], then executive vice president and chief financial officer, "to serve as interim Chief Executive Officer, effective immediately." Huang "will remain with the company in an advisory capacity during the transition." Harvey C. Jones was elected board chair. Reuters the same day independently reported the resignation and described the board's stated predicate as personal misconduct / serious personal misconduct. Reuters's later "extramarital affairs" wording is not NVIDIA's November 12 language and is not copied into NVIDIA's mouth here.
+
+The CEO change does not unwind NVIDIA's September-October dual posture: Open Agent Safety Platform vendor (September 28) and equity investor across frontier labs, including the Anthropic anchor discussed in earlier sweeps. It does change the named executive who inherits Pope Leo XIV's September 28-29 critique of Huang (guardrails the same afternoon as "no limits" and "no government regulation") and Huang's October 14 Fortune reply ("We all care about the same thing").
+
+**Sources:** NVIDIA board statement (November 8, 2026); NVIDIA independent members statement (November 10, 2026); NVIDIA CEO transition release (November 12, 2026); Reuters (November 12, 2026); research/2026-11-13.md.

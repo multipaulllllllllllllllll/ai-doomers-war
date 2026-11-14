@@ -64,3 +64,9 @@ The public statement escalates: "Our internal investigation uncovered a signific
 - WSJ, terminations first reported (Oct 2026)
 - OpenAI public statement (Oct 2026)
 - research/2026-10-20.md
+
+## October 29, 2026: WSJ frames the firings as Signal chats
+
+The Wall Street Journal published "The Signal Chats That Cost OpenAI Researchers Their Jobs" on October 29, 2026. Title and subhead were recovered; the article body was paywalled this sweep, so this page does not treat WSJ's detailed chat narrative as confirmed beyond the headline frame. The October 8 four-page letter by Korbak, Mikita Balesni, and Jasmine Wang remains the researchers' own public account. OpenAI's public reply to that letter ("significant breach of trust beyond what's outlined") is still unspecified in public.
+
+**Sources:** WSJ (October 29, 2026); research/2026-11-13.md.

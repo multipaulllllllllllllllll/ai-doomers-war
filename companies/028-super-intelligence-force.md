@@ -59,3 +59,9 @@ The Super Intelligence Force is the Trump administration's answer to the questio
 - The Hill (Oct 20, 2026); Semafor via dcaidecoded (Oct 19, 2026)
 - Axios, Maria Curi (Oct 9, 2026); thenextweb (Oct 17, 2026)
 - research/2026-10-20.md
+
+## November 5, 2026: Do not collapse into DOJ's Super Intelligence Task Force
+
+On November 5, 2026, the Department of Justice announced a Super Intelligence Task Force under Deputy Attorney General Todd Blanche, with Attorney General / DNI Jay Clayton and Bindner in the leadership line described on the DOJ page. That DOJ body is not this White House Super Intelligence Force. Keep the two structures in separate sentences. The DOJ announcement is treated as single-source (justice.gov) this sweep. Clayton appearing in both orbits (DNI chair of the White House task force; named on the DOJ page) is a personnel overlap, not proof that the two task forces are the same institution.
+
+**Sources:** Department of Justice (November 5, 2026); research/2026-11-13.md.
