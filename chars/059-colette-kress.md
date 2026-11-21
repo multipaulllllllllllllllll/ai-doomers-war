@@ -39,3 +39,11 @@ Kress therefore inherits NVIDIA's dual posture from the September-October record
 - Whether the board names a permanent CEO before Anthropic's IPO prices, or whether "interim" becomes the listing-window status
 - Whether Kress, as former CFO, changes NVIDIA's public line on regulation versus Huang's CBS-era "engineering problem, not a regulatory freeze" frame
 - Whether the independent investigation produces a public finding, or remains a stated predicate without a published report
+- Whether Trump's Huang comment track (Axios, LAT, Reuters/Xi) becomes a restoration, or stays comments while BIS and TSMC tighten around the company she now runs
+- Whether the California AG subpoena (Bonta, Nov. 19, 2026) is answered by NVIDIA under Kress, or is still a Huang-era fact pattern in the public file
+
+**Sources (tenth sweep):** Axios (Nov. 11, 2026); Los Angeles Times (Nov. 12, 2026); Reuters (Nov. 19, 2026); California DOJ (Nov. 19, 2026); research/2026-11-20.md.
+
+## See Also
+
+[[nvidia]] [[donald-trump]] [[rob-bonta]] [[palmer-luckey]] [[howard-lutnick]] [[tsmc]]

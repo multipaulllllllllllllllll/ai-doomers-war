@@ -153,3 +153,9 @@ At the Oct 14 San Francisco investor day, [[Dario Amodei]] and CFO Krishna Rao w
 **November 12, named defendant in halt-frontier.** Public Citizen announced a coalition filing on November 12, 2026. Reuters independently reported a suit against Anthropic, Google, Meta, OpenAI, and SpaceXSI seeking to halt frontier training. This sheet records Anthropic as a named defendant in that Reuters / Public Citizen pairing. The exact complaint caption and full plaintiff list were not recovered from a complaint PDF this sweep, so coalition names beyond that defendant pairing are not treated as verified parties.
 
 **Sources:** anthropic.com S-1 newsroom (October 26, 2026); CNBC (November 2 and November 10, 2026); Reuters (November 13, 2026); metr.org (November 5, 2026); anthropic.com Claude Fable and Mythos 5.2 (November 9, 2026); Public Citizen (November 12, 2026); Reuters (November 12, 2026); research/2026-11-13.md.
+
+## IPO close (company newsroom) and day-two tape
+
+Anthropic posted an IPO-close newsroom note (anthropic.com/news/ipo-close). Channel News Asia reported that the IPO bank closed the position meant to stabilize the stock, removing a source of support. This sheet records those two outlets. It does not invent a greenshoe dollar total from a secondary brief, and it does not treat a live tape print as a wiki-owned price. The halt-frontier defendant pairing above is unchanged by the close.
+
+**Sources:** anthropic.com IPO-close newsroom; Channel News Asia; research/2026-11-20.md.

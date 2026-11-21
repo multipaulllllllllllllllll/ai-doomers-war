@@ -35,3 +35,13 @@ sources:
 
 ## See Also
 [[scott-bessent]] [[donald-trump]] [[effective-altruism]] [[anthropic]] [[openai]] [[Hugging Face]] [[irregular]]
+
+## November 11, 2026: Cabinet fight with Commerce
+
+The Treasury sheet's Secretary is the named counterweight in the Megaspeed fight. Axios (Nov. 11, 2026) reported that [[scott-bessent]] called an internal [[us-commerce]] memo against NVIDIA sales to China "bullshit" and said [[howard-lutnick]] had a "long track record of being a liar." President [[donald-trump]] told Axios he would "probably" overrule Lutnick. This is a Cabinet split over export policy, not a new Treasury sanctions package. Do not fold it into the September SARs / FinCEN channel above.
+
+**Sources:** Axios (Nov. 11, 2026); AP; research/2026-11-20.md.
+
+## See Also (tenth sweep)
+
+[[howard-lutnick]] [[us-commerce]] [[nvidia]] [[china-hawks]]

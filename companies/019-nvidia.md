@@ -93,3 +93,23 @@ On November 12, 2026, NVIDIA announced that Huang had resigned as CEO. The board
 The CEO change does not unwind NVIDIA's September-October dual posture: Open Agent Safety Platform vendor (September 28) and equity investor across frontier labs, including the Anthropic anchor discussed in earlier sweeps. It does change the named executive who inherits Pope Leo XIV's September 28-29 critique of Huang (guardrails the same afternoon as "no limits" and "no government regulation") and Huang's October 14 Fortune reply ("We all care about the same thing").
 
 **Sources:** NVIDIA board statement (November 8, 2026); NVIDIA independent members statement (November 10, 2026); NVIDIA CEO transition release (November 12, 2026); Reuters (November 12, 2026); research/2026-11-13.md.
+
+## November 11-20, 2026: China sales, licenses, subpoena, foundry halt
+
+The week after Huang resigned, NVIDIA sat in four separate China tracks that should not be collapsed into one plot.
+
+**Presidential comment track.** Trump told Axios he would "probably" overrule [[howard-lutnick]] on NVIDIA chip sales to China (Axios, Nov. 11, 2026). The Los Angeles Times (Nov. 12, 2026) reported that Trump stood by Huang. Reuters (Nov. 19, 2026) reported that Trump referred to Huang's situation in a talk with Xi. [[palmer-luckey]] told TechCrunch (Nov. 18, 2026) that China is thrilled to have Huang out, so Luckey wants him reinstated; keeping Huang out "makes America weaker."
+
+**License table.** Chairman [[brian-mast]] released a May 11 BIS H200 license summary: about 3.44 million chips requested, 879,868 approved, including 75,000 for Alibaba and 150,000 for Tencent, with Maginfra and Beijing New Matrix named. NVIDIA says it followed then-current rules and later stopped H200 shipments to China.
+
+**California subpoena.** Attorney General [[rob-bonta]] announced an investigative subpoena on NVIDIA (California DOJ, Nov. 19, 2026) over chips and confidential information to China, and investor statements tied to reporting on Huang's relationships. That is a state civil investigative demand, not a criminal indictment and not a federal export case.
+
+**Foundry and remote access.** BIS issued a remote-access rule (Nov. 19, 2026). U.S. News, citing Reuters sources, reported that [[tsmc]] stopped 16-nanometer-and-below orders from unlicensed Chinese designers. The Information reported that Moonshot AI scrapped a roughly $150 million B300 rental through an Indonesian cloud; that item is single-outlet and paywalled, and is not treated as independently confirmed here.
+
+Brian Chau / [[effort-news]] published an opinion piece arguing the board removed Huang on false pretenses. That is opinion, not a court finding.
+
+**Sources:** Axios (Nov. 11, 2026); Los Angeles Times (Nov. 12, 2026); Reuters (Nov. 19, 2026); TechCrunch (Nov. 18, 2026); House Foreign Affairs (Mast license release); California DOJ (Nov. 19, 2026); BIS (Nov. 19, 2026); U.S. News / Reuters (Nov. 19, 2026); The Information (Moonshot); Effort News; research/2026-11-20.md.
+
+## See Also
+
+[[colette-kress]] [[howard-lutnick]] [[scott-bessent]] [[brian-mast]] [[rob-bonta]] [[palmer-luckey]] [[tsmc]] [[us-commerce]] [[china-hawks]] [[donald-trump]]

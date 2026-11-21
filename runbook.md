@@ -159,8 +159,8 @@ label's center column; every `^` above a label likewise (a python assert pass is
 
 - Site: https://multipaulllllllllllllllll.github.io/ai-doomers-war/
 - Repo: github.com/multipaulllllllllllllllll/ai-doomers-war (main, Pages legacy /)
-- Inventory: 59 characters, 28 companies, 11 research logs (09-15/19/21/26/28/29/30, 10-02, 10-09, 10-20, 11-13), hub ~1141 lines
+- Inventory: 66 characters, 31 companies, 12 research logs (09-15/19/21/26/28/29/30, 10-02, 10-09, 10-20, 11-13, 11-20), hub ~1185 lines
 - Compiler: `~/ai-doomer-wiki/convert_sheets.py` (436 lines, stdlib only)
 - xurl: `/home/yollama/.local/bin/xurl`
 - Cron: `ec04ed3ec082` (every 6h: convert + mirror + push; no new research)
-- Runbook last reviewed: 2026-10-23
+- Runbook last reviewed: 2026-11-20

@@ -59,3 +59,17 @@ The Axios catastrophic-event war games (Maria Curi, Oct 9) name Trump alongside 
 ## Mid-October: The Super Intelligence Force
 
 The September accord's successor structure now has a name, a chair and a doctrine. The White House "Super Intelligence (SI) Force" task force is chaired by DNI **Jay Clayton**, with working groups per Semafor: an accord-implementation group (Clayton + National Cyber Director Sean Cairncross), incident-reporting protocols and long-term coordination under Defense Undersecretary **Emil Michael**, a law-enforcement and consumer-protection committee under FTC Chair **Andrew Ferguson**, critical-infrastructure and workforce partnerships under OPM's **Scott Kupor**, and a PCAST report commission on AI risk. Members span Vance, [[Scott Bessent]], Hegseth, Kratsios, Klomp, Bisignano, Rudd, Wiles and Walters. Doctrine per The Hill (Oct 20): bet on existing criminal and civil law (DOJ, FTC) instead of new legislation, with the FTC's consumer-protection authority called "tailor-made" by allies and doubted by legal experts; the task force has told AI companies to report rogue behavior immediately and fix it, the mandate Axios tied to Anthropic's Oct 9 disclosure. Trump's stated frame is unchanged: whoever wins in AI, wins. The structure answers the Sept 29 kill-switch-accord contradiction with bureaucracy: an accord enforcement-adjacent to the labs that signed it, led by the administration that refuses legislation, in the same week the FTC subpoenaed two of those labs. **Sources:** The Hill (Oct 20, 2026); Semafor via dcaidecoded (Oct 19); Axios (Oct 9); thenextweb (Oct 17); research/2026-10-20.md.
+
+## November 11-20, 2026: China week, Huang, and the Lutnick override
+
+President Trump told Axios he would "probably" overrule Commerce Secretary [[howard-lutnick]] on NVIDIA chip sales to China (Axios, Nov. 11, 2026). The same reporting cycle covered an internal Commerce "Megaspeed" memo against those sales. Treasury Secretary [[scott-bessent]] called the memo "bullshit" and said Lutnick had a "long track record of being a liar" (Axios, Nov. 11, 2026; AP).
+
+On November 12, 2026, the Los Angeles Times reported that Trump stood by Jensen Huang after the NVIDIA board asked Huang to resign. Newsweek later quoted Trump on taking care of "our geniuses" in a Huang defense tied to China. Reuters (Nov. 19, 2026) reported that Trump said he referred to the ex-NVIDIA boss Huang's situation briefly in a talk with Xi. That is a presidential comment track, not a restoration order in the recovered sources.
+
+The comment track ran next to tightening, not instead of it. BIS issued a remote-access rule (Nov. 19, 2026). Reuters sources told U.S. News that [[tsmc]] stopped 16-nanometer-and-below orders from unlicensed Chinese designers the same calendar day.
+
+**Sources:** Axios (Nov. 11, 2026); AP; Los Angeles Times (Nov. 12, 2026); Newsweek; Reuters (Nov. 19, 2026); BIS (Nov. 19, 2026); U.S. News / Reuters (Nov. 19, 2026); research/2026-11-20.md.
+
+## See Also
+
+[[howard-lutnick]] [[scott-bessent]] [[china-hawks]] [[nvidia]] [[us-commerce]] [[colette-kress]] [[palmer-luckey]] [[marco-rubio]]

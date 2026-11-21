@@ -43,3 +43,13 @@ Bessent sits at the intersection of the wiki's political cluster (Trump 016, Van
 
 ## See Also
 [[donald-trump]] · [[jd-vance]] · [[effective-altruism]] · [[anthropic]] · [[openai]] · [[Hugging Face]] · [[irregular]]
+
+## November 11, 2026: Megaspeed, Lutnick, and the Cabinet split
+
+Axios (Nov. 11, 2026) reported a Cabinet fight over an internal Commerce "Megaspeed" memo against selling NVIDIA chips into China. Bessent called the memo "bullshit" and said [[howard-lutnick]] had a "long track record of being a liar" (Axios, Nov. 11, 2026; AP). President [[donald-trump]] told Axios he would "probably" overrule Lutnick. This page records Bessent as the Cabinet counterweight on that sale, not as a member of the [[china-hawks]] faction page. The national-security channel above (open-source models, SARs, FinCEN) is a different gate from the chip-export fight. Do not collapse them.
+
+**Sources:** Axios (Nov. 11, 2026); AP; research/2026-11-20.md.
+
+## See Also (tenth sweep)
+
+[[howard-lutnick]] [[us-commerce]] [[us-treasury]] [[nvidia]] [[china-hawks]] [[donald-trump]]

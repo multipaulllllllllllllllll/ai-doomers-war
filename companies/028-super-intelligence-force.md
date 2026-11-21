@@ -65,3 +65,9 @@ The Super Intelligence Force is the Trump administration's answer to the questio
 On November 5, 2026, the Department of Justice announced a Super Intelligence Task Force under Deputy Attorney General Todd Blanche, with Attorney General / DNI Jay Clayton and Bindner in the leadership line described on the DOJ page. That DOJ body is not this White House Super Intelligence Force. Keep the two structures in separate sentences. The DOJ announcement is treated as single-source (justice.gov) this sweep. Clayton appearing in both orbits (DNI chair of the White House task force; named on the DOJ page) is a personnel overlap, not proof that the two task forces are the same institution.
 
 **Sources:** Department of Justice (November 5, 2026); research/2026-11-13.md.
+
+## November 19, 2026: BIS remote-access rule is not this task force
+
+The Bureau of Industry and Security issued an Interim Final Rule "addressing remote access of American super intelligence technology" (BIS, Nov. 19, 2026). That rule is a Commerce product. It is not a Super Intelligence Force action. The shared "super intelligence" vocabulary does not merge the White House SI Force, the DOJ Super Intelligence Task Force, and BIS export controls into one body. Record the rule on the Commerce and TSMC sheets; do not treat it as an SI Force mandate.
+
+**Sources:** BIS (Nov. 19, 2026); research/2026-11-20.md.

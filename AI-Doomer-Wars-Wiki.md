@@ -404,7 +404,7 @@ Critics note that Anthropic was founded on open-source principles (their origina
 
 Comprehensive individual wiki pages for every person and organization are maintained as separate files for graph-compatible YAML frontloaders:
 
-### People (59 character sheets)
+### People (66 character sheets)
 
 **Anthropic / AI Labs**
 - [[characters/001-dario-amodei|Dario Amodei]], CEO, Anthropic
@@ -447,11 +447,19 @@ Comprehensive individual wiki pages for every person and organization are mainta
 - [[characters/017-greg-casar|Greg Casar]], US Representative (D-Texas)
 - [[characters/018-josh-hawley|Josh Hawley]], US Senator (R-Missouri)
 - [[characters/029-hakeem-jeffries|Hakeem Jeffries]], House Minority Leader
+- [[characters/054-scott-bessent|Scott Bessent]], Treasury Secretary
+- [[characters/060-howard-lutnick|Howard Lutnick]], Commerce Secretary
+- [[characters/061-marco-rubio|Marco Rubio]], Secretary of State / National Security Adviser
+- [[characters/062-brian-mast|Brian Mast]], House Foreign Affairs Chairman
+- [[characters/063-andrew-garbarino|Andrew Garbarino]], House Homeland Chairman
+- [[characters/064-john-moolenaar|John Moolenaar]], Select Committee on the CCP Chairman
+- [[characters/065-rob-bonta|Rob Bonta]], California Attorney General
 
 **Tech Leaders**
 - [[characters/005-sam-altman|Sam Altman]], CEO, OpenAI
 - [[characters/019-elon-musk|Elon Musk]], CEO, xAI / SpaceX / Tesla
 - [[characters/059-colette-kress|Colette Kress]], Interim CEO, NVIDIA (November 12, 2026)
+- [[characters/066-palmer-luckey|Palmer Luckey]], Anduril founder; wants Huang reinstated
 
 **Media / Journalism**
 - [[characters/020-brian-chau|Brian Chau]], Journalist / Researcher, Effort News
@@ -479,7 +487,7 @@ Comprehensive individual wiki pages for every person and organization are mainta
 - [[characters/051-jon-smith|Jon Smith]], AI Safety Commentator
 - [[characters/052-ryan-gomez|Ryan G Gomez]], AI Safety Commentator
 
-### Companies & Organizations (28 company sheets)
+### Companies & Organizations (31 company sheets)
 
 **AI Labs**
 - [[companies/001-anthropic|Anthropic]], AI lab, Claude, $2T IPO target
@@ -509,6 +517,11 @@ Comprehensive individual wiki pages for every person and organization are mainta
 - [[companies/019-netflix|Netflix]], Released "The AI Doc" (Sept 2026)
 - [[companies/020-effort-news|Effort News]], Brian Chau's investigative outlet
 - [[companies/028-super-intelligence-force|Super Intelligence Force (SI Force)]], White House task force, accord implementation
+- [[companies/019-nvidia|NVIDIA]], chips, H200 licenses, CEO transition
+- [[companies/025-us-treasury|U.S. Treasury (Bessent)]], Megaspeed listing fight
+- [[companies/029-china-hawks|China Hawks]], faction label, not a legal entity
+- [[companies/030-us-commerce|U.S. Department of Commerce]], BIS, remote-access rule
+- [[companies/031-tsmc|TSMC]], 16 nm halt after BIS rule
 
 ---
 
@@ -862,6 +875,14 @@ On a single date, September 8, 2026, at least **four separate events** landed si
 | **Nov 10** | **Anthropic IPO range.** CNBC: company sets a price range of $70 to $78 | CNBC |
 | **Nov 12** | **halt-frontier lawsuit.** Public Citizen announces a coalition filing; Reuters independently reports a suit against Anthropic, Google, Meta, OpenAI, and SpaceXSI seeking to halt frontier training. Exact caption and full plaintiff list were not recovered from a complaint PDF this sweep | Public Citizen; Reuters |
 | **Nov 13** | **Anthropic IPO demand.** Reuters: investors flock to the Anthropic IPO while questioning durability of an AI lead | Reuters |
+| **Nov 11** | **Bessent-Lutnick fight.** Axios: Treasury Secretary Scott Bessent confronted Commerce Secretary Howard Lutnick over failure to list NVIDIA customer Megaspeed; Oval sequence with Rubio, Hegseth, Greer, and Musk; Commerce denied the confrontation. AP: Bessent "I blame Howard"; Lutnick denies a conflict and recuses from NVIDIA; Bessent wants Megaspeed listed and does not want further H200 cuts | Axios; AP |
+| **Nov 16** | **Trump "would not mind" Huang's return.** Los Angeles Times: Trump said he would not mind Jensen Huang returning as NVIDIA CEO; "It was not put at risk"; Alice Huang "Nobody's proven that she's a spy" | Los Angeles Times |
+| **Nov 18** | **Luckey wants Huang reinstated.** TechCrunch: Palmer Luckey said China is "thrilled to have Jensen out" and that knocking Huang out "makes America weaker" | TechCrunch |
+| **Nov 18-19** | **Trump-Xi dinner, Huang mentioned briefly.** Reuters: Trump told Fox's Jacqui Heinrich he spoke with Xi about AI and referred to Huang only briefly as "such a brilliant man"; denied hearing Alice Huang was a spy | Reuters |
+| **Nov 19** | **Bonta subpoena, BIS remote-access rule, TSMC 16 nm halt.** California AG Rob Bonta served an investigative subpoena on NVIDIA. BIS issued an Interim Final Rule on remote access of American super intelligence technology. U.S. News citing Reuters: TSMC stopped 16 nm-and-below orders from unlicensed Chinese designers; Samsung review is single-outlet | oag.ca.gov; bis.gov; U.S. News / Reuters |
+| **Nov 19** | **Mast H200 license release.** House Foreign Affairs Chairman Brian Mast released BIS AI-chip license information for China: about 3.44 million H200s requested, 879,868 approved, including 75,000 Alibaba and 150,000 Tencent | foreignaffairs.house.gov |
+| **Nov 18-20** | **Anthropic IPO close and day-two print.** Company: about $93.5 billion including greenshoe, about $26 billion Class N. CNA: bank closed the stabilizing position Thursday; ANT around $84.16, down about 13.4 percent on day two, just above $83. Day-two trading is not a safety verdict | anthropic.com; Channel News Asia |
+| **Nov 20** | **House PRC open-weight report.** Chairmen Garbarino and Moolenaar urge removal of PRC open-weight models from federal systems and high-risk critical infrastructure; committee findings: 47 federal civilian agencies, 23 of 34 high-risk sectors | homeland.house.gov; Select Committee on the CCP |
 
 **What the timeline shows:**
 - The week of Sept 8-14 contained multiple coordinated releases, documented by the sub-hour timing of the Coxon letter, Hubinger response, FP article, and 3-lab agreement on Sept 8 alone
@@ -873,6 +894,7 @@ On a single date, September 8, 2026, at least **four separate events** landed si
 - **October opens with the rehearsal becoming the news**: Oct 7, a live AI-driven bank campaign (ARTEX/Claude Code) is disclosed; Oct 9, Axios reports the labs are war-gaming its political aftermath. The wiki's central claim, that backlash is treated as a schedulable asset, now has an on-record planning process attached to it, including the OpenAI spokesperson formulation ("not treated as inevitable") set against the insiders' own expectation of an event within 6 to 12 months.
 - **Mid-October turns the rehearsal into paperwork**: the disclosure day (Oct 9), the nine-state litigation map (Oct 14), the 50+ page FTC CIDs (Oct 15), and the SI Force's existing-laws doctrine (Oct 19-20) arrive as one package; the labs that war-gamed the day after now face the subpoena, the embedded evaluator, and the state AG all in the same two weeks, while OpenAI races to close $30B above $1.4T before Anthropic's mid-November listing prices the sector first.
 - **Late October through November 13 converts paperwork into a listing, a CEO change, and a halt suit**: Anthropic's S-1 goes public (Oct 26, ticker ANT) and picks up a $70 to $78 range (Nov 10) while Reuters still questions the durability of the lead (Nov 13); Casar moves from an Apollo-cited shutdown-evasion warning (Oct 22) to a halt-training letter (Nov 6) to a Public Citizen / Reuters halt-frontier complaint naming Anthropic, Google, Meta, OpenAI, and SpaceXSI (Nov 12); Texas adds a single-source AG filing on ChatGPT and a teen suicide (Oct 23); METR publishes a 6x acceleration number that remains METR-primary (Nov 5); DOJ stands up a Super Intelligence Task Force that is not the White House SI Force (Nov 5); and NVIDIA's board runs an independent investigation into Huang (Nov 8), asks him to resign (Nov 10), and installs Colette Kress as interim CEO (Nov 12) in the same week the labs it finances are being sued to stop training.
+- **November 14 through 20 turns the listing window into a China-chip Cabinet fight and a House PRC-model report**: Trump backs Huang in public while Lutnick stalls Megaspeed and Bessent attacks the stall (Axios denied by Commerce; AP on the record); Mast publishes H200 license volumes; Bonta subpoenas NVIDIA; BIS closes a remote-access loophole and TSMC stops unlicensed 16 nm work; Garbarino and Moolenaar tell federal agencies there is "no such thing as a civilian Chinese AI model"; Anthropic's IPO posts close figures and a CNA day-two slide that is not a safety verdict.
 
 ### Documented Coordination Observations
 
@@ -1138,4 +1160,26 @@ Backup log: `research/2026-11-13.md`. Do not rewrite `research/2026-10-20.md`.
 
 ---
 
-*Last updated: 2026-11-13 (ninth sweep: Oct 21-Nov 13 delta after the October 20 eighth sweep / `0c5717d`; backup log `research/2026-11-13.md`; 59 character sheets, 28 company sheets). This wiki is a living document. All claims are sourced to real-time X posts, news threads, and named accounts. Sections marked "@account" or "X post" are direct quotes or paraphrases of named sources. Sections titled "Documented Claims" or "Key Structural Claims" present analytical claims made by named accounts, not verified facts.*
+## TENTH SWEEP (November 20, 2026): China chips, House PRC models, IPO close
+
+*See `research/2026-11-20.md` for full citations and status tags. Other-LLM Fri Nov 20 brief was a lead list, not a source of record.*
+
+The ninth sweep closed on November 13 with Anthropic in the listing window, Public Citizen's halt-frontier filing, and Colette Kress as NVIDIA interim CEO. The tenth sweep is the China-chip fight that opened inside the Cabinet while that listing closed.
+
+1. **Trump in Shenzhen, Huang as a talking point.** President Trump dined with Xi Jinping at APEC. In a Fox News interview with Jacqui Heinrich, he said he spoke with Xi about artificial intelligence and referred to Jensen Huang only briefly: "We did not discuss it. I might have referred to it just briefly because it's such a tragedy. It's a tragedy. He's such a brilliant man." Asked whether Alice Huang's affair posed a national-security threat, he said "I haven't heard that" and "I haven't heard that she was a spy" (Reuters, Nov. 18/19). The Los Angeles Times (Nov. 16) quoted him saying he "would not mind" Huang returning as NVIDIA CEO, and that "It was not put at risk." Newsweek packaged a "take care of our geniuses" line as secondary to the Reuters transcript. Palmer Luckey said China is "thrilled to have Jensen out" and wants Huang reinstated (TechCrunch, Nov. 18). That is advocacy.
+
+2. **Lutnick versus Bessent.** Axios (Nov. 11) reported that Treasury Secretary Scott Bessent confronted Commerce Secretary Howard Lutnick over failure to place NVIDIA customer Megaspeed on the Entity List, and that a Situation Room / Oval sequence ended with Trump saying "Let's get it done," after which Lutnick still had not listed the firm. Commerce denied the confrontation: "This is false. Secretary Bessent and Secretary Lutnick had no such conversation" (spokesperson Kristen Eichamer). AP independently recorded Bessent saying "I blame Howard," "He has a conflict of interest," and "Commerce has the pen," plus Lutnick's denial and recusal claim. Bessent wants Megaspeed listed and does not want further H200 volume cuts. Do not collapse those into one hawk stance. Secretary of State Marco Rubio's May memo and later letter sit on the hawk side of the listing fight (AP). Lutnick is the stall, not a China Hawks roster member.
+
+3. **Licenses, a subpoena, and a foundry halt.** House Foreign Affairs Chairman Brian Mast released BIS H200 license information: about 3.44 million H200s requested, 879,868 approved, including 75,000 for Alibaba and 150,000 for Tencent, with Maginfra and Beijing New Matrix named as possible installers / suspected smuggling fronts (House Foreign Affairs). California Attorney General Rob Bonta served an investigative subpoena on NVIDIA (CA OAG, Nov. 19). BIS issued an Interim Final Rule addressing remote access of American super intelligence technology (BIS, Nov. 19). U.S. News, citing Reuters sources, reported that TSMC then stopped taking 16-nanometer-and-below orders from unlicensed Chinese designers. Samsung "also reviewing" is single-outlet. Effort News published an opinion that the NVIDIA board removed Huang on false pretenses; that remains advocacy (Effort News).
+
+4. **House PRC open-weight report (Nov. 20).** Chairmen Andrew Garbarino (Homeland) and John Moolenaar (Select Committee on the CCP) urged removal of PRC open-weight models from federal systems and high-risk critical infrastructure. Committee findings as stated: PRC open-weight models in use at 47 federal civilian agencies; present in 23 of 34 high-risk critical infrastructure sectors. Named families include DeepSeek, Qwen, Kimi, GLM, MiniMax, Yi, Baichuan, InternLM, SenseNova, and Hunyuan. Committee line: "There is no such thing as a civilian Chinese AI model." Fourteen recommendations and a sixty-day clock aimed at GSA, OMB, CISA, and NIST; recommendation titles were not recovered from a PDF annex this sweep.
+
+5. **Anthropic close figures.** Company newsroom: IPO closed, about $93.5 billion including greenshoe, about $26 billion Class N. Channel News Asia: Morgan Stanley closed the stabilizing position Thursday; ANT around $84.16, down about 13.4 percent on day two, just above the $83 IPO price. Day-two trading is not a safety or governance verdict. Moonshot's reported $150 million B300 Indonesia scrap is a paywalled The Information headline only. A Clement Delangue X remark was not recovered (xurl API 453).
+
+6. **New sheets.** Characters 060-066 (Lutnick, Rubio, Mast, Garbarino, Moolenaar, Bonta, Luckey). Companies 029-031 (China Hawks as a faction label, U.S. Department of Commerce, TSMC). Existing updates: Trump, Bessent, Kress, Anthropic, NVIDIA, Effort News, Treasury, SI Force (BIS vocabulary distinguished from the White House task force).
+
+Backup log: `research/2026-11-20.md`. Do not rewrite `research/2026-10-20.md` or `research/2026-11-13.md`.
+
+---
+
+*Last updated: 2026-11-20 (tenth sweep: Nov 14-20 delta after the November 13 ninth sweep; backup log `research/2026-11-20.md`; 66 character sheets, 31 company sheets). This wiki is a living document. All claims are sourced to real-time X posts, news threads, and named accounts. Sections marked "@account" or "X post" are direct quotes or paraphrases of named sources. Sections titled "Documented Claims" or "Key Structural Claims" present analytical claims made by named accounts, not verified facts.*
