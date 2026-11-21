@@ -10,7 +10,7 @@ investor_relations:
   type: "Public company (NASDAQ: NVDA)"
   ceo: "Colette Kress (interim, November 12, 2026); Jensen Huang resigned November 12, 2026"
   equity_investments: "$70 billion total across AI labs"
-  anthropic_equity: "$10 billion"
+  anthropic_equity: "About $10 billion in Anthropic's concurrent Class N placement (CNBC, Nov. 19, 2026)"
   openai_equity: "$30 billion"
   other_partners_equity: "$30 billion"
 involvement: |
@@ -109,6 +109,14 @@ The week after Huang resigned, NVIDIA sat in four separate China tracks that sho
 Brian Chau / [[effort-news]] published an opinion piece arguing the board removed Huang on false pretenses. That is opinion, not a court finding.
 
 **Sources:** Axios (Nov. 11, 2026); Los Angeles Times (Nov. 12, 2026); Reuters (Nov. 19, 2026); TechCrunch (Nov. 18, 2026); House Foreign Affairs (Mast license release); California DOJ (Nov. 19, 2026); BIS (Nov. 19, 2026); U.S. News / Reuters (Nov. 19, 2026); The Information (Moonshot); Effort News; research/2026-11-20.md.
+
+## November 19, 2026: CEO search reporting, Musk at DealBook
+
+The Guardian (Nov. 19, 2026), citing Bloomberg, reported that Heidrick & Struggles had begun contacting candidates to succeed Jensen Huang, and that Arm chief executive Rene Haas had been approached. The same piece named other reported names: Ian Buck, Lisa Su, and Johny Srouji. Haas called Huang "a legend." NVIDIA board chair Harvey C. Jones, in that reporting, does not intend to reinstate Huang as CEO. This is a single-outlet Bloomberg/Guardian item. It is not a NVIDIA press release. This sheet does not create person pages for Haas, Buck, Su, or Srouji from that item.
+
+CNBC (Nov. 19, 2026) reported Elon Musk at the New York Times DealBook summit: removing Huang is like kicking Michael Jordan off the team. That quote is CNBC's. The same CNBC live-updates file said NVIDIA invested about $10 billion in Anthropic's concurrent Class N private placement. This sheet does not invent the rest of a truncated DealBook transcript.
+
+**Sources:** The Guardian, citing Bloomberg (Nov. 19, 2026); CNBC (Nov. 19, 2026); research/2026-11-20.md.
 
 ## See Also
 

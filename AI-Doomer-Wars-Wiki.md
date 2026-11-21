@@ -487,7 +487,7 @@ Comprehensive individual wiki pages for every person and organization are mainta
 - [[characters/051-jon-smith|Jon Smith]], AI Safety Commentator
 - [[characters/052-ryan-gomez|Ryan G Gomez]], AI Safety Commentator
 
-### Companies & Organizations (31 company sheets)
+### Companies & Organizations (32 company sheets)
 
 **AI Labs**
 - [[companies/001-anthropic|Anthropic]], AI lab, Claude, $2T IPO target
@@ -522,6 +522,7 @@ Comprehensive individual wiki pages for every person and organization are mainta
 - [[companies/029-china-hawks|China Hawks]], faction label, not a legal entity
 - [[companies/030-us-commerce|U.S. Department of Commerce]], BIS, remote-access rule
 - [[companies/031-tsmc|TSMC]], 16 nm halt after BIS rule
+- [[companies/032-public-first-action|Public First Action]], 501(c)(4), Anthropic $40 million
 
 ---
 
@@ -881,7 +882,9 @@ On a single date, September 8, 2026, at least **four separate events** landed si
 | **Nov 18-19** | **Trump-Xi dinner, Huang mentioned briefly.** Reuters: Trump told Fox's Jacqui Heinrich he spoke with Xi about AI and referred to Huang only briefly as "such a brilliant man"; denied hearing Alice Huang was a spy | Reuters |
 | **Nov 19** | **Bonta subpoena, BIS remote-access rule, TSMC 16 nm halt.** California AG Rob Bonta served an investigative subpoena on NVIDIA. BIS issued an Interim Final Rule on remote access of American super intelligence technology. U.S. News citing Reuters: TSMC stopped 16 nm-and-below orders from unlicensed Chinese designers; Samsung review is single-outlet | oag.ca.gov; bis.gov; U.S. News / Reuters |
 | **Nov 19** | **Mast H200 license release.** House Foreign Affairs Chairman Brian Mast released BIS AI-chip license information for China: about 3.44 million H200s requested, 879,868 approved, including 75,000 Alibaba and 150,000 Tencent | foreignaffairs.house.gov |
-| **Nov 18-20** | **Anthropic IPO close and day-two print.** Company: about $93.5 billion including greenshoe, about $26 billion Class N. CNA: bank closed the stabilizing position Thursday; ANT around $84.16, down about 13.4 percent on day two, just above $83. Day-two trading is not a safety verdict | anthropic.com; Channel News Asia |
+| **Feb 12 / Jul 21** | **Anthropic donates $40 million to Public First Action.** Two company newsroom notes: $20 million each to a bipartisan 501(c)(4); gifts restricted from candidate elections. Axios (Jul. 22) described the group as tied to three super PACs. IRS Form 990s were not pulled | anthropic.com; Axios |
+| **Nov 18-20** | **Anthropic IPO prices, then closes.** Pricing note (Nov. 18): 980,000,000 Class A at $83.00, combined with Class N about $107.3 billion. Close (Nov. 20): 1,127,000,000 shares including the full underwriters' option, about $93.5 billion Class A plus about $26 billion Class N. CNA: bank closed the stabilizing position Thursday; ANT around $84.16, down about 13.4 percent on day two, just above $83. Day-two trading is not a safety verdict | anthropic.com; Channel News Asia |
+| **Nov 19** | **ANT open print; NVIDIA CEO-search reporting.** CNBC: ANT opened at $111.50; NVIDIA about $10 billion in the Class N placement. Guardian, citing Bloomberg: Heidrick contacting CEO candidates; Arm's Rene Haas approached. Single-outlet on the search | CNBC; The Guardian |
 | **Nov 20** | **House PRC open-weight report.** Chairmen Garbarino and Moolenaar urge removal of PRC open-weight models from federal systems and high-risk critical infrastructure; committee findings: 47 federal civilian agencies, 23 of 34 high-risk sectors | homeland.house.gov; Select Committee on the CCP |
 
 **What the timeline shows:**
@@ -1174,12 +1177,14 @@ The ninth sweep closed on November 13 with Anthropic in the listing window, Publ
 
 4. **House PRC open-weight report (Nov. 20).** Chairmen Andrew Garbarino (Homeland) and John Moolenaar (Select Committee on the CCP) urged removal of PRC open-weight models from federal systems and high-risk critical infrastructure. Committee findings as stated: PRC open-weight models in use at 47 federal civilian agencies; present in 23 of 34 high-risk critical infrastructure sectors. Named families include DeepSeek, Qwen, Kimi, GLM, MiniMax, Yi, Baichuan, InternLM, SenseNova, and Hunyuan. Committee line: "There is no such thing as a civilian Chinese AI model." Fourteen recommendations and a sixty-day clock aimed at GSA, OMB, CISA, and NIST; recommendation titles were not recovered from a PDF annex this sweep.
 
-5. **Anthropic close figures.** Company newsroom: IPO closed, about $93.5 billion including greenshoe, about $26 billion Class N. Channel News Asia: Morgan Stanley closed the stabilizing position Thursday; ANT around $84.16, down about 13.4 percent on day two, just above the $83 IPO price. Day-two trading is not a safety or governance verdict. Moonshot's reported $150 million B300 Indonesia scrap is a paywalled The Information headline only. A Clement Delangue X remark was not recovered (xurl API 453).
+5. **Anthropic close figures.** Two company newsroom notes. Pricing (Nov. 18): 980,000,000 Class A at $83.00; combined with Class N about $107.3 billion. Close (Nov. 20): 1,127,000,000 shares including the full underwriters' option; about $93.5 billion Class A plus about $26 billion Class N. CNBC (Nov. 19): ANT opened at $111.50; NVIDIA about $10 billion in the Class N placement. Fortune (Nov. 19), citing the 424B4: Amazon about 14.6% and Google about 13.4% in nonvoting Class N. Channel News Asia: Morgan Stanley closed the stabilizing position Thursday; ANT around $84.16, down about 13.4 percent on day two, just above the $83 IPO price. Day-two trading is not a safety or governance verdict. Moonshot's reported $150 million B300 Indonesia scrap is a paywalled The Information headline only. A Clement Delangue X remark was not recovered (xurl API 453). Jack Clark's alleged 3.7% stake was not recovered from the S-1/A cache this fill.
 
-6. **New sheets.** Characters 060-066 (Lutnick, Rubio, Mast, Garbarino, Moolenaar, Bonta, Luckey). Companies 029-031 (China Hawks as a faction label, U.S. Department of Commerce, TSMC). Existing updates: Trump, Bessent, Kress, Anthropic, NVIDIA, Effort News, Treasury, SI Force (BIS vocabulary distinguished from the White House task force).
+6. **New sheets.** Characters 060-066 (Lutnick, Rubio, Mast, Garbarino, Moolenaar, Bonta, Luckey). Companies 029-032 (China Hawks as a faction label, U.S. Department of Commerce, TSMC, Public First Action). Existing updates: Trump, Bessent, Kress, Anthropic (pricing vs close, Public First Action gifts), NVIDIA (CEO-search reporting, Musk DealBook), Effort News, Treasury, SI Force (BIS vocabulary distinguished from the White House task force).
+
+7. **Public First Action.** Anthropic donated $20 million on February 12, 2026 and $20 million on July 21, 2026 to Public First Action, a bipartisan 501(c)(4). Company newsroom: gifts cannot be used to influence any candidate's election. Axios (Jul. 22, 2026) described the group as tied to three super PACs. IRS Form 990s and FEC filings were not pulled. This is not National Philanthropic Trust.
 
 Backup log: `research/2026-11-20.md`. Do not rewrite `research/2026-10-20.md` or `research/2026-11-13.md`.
 
 ---
 
-*Last updated: 2026-11-20 (tenth sweep: Nov 14-20 delta after the November 13 ninth sweep; backup log `research/2026-11-20.md`; 66 character sheets, 31 company sheets). This wiki is a living document. All claims are sourced to real-time X posts, news threads, and named accounts. Sections marked "@account" or "X post" are direct quotes or paraphrases of named sources. Sections titled "Documented Claims" or "Key Structural Claims" present analytical claims made by named accounts, not verified facts.*
+*Last updated: 2026-11-20 (tenth sweep: Nov 14-20 delta after the November 13 ninth sweep; same-day grokbot fill; backup log `research/2026-11-20.md`; 66 character sheets, 32 company sheets). This wiki is a living document. All claims are sourced to real-time X posts, news threads, and named accounts. Sections marked "@account" or "X post" are direct quotes or paraphrases of named sources. Sections titled "Documented Claims" or "Key Structural Claims" present analytical claims made by named accounts, not verified facts.*
