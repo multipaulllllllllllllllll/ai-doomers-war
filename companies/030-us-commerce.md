@@ -34,6 +34,10 @@ Commerce is the department that writes the chip rules this wiki is tracking. Sec
 
 Jeffrey Kessler remains the under secretary named on the earlier Entity List tranche (September 2026, 25 Chinese entities, 80% China AI-chip cutoff). That September action is still on the NVIDIA sheet. This page does not re-litigate it.
 
+## Anthropic counterpart
+
+[[Jack Clark]] is not a Commerce official. He is Anthropic's Head of Public Benefit. The Commerce ties on his sheet are policy: House testimony (June 25, 2025) asking Congress to tighten semiconductor export controls to China and to fund CAISI inside NIST; Anthropic's position on the Commerce Framework for AI Diffusion (Import AI 397); and the June 12, 2026 BIS restricted-access letter to Anthropic (CSIS). Secretary [[howard-lutnick]] remains the political face of this department. Details live on the Clark people sheet, not here.
+
 ## What to Watch
 
 - Whether a presidential override of Lutnick is written, or whether BIS keeps tightening by Federal Register while Trump talks Huang with Xi
@@ -43,4 +47,4 @@ Jeffrey Kessler remains the under secretary named on the earlier Entity List tra
 
 ## See Also
 
-[[howard-lutnick]] [[donald-trump]] [[scott-bessent]] [[brian-mast]] [[china-hawks]] [[nvidia]] [[tsmc]] [[us-treasury]]
+[[howard-lutnick]] [[donald-trump]] [[scott-bessent]] [[brian-mast]] [[china-hawks]] [[nvidia]] [[tsmc]] [[us-treasury]] [[jack-clark]] [[anthropic]]

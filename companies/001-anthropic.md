@@ -84,13 +84,13 @@ Anthropic is a Delaware public-benefit corporation. The S-1/A describes a stack 
 
 ## Jack Clark
 
-Jack Clark co-founded Anthropic in January 2021. The company leadership page lists him as Head of Public Benefit. The S-1/A says he leads the Anthropic Institute, "an effort to share research from across Anthropic with external partners and the public." Anthropic's October 20, 2026 Institute post is signed in that Head of Public Benefit role.
+[[Jack Clark]] co-founded Anthropic in January 2021. The company leadership page lists him as Head of Public Benefit. The S-1/A says he leads the Anthropic Institute, "an effort to share research from across Anthropic with external partners and the public." Anthropic's March 11, 2026 Institute post is signed in that Head of Public Benefit role (live JSON-LD datePublished 2026-03-11; the October 20 dating previously on this page was wrong).
 
 Before Anthropic he was Policy Director at OpenAI, responsible for the lab's engagement with governments and regulators. Before that he was a technology journalist (The Register, BusinessWeek). He writes the Import AI newsletter. He is one of the seven co-founders inside Founder LLC, so he sits on the stockholder-vote lock described above, not merely on a comms org chart. The S-1/A separately names him, with Dario Amodei, Daniela Amodei, and Dr. Neil "Buddy" Shah, as an initial manager of the Anthropic Public Benefit Fund. That fund is not the Founder LLC.
 
-Clark has no character sheet on this wiki. Coverage lives here because the public-benefit title, the Institute, Import AI, and the Founder LLC vote are the same person. Treating Anthropic's safety brand as Dario's essay plus Daniela's chair, without Clark, leaves out the co-founder who was hired to talk to governments before the company existed.
+People sheet: [[jack-clark]]. Coverage stays on this company page because the public-benefit title, the Institute, Import AI, and the Founder LLC vote are the same person. Treating Anthropic's safety brand as Dario's essay plus Daniela's chair, without Clark, leaves out the co-founder who was hired to talk to governments before the company existed.
 
-**Sources:** anthropic.com/company/leadership; anthropic.com/news/the-anthropic-institute (October 20, 2026); SEC Form S-1/A (Jack Clark biography and Founder LLC / Public Benefit Fund sections).
+**Sources:** anthropic.com/company/leadership; anthropic.com/news/the-anthropic-institute (March 11, 2026); SEC Form S-1/A (Jack Clark biography and Founder LLC / Public Benefit Fund sections); research/2026-11-21.md.
 
 ## Public First Action ($40 million)
 
@@ -248,6 +248,7 @@ Channel News Asia reported that the IPO bank closed the position meant to stabil
 
 ## See Also
 
+- [[jack-clark]]
 - [[public-first-action]]
 - [[nvidia]]
 - [[dario-amodei]]

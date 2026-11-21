@@ -404,7 +404,7 @@ Critics note that Anthropic was founded on open-source principles (their origina
 
 Comprehensive individual wiki pages for every person and organization are maintained as separate files for graph-compatible YAML frontloaders:
 
-### People (66 character sheets)
+### People (67 character sheets)
 
 **Anthropic / AI Labs**
 - [[characters/001-dario-amodei|Dario Amodei]], CEO, Anthropic
@@ -412,6 +412,7 @@ Comprehensive individual wiki pages for every person and organization are mainta
 - [[characters/003-evan-hubinger|Evan Hubinger]], Alignment Lead, Anthropic
 - [[characters/004-daniela-amodei|Daniela Amodei]], President, Anthropic
 - [[characters/006-chris-karnofsky|Chris Karnofsky]], Co-founder, Anthropic
+- [[characters/067-jack-clark|Jack Clark]], Co-founder and Head of Public Benefit, Anthropic
 - [[characters/021-ilya-sutskever|Ilya Sutskever]], Co-founder and CS, OpenAI (ex)
 - [[characters/027-mira-murati|Mira Murati]], Former CTO, OpenAI
 - [[characters/034-brad-lightcap|Brad Lightcap]], CFO/COO, OpenAI
@@ -1187,4 +1188,10 @@ Backup log: `research/2026-11-20.md`. Do not rewrite `research/2026-10-20.md` or
 
 ---
 
-*Last updated: 2026-11-20 (tenth sweep: Nov 14-20 delta after the November 13 ninth sweep; same-day grokbot fill; backup log `research/2026-11-20.md`; 66 character sheets, 32 company sheets). This wiki is a living document. All claims are sourced to real-time X posts, news threads, and named accounts. Sections marked "@account" or "X post" are direct quotes or paraphrases of named sources. Sections titled "Documented Claims" or "Key Structural Claims" present analytical claims made by named accounts, not verified facts.*
+## ELEVENTH SWEEP (November 21, 2026): Jack Clark people sheet
+
+People sheet `characters/067-jack-clark.md`. Co-founder and Head of Public Benefit at Anthropic; leads The Anthropic Institute (datePublished March 11, 2026). Commerce ties are policy, not employment: House testimony June 25, 2025 (export controls; CAISI/NIST), diffusion-rule position, June 12, 2026 BIS restricted-access letter. Alleged 3.7% stake still not written. Institute dating on the Anthropic company page corrected from October 20, 2026 to March 11, 2026. Backup log `research/2026-11-21.md`.
+
+---
+
+*Last updated: 2026-11-21 (Jack Clark people sheet; Institute date correction; backup log `research/2026-11-21.md`; 67 character sheets, 32 company sheets). This wiki is a living document. All claims are sourced to real-time X posts, news threads, and named accounts. Sections marked "@account" or "X post" are direct quotes or paraphrases of named sources. Sections titled "Documented Claims" or "Key Structural Claims" present analytical claims made by named accounts, not verified facts.*
