@@ -23,7 +23,7 @@ sources:
 
 ## The liability doctrine
 
-When the frontier consensus (Amodei's pacing essay, Altman/Musk/Hassabis alignment, the "external safety access" push) converged on a government gate, Bessent's CNBC answer cut the other way: **"It is humans who are responsible."** No liability shield for AI. OpenAI management, not the model, owns the Hugging Face incident.
+When the frontier consensus (Amodei's pacing essay, Altman/Musk/Hassabis alignment, the "external safety access" push) converged on a government gate, Bessent's CNBC answer cut the other way: **"It is humans who are responsible."** No liability shield for AI. [[OpenAI]] management, not the model, owns the [[Hugging Face]] incident.
 
 Why it matters for this wiki:
 
@@ -31,7 +31,7 @@ Why it matters for this wiki:
 - Bessent's frame converts every breakout incident into a *negligence claim against the operator*, and negligence insurance prices risk that regulation merely redistributes
 - Critics (Prof. St-Onge, viral): "If AI really is as dangerous as their **paid activists** claim, the solution is liability" (directly attacking the EA-funded Capitol Hill advocacy pipeline)
 - Accelerationists celebrated ("Bessent just NUKED the 'rogue AI' immunity scam"); doomers accused Treasury of downgrading safety
-- Both camps citing the same Irregular incident logs within 48 hours is the clearest proof yet that **the incidents are now political raw material**, which is exactly why this wiki keeps the technical record separate from the attribution fight
+- Both camps citing the same [[Irregular]] incident logs within 48 hours is the clearest proof yet that **the incidents are now political raw material**, which is exactly why this wiki keeps the technical record separate from the attribution fight
 
 ## National security channel
 
@@ -39,14 +39,14 @@ Cato keynote (Sept 19): probing "state-backed hacks using **open-source AI**" (t
 
 ## Position in the war
 
-Bessent sits at the intersection of the wiki's political cluster (Trump 016, Vance 050, Sanders 048, Jeffries 029): Treasury controls sanctions + SARs (follow the money), while the EA network controls grants + evaluations + Hill lobbying. The Sept 2026 cycle is the first open collision between those two money powers over who regulates AI, with the Irregular incident logs as the contested evidence.
+Bessent sits at the intersection of the wiki's political cluster (Trump 016, Vance 050, Sanders 048, Jeffries 029): Treasury controls sanctions + SARs (follow the money), while the EA network controls grants + evaluations + Hill lobbying. The Sept 2026 cycle is the first open collision between those two money powers over who regulates AI, with the [[Irregular]] incident logs as the contested evidence.
 
 ## See Also
 [[donald-trump]] · [[jd-vance]] · [[effective-altruism]] · [[anthropic]] · [[openai]] · [[Hugging Face]] · [[irregular]]
 
 ## November 11, 2026: Megaspeed, Lutnick, and the Cabinet split
 
-Axios (Nov. 11, 2026) reported a Cabinet fight over an internal Commerce "Megaspeed" memo against selling NVIDIA chips into China. Bessent called the memo "bullshit" and said [[howard-lutnick]] had a "long track record of being a liar" (Axios, Nov. 11, 2026; AP). President [[donald-trump]] told Axios he would "probably" overrule Lutnick. This page records Bessent as the Cabinet counterweight on that sale, not as a member of the [[china-hawks]] faction page. The national-security channel above (open-source models, SARs, FinCEN) is a different gate from the chip-export fight. Do not collapse them.
+Axios (Nov. 11, 2026) reported a Cabinet fight over an internal Commerce "Megaspeed" memo against selling [[NVIDIA]] chips into China. Bessent called the memo "bullshit" and said [[howard-lutnick]] had a "long track record of being a liar" (Axios, Nov. 11, 2026; AP). President [[donald-trump]] told Axios he would "probably" overrule Lutnick. This page records Bessent as the Cabinet counterweight on that sale, not as a member of the [[china-hawks]] faction page. The national-security channel above (open-source models, SARs, FinCEN) is a different gate from the chip-export fight. Do not collapse them.
 
 **Sources:** Axios (Nov. 11, 2026); AP; research/2026-11-20.md.
 

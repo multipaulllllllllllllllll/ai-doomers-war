@@ -18,7 +18,7 @@ sources:
 
 ## Summary
 
-Eliezer Yudkowsky is the co-founder of the Machine Intelligence Research Institute (MIRI) and the longest-standing public advocate for AI extinction risk as a serious policy concern. His work onFriendly AI and Coherent Extrapolated Volition dates to the mid-2000s, making him one of the intellectual fathers of the modern AI safety movement. His position, that AI alignment is a harder problem than most researchers believe, and that humanity may not solve it before building systems smarter than ourselves, has moved from fringe to mainstream over the past decade, particularly following the release of GPT-4 and the subsequent doomer wave of 2022-2026.
+Eliezer Yudkowsky is the co-founder of the Machine Intelligence Research Institute ([[MIRI]]) and the longest-standing public advocate for AI extinction risk as a serious policy concern. His work onFriendly AI and Coherent Extrapolated Volition dates to the mid-2000s, making him one of the intellectual fathers of the modern AI safety movement. His position, that AI alignment is a harder problem than most researchers believe, and that humanity may not solve it before building systems smarter than ourselves, has moved from fringe to mainstream over the past decade, particularly following the release of GPT-4 and the subsequent doomer wave of 2022-2026.
 
 ## Key Positions
 
@@ -28,4 +28,4 @@ Eliezer Yudkowsky is the co-founder of the Machine Intelligence Research Institu
 
 ## Relationship to Current Debate
 
-Yudkowsky represents the intellectual lineage that preceded the current commercial doomer network. He is not directly connected to Anthropic or the current regulatory campaign, but his work laid the philosophical and technical foundation for the EA/doomer network that now surrounds Anthropic. MIRI has trained many researchers who later moved to frontier labs and METR.
+Yudkowsky represents the intellectual lineage that preceded the current commercial doomer network. He is not directly connected to [[Anthropic]] or the current regulatory campaign, but his work laid the philosophical and technical foundation for the EA/doomer network that now surrounds [[Anthropic]]. [[MIRI]] has trained many researchers who later moved to frontier labs and [[METR]].

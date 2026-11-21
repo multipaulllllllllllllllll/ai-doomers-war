@@ -22,11 +22,11 @@ sources:
 
 ## Summary
 
-Howard Lutnick is the U.S. Secretary of Commerce in the second Trump administration. In November 2026 he is the named author of an internal Megaspeed memo that tried to keep NVIDIA chips out of China, and the Cabinet officer whose department then issued the remote-access rule that closed a manufacturing loophole Chinese designers had used at TSMC. The wiki records him as a China-hawk node, not as a proven winner of the fight. President Trump told Axios he would "probably" overrule Lutnick's stance.
+Howard Lutnick is the U.S. Secretary of Commerce in the second Trump administration. In November 2026 he is the named author of an internal Megaspeed memo that tried to keep [[NVIDIA]] chips out of China, and the Cabinet officer whose department then issued the remote-access rule that closed a manufacturing loophole Chinese designers had used at [[TSMC]]. The wiki records him as a China-hawk node, not as a proven winner of the fight. President Trump told Axios he would "probably" overrule Lutnick's stance.
 
 ## November 11, 2026: The Megaspeed memo and the Cabinet fight
 
-Axios reported on November 11, 2026 that Lutnick circulated an internal Megaspeed memo arguing that NVIDIA chip sales to China would feed a military rival. Treasury Secretary [[scott-bessent]] answered in Cabinet that the memo was "bullshit" and that Lutnick had a "long track record of being a liar" (Axios, Nov. 11, 2026; AP). AP independently covered the same confrontation. The fight is intra-administration: both men serve [[donald-trump]]. Trump's public line the same week was that he would "probably" overrule Lutnick on China chips (Axios, Nov. 11, 2026).
+Axios reported on November 11, 2026 that Lutnick circulated an internal Megaspeed memo arguing that [[NVIDIA]] chip sales to China would feed a military rival. Treasury Secretary [[scott-bessent]] answered in Cabinet that the memo was "bullshit" and that Lutnick had a "long track record of being a liar" (Axios, Nov. 11, 2026; AP). AP independently covered the same confrontation. The fight is intra-administration: both men serve [[donald-trump]]. Trump's public line the same week was that he would "probably" overrule Lutnick on China chips (Axios, Nov. 11, 2026).
 
 The memo is recorded as Axios's account of an internal document. This sheet does not reproduce a leaked full text.
 

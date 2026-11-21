@@ -15,7 +15,7 @@ sources:
 
 ## Summary
 
-The Nevo Brothers are Israeli brothers who serve as key organizers in the Effective Altruism network, connecting the Israeli AI safety and EA organizing scene to the broader doomer funding ecosystem that includes Anthropic leadership and the Moskovitz/Tuna philanthropy network. They were identified in Brian Chau's September 14 EA network mapping thread.
+The Nevo Brothers are Israeli brothers who serve as key organizers in the [[Effective Altruism]] network, connecting the Israeli AI safety and EA organizing scene to the broader doomer funding ecosystem that includes [[Anthropic]] leadership and the Moskovitz/Tuna philanthropy network. They were identified in [[Brian Chau]]'s September 14 EA network mapping thread.
 
 ## Significance
 

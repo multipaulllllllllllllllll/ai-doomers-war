@@ -15,7 +15,7 @@ sources:
 
 ## Summary
 
-Tyler Bloom is an AI safety commentator who has been tracking the partisan split in AI regulation positions, observing that Democrats have largely embraced the doomer framing while Republicans have positioned against it. His commentary covers the racing dynamics between Anthropic and OpenAI, Meta's internal safety debates, and the political economy of AI regulation.
+Tyler Bloom is an AI safety commentator who has been tracking the partisan split in AI regulation positions, observing that Democrats have largely embraced the doomer framing while Republicans have positioned against it. His commentary covers the racing dynamics between [[Anthropic]] and [[OpenAI]], Meta's internal safety debates, and the political economy of AI regulation.
 
 ## Key Observations
 
@@ -29,4 +29,4 @@ This creates an unusual political dynamic where progressive anti-corporate rheto
 
 ### Meta's Position
 
-Bloom has also tracked Meta's internal debates about safety and whether to continue open-source model releases, a middle position between the closed-source incumbents (Anthropic/OpenAI) and the anti-regulation camp.
+Bloom has also tracked Meta's internal debates about safety and whether to continue open-source model releases, a middle position between the closed-source incumbents ([[Anthropic]]/OpenAI) and the anti-regulation camp.

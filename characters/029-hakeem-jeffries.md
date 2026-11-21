@@ -15,7 +15,7 @@ sources:
 
 ## Summary
 
-Hakeem Jeffries is the House Democratic Minority Leader who interviewed Barack Obama at the September 11, 2026 fundraiser where Obama made his "clear plan for AI safeguards" statement. Jeffries used the moment to position Democrats as the party of AI regulation, accusing Republicans of "abdication" on AI governance.
+Hakeem Jeffries is the House Democratic Minority Leader who interviewed [[Barack Obama]] at the September 11, 2026 fundraiser where Obama made his "clear plan for AI safeguards" statement. Jeffries used the moment to position Democrats as the party of AI regulation, accusing Republicans of "abdication" on AI governance.
 
 ## The Exchange
 

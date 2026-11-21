@@ -16,12 +16,12 @@ sources:
 
 ## Summary
 
-Daniel Roher is the documentary filmmaker who co-directed "The AI Doc: Or How I Became an Apocaloptimist" with Charlie Tyrell. The Netflix documentary (released September 12, 2026) represents the cultural dimension of the AI doomer wars, translating the technical and policy debate into documentary form for a mass audience.
+Daniel Roher is the documentary filmmaker who co-directed "The AI Doc: Or How I Became an Apocaloptimist" with [[Charlie Tyrell]]. The Netflix documentary (released September 12, 2026) represents the cultural dimension of the AI doomer wars, translating the technical and policy debate into documentary form for a mass audience.
 
 ## The Documentary
 
 **Title**: The AI Doc: Or How I Became an Apocaloptimist
-**Directors**: Daniel Roher, Charlie Tyrell
+**Directors**: Daniel Roher, [[Charlie Tyrell]]
 **Netflix ID**: 82792555
 **Release Date**: September 12, 2026 (Netflix); September 15, 2026 in some regions
 **IMDb**: 6.6/10

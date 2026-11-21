@@ -17,12 +17,12 @@ sources:
 
 ## Summary
 
-Connor Leahy is the co-founder of Conjecture and currently heads ControlAI US operations. He is part of the small network of Conjecture alumni who built ControlAI as the policy-writing organization for the doomer regulatory movement. Like Andrea Miotti and Gabriel Alfour, he represents the pathway from AI governance research to direct political advocacy.
+Connor Leahy is the co-founder of [[Conjecture]] and currently heads [[ControlAI]] US operations. He is part of the small network of [[Conjecture]] alumni who built [[ControlAI]] as the policy-writing organization for the doomer regulatory movement. Like [[Andrea Miotti]] and [[Gabriel Alfour]], he represents the pathway from AI governance research to direct political advocacy.
 
-## Conjecture
+## [[Conjecture]]
 
-Conjecture was an AI governance organization that trained and connected the individuals who now form the leadership of ControlAI. The alumni network, Miotti, Leahy, and Alfour, collectively represent the policy infrastructure of the doomer movement: people who moved from governance research to drafting specific legislative language.
+[[Conjecture]] was an AI governance organization that trained and connected the individuals who now form the leadership of [[ControlAI]]. The alumni network, Miotti, Leahy, and Alfour, collectively represent the policy infrastructure of the doomer movement: people who moved from governance research to drafting specific legislative language.
 
-## ControlAI US
+## [[ControlAI]] US
 
-Leahy heads ControlAI's US operations, which were responsible for drafting the US version of the superintelligence ban bill introduced by Bernie Sanders and Rep. Greg Casar.
+Leahy heads [[ControlAI]]'s US operations, which were responsible for drafting the US version of the superintelligence ban bill introduced by [[Bernie Sanders]] and Rep. [[Greg Casar]].

@@ -26,7 +26,7 @@ The U.S. News piece (TSMC tightens China AI chip curbs as new U.S. rules close m
 
 The rule itself is a [[us-commerce]] / BIS product (BIS issues rule addressing remote access to American super-intelligence technology, Nov. 19, 2026). [[howard-lutnick]] is the secretary. President [[donald-trump]] is simultaneously talking Huang restoration with Xi (Reuters, Nov. 19, 2026). The foundry tightened on the same calendar day the President discussed the ousted CEO. Those two facts sit next to each other. They are not a single coordinated plan in the recovered sources.
 
-Moonshot AI's reported scrap of a roughly $150 million B300 rental through an Indonesian cloud (The Information; paywalled) is a downstream customer story, not a TSMC filing. It lives on the NVIDIA sheet as single-outlet.
+Moonshot AI's reported scrap of a roughly $150 million B300 rental through an Indonesian cloud (The Information; paywalled) is a downstream customer story, not a TSMC filing. It lives on the [[NVIDIA]] sheet as single-outlet.
 
 ## What to Watch
 

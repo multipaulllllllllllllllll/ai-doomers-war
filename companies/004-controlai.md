@@ -23,7 +23,7 @@ sources:
 
 ## Summary
 
-ControlAI is a UK-based campaign non-profit that functions as the policy-writing arm of the doomer regulatory movement. Founded in 2024 by three Conjecture alumni, Andrea Miotti, Connor Leahy, and Gabriel Alfour, ControlAI has drafted the legislative language for both the UK and US superintelligence ban bills introduced in September 2026. The organization is funded by Jaan Tallinn, who is also an investor in Anthropic, creating the structural conflict at the center of the regulatory capture critique.
+ControlAI is a UK-based campaign non-profit that functions as the policy-writing arm of the doomer regulatory movement. Founded in 2024 by three [[Conjecture]] alumni, [[Andrea Miotti]], [[Connor Leahy]], and [[Gabriel Alfour]], ControlAI has drafted the legislative language for both the UK and US superintelligence ban bills introduced in September 2026. The organization is funded by [[Jaan Tallinn]], who is also an investor in [[Anthropic]], creating the structural conflict at the center of the regulatory capture critique.
 
 ## Mission
 
@@ -33,22 +33,22 @@ ControlAI's stated mission is a global treaty banning the development of artific
 
 | Person | Role | Prior Connection |
 |--------|------|-----------------|
-| **Andrea Miotti** | Founder | Ex-Head of Strategy & Governance, Conjecture |
-| **Connor Leahy** | Heads US | Co-founder, Conjecture |
-| **Gabriel Alfour** | Co-founder | Co-founder, Conjecture |
+| **[[Andrea Miotti]]** | Founder | Ex-Head of Strategy & Governance, [[Conjecture]] |
+| **[[Connor Leahy]]** | Heads US | Co-founder, [[Conjecture]] |
+| **[[Gabriel Alfour]]** | Co-founder | Co-founder, [[Conjecture]] |
 
 ## The Bills
 
 ### UK Bill
-- Introduced by Labour MP Alex Sobel (Ten Minute Rule motion, Sept 8, 2026)
+- Introduced by Labour MP [[Alex Sobel]] (Ten Minute Rule motion, Sept 8, 2026)
 - First legislation seeking to ban superintelligence in any G7 parliament
 - Model legislation drafted by ControlAI
 
 ### US Bill
 - "Ban Artificial Superintelligence Act"
-- Sponsored by Sen. Bernie Sanders and Rep. Greg Casar
+- Sponsored by Sen. [[Bernie Sanders]] and Rep. [[Greg Casar]]
 - Model legislation drafted by ControlAI
 
 ## Funding
 
-ControlAI is funded by Jaan Tallinn, who is simultaneously an investor in Anthropic, the lab that would most benefit from the regulations ControlAI is pushing. This creates the core structural conflict documented by Kevin Bass.
+ControlAI is funded by [[Jaan Tallinn]], who is simultaneously an investor in [[Anthropic]], the lab that would most benefit from the regulations ControlAI is pushing. This creates the core structural conflict documented by [[Kevin Bass]].

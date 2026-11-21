@@ -25,7 +25,7 @@ Polymarket is the largest crypto-based prediction market, a venue where users ta
 
 ## The Hidden-Money Precedent (the EA angle)
 
-When FTX fell (November 2022), WSJ reported that **Alameda Research had quietly invested in Polymarket**, a reported ~$40M of a $70M round (Lightspeed and Pantera announced later; Alameda's share wasn't disclosed at the time). Alongside **Vitalik Buterin's** angel stake and **Founders Fund's** 2020 seed lead, it made Polymarket a map of the crypto-EA-VC overlap zone of 2020–2021:
+When FTX fell (November 2022), WSJ reported that **Alameda Research had quietly invested in Polymarket**, a reported ~$40M of a $70M round (Lightspeed and Pantera announced later; Alameda's share wasn't disclosed at the time). Alongside **[[Vitalik Buterin]]'s** angel stake and **Founders Fund's** 2020 seed lead, it made Polymarket a map of the crypto-EA-VC overlap zone of 2020–2021:
 
 - The same era that produced "earning to give"
 - The same circles where frontier-lab seed money and prediction-market bankroll were indistinguishable bets on the future

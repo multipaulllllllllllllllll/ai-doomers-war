@@ -17,7 +17,7 @@ sources:
 
 ## Summary
 
-Bernie Sanders, the independent Senator from Vermont, is the Congressional sponsor of the US version of the superintelligence ban bill originally drafted by ControlAI. His involvement brings significant progressive political credibility to the doomer regulatory agenda, translating the technical AI safety arguments into the language of progressive politics, anti-monopoly, worker protection, and government oversight of corporate power.
+Bernie Sanders, the independent Senator from Vermont, is the Congressional sponsor of the US version of the superintelligence ban bill originally drafted by [[ControlAI]]. His involvement brings significant progressive political credibility to the doomer regulatory agenda, translating the technical AI safety arguments into the language of progressive politics, anti-monopoly, worker protection, and government oversight of corporate power.
 
 ## The Ban Artificial Superintelligence Act
 
@@ -27,7 +27,7 @@ Sanders announced plans to introduce the bill in September 2026. Key provisions:
 - Temporarily pause all advanced AI research until new safety rules are established
 - Seek a global treaty banning superintelligent AI development
 
-The bill was drafted by ControlAI, the UK-based campaign non-profit funded by Jaan Tallinn. This means the legislative language originated not from Congressional staff but from a policy organization with financial ties to the lab that would most benefit from the regulations.
+The bill was drafted by [[ControlAI]], the UK-based campaign non-profit funded by [[Jaan Tallinn]]. This means the legislative language originated not from Congressional staff but from a policy organization with financial ties to the lab that would most benefit from the regulations.
 
 ## Political Significance
 
@@ -36,7 +36,7 @@ Sanders' sponsorship is significant because:
 2. It creates a left-right coalition on AI regulation (Sanders + Republicans skeptical of big tech, alongside Obama-aligned Democrats)
 3. It positions the regulation as protecting ordinary Americans from corporate AI power, not as a corporate capture scheme
 
-Critics note that the regulatory moat being created would primarily benefit closed-source incumbents (Anthropic, OpenAI) over open-source developers and workers.
+Critics note that the regulatory moat being created would primarily benefit closed-source incumbents ([[Anthropic]], [[OpenAI]]) over open-source developers and workers.
 
 ## Mid-October: The Species Question and the Liberty Exchange
 

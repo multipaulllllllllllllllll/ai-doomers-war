@@ -19,7 +19,7 @@ sources:
 
 ## Summary
 
-JD Vance is the Vice President of the United States, appointed by Donald Trump in January 2025. A former Marine and author of "Hillbilly Elegy," Vance has deep ties to Silicon Valley through his patron Peter Thiel and has positioned himself as a key voice in Trump's technology policy.
+JD Vance is the Vice President of the United States, appointed by [[Donald Trump]] in January 2025. A former Marine and author of "Hillbilly Elegy," Vance has deep ties to Silicon Valley through his patron Peter Thiel and has positioned himself as a key voice in Trump's technology policy.
 
 ## The Frankenstein Question (September 15, 2026)
 

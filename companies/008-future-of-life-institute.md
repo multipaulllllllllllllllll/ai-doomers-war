@@ -18,7 +18,7 @@ sources:
 
 ## Summary
 
-The Future of Life Institute (FLI) is the organization that coordinated the March 2023 "Pause Giant AI Experiments" letter, which called for a 6-month moratorium on AI training runs beyond GPT-4 level. The letter was signed by Elon Musk, Steve Wozniak, and multiple Turing Award winners, and provided significant political cover for subsequent regulatory arguments.
+The Future of Life Institute (FLI) is the organization that coordinated the March 2023 "Pause Giant AI Experiments" letter, which called for a 6-month moratorium on AI training runs beyond GPT-4 level. The letter was signed by [[Elon Musk]], Steve Wozniak, and multiple Turing Award winners, and provided significant political cover for subsequent regulatory arguments.
 
 ## The Pause Letter
 
@@ -30,7 +30,7 @@ The letter called for a 6-month pause on training runs beyond GPT-4 level.
 
 ## Funding
 
-FLI was early-funded by Dustin Moskovitz, the Facebook co-founder who is also the lead investor in Anthropic's Series A. This connects FLI's regulatory advocacy to the same financial network that benefits from the regulations FLI advocates for.
+FLI was early-funded by [[Dustin Moskovitz]], the Facebook co-founder who is also the lead investor in [[Anthropic]]'s Series A. This connects FLI's regulatory advocacy to the same financial network that benefits from the regulations FLI advocates for.
 
 ## Significance
 

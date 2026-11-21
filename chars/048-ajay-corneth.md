@@ -15,4 +15,4 @@ sources:
 
 ## Summary
 
-Ajay Corneth is an AI safety commentator who has been covering the doomer debate, particularly the "gambling with our lives" framing of Anthropic's safety concerns. His posts contextualize the debate within the broader landscape of AI labs' internal safety cultures.
+Ajay Corneth is an AI safety commentator who has been covering the doomer debate, particularly the "gambling with our lives" framing of [[Anthropic]]'s safety concerns. His posts contextualize the debate within the broader landscape of AI labs' internal safety cultures.

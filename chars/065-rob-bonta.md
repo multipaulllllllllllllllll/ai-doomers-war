@@ -20,9 +20,9 @@ Rob Bonta is the Attorney General of California. On November 19, 2026 his office
 
 ## November 19, 2026: Investigative subpoena
 
-The California DOJ press release (Attorney General Bonta serves investigative subpoena on NVIDIA) is the source of record. It is an investigative subpoena, which means NVIDIA is being compelled to produce, not being charged in that release. This sheet does not upgrade the action to a filed complaint or a criminal case.
+The California DOJ press release (Attorney General Bonta serves investigative subpoena on [[NVIDIA]]) is the source of record. It is an investigative subpoena, which means [[NVIDIA]] is being compelled to produce, not being charged in that release. This sheet does not upgrade the action to a filed complaint or a criminal case.
 
-The China-chips half of the predicate overlaps the Mast H200 table and the Lutnick-Bessent fight. The investor-statements half overlaps the Huang resignation week. Those are two different theories in one subpoena announcement. They should not be collapsed into a single "spy" story. NVIDIA's board predicate (personal misconduct, per Reuters) and Bonta's investor-statement theory are parallel, not proven as the same facts.
+The China-chips half of the predicate overlaps the Mast H200 table and the Lutnick-Bessent fight. The investor-statements half overlaps the Huang resignation week. Those are two different theories in one subpoena announcement. They should not be collapsed into a single "spy" story. [[NVIDIA]]'s board predicate (personal misconduct, per Reuters) and Bonta's investor-statement theory are parallel, not proven as the same facts.
 
 ## What to Watch
 

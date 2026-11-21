@@ -23,4 +23,4 @@ Sachin Vats is a tech journalist and commentator who produced the key question a
 
 ## Significance
 
-Vats identified the core structural question: the public coordination between Anthropic and OpenAI CEOs requires explanation beyond stated safety concerns. His framing, the impossibility of their previous coordination contrasted with their current alignment, highlights the timing question.
+Vats identified the core structural question: the public coordination between [[Anthropic]] and [[OpenAI]] CEOs requires explanation beyond stated safety concerns. His framing, the impossibility of their previous coordination contrasted with their current alignment, highlights the timing question.

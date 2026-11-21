@@ -22,7 +22,7 @@ President Donald Trump characterized the AI doomer narrative as a "hoax and cons
 ## The "Hoax" Framing
 
 Trump's argument: the doomer narrative is a cover for:
-1. Regulatory capture by incumbent AI labs (Anthropic, OpenAI)
+1. Regulatory capture by incumbent AI labs ([[Anthropic]], [[OpenAI]])
 2. Slowing American AI development while China advances
 3. Using fake existential risk claims to justify government intervention in private industry
 
@@ -31,7 +31,7 @@ Trump's argument: the doomer narrative is a cover for:
 ## Relationship to the Doomer Debate
 
 Trump's position aligns with:
-- **Elon Musk** (xAI), who is simultaneously calling AI dangerous while building xAI
+- **[[Elon Musk]]** ([[xAI]]), who is simultaneously calling AI dangerous while building [[xAI]]
 - **Zuckerberg/Meta**: reportedly aligned with the anti-regulatory camp
 - Open-source advocates who see the doomer narrative as a regulatory moat for closed-source incumbents
 
@@ -47,7 +47,7 @@ That evening he signed an executive order formally renaming "artificial intellig
 
 - **UN General Assembly (~Sept 22-26):** Trump told the world body that AI-rogue fears are a **"hoax"**; announced he will launch an **"AI Force"** and an **"AI czar"** "to oversee" development, oversee-as-accelerate, against the rebrand EO (AI→"superintelligence" in official US documents, covered Sept 29-30). Axios: a White House official said the hoax framing targets Democrats "scoring points before the midterms."
 - **Xi meeting in Washington (late Sept):** Xi said AI must remain "always under human control"; Trump focused on the rebrand and dismissing regulation.
-- **Contradicted by Pope Leo XIV by name (Sept 28, papal plane):** concerns are **"not fake news"** and experts "should be taken seriously" (the first papal rebuttal of a US president's tech policy, three weeks before midterms. Trump now fights the doomer narrative on a moral front he can't out-rally: the pope.)
+- **Contradicted by [[Pope Leo XIV]] by name (Sept 28, papal plane):** concerns are **"not fake news"** and experts "should be taken seriously" (the first papal rebuttal of a US president's tech policy, three weeks before midterms. Trump now fights the doomer narrative on a moral front he can't out-rally: the pope.)
 **Sources:** AP/PBS NewsHour, NewsNation, Thenewweb (Sept 28-29, 2026).
 
 ## October 9: The Third Blame Target
@@ -56,15 +56,15 @@ The Axios catastrophic-event war games (Maria Curi, Oct 9) name Trump alongside 
 
 **Sources:** Axios (Maria Curi, Oct 9, 2026); research/2026-10-09.md.
 
-## Mid-October: The Super Intelligence Force
+## Mid-October: The [[Super Intelligence Force]]
 
-The September accord's successor structure now has a name, a chair and a doctrine. The White House "Super Intelligence (SI) Force" task force is chaired by DNI **Jay Clayton**, with working groups per Semafor: an accord-implementation group (Clayton + National Cyber Director Sean Cairncross), incident-reporting protocols and long-term coordination under Defense Undersecretary **Emil Michael**, a law-enforcement and consumer-protection committee under FTC Chair **Andrew Ferguson**, critical-infrastructure and workforce partnerships under OPM's **Scott Kupor**, and a PCAST report commission on AI risk. Members span Vance, [[Scott Bessent]], Hegseth, Kratsios, Klomp, Bisignano, Rudd, Wiles and Walters. Doctrine per The Hill (Oct 20): bet on existing criminal and civil law (DOJ, FTC) instead of new legislation, with the FTC's consumer-protection authority called "tailor-made" by allies and doubted by legal experts; the task force has told AI companies to report rogue behavior immediately and fix it, the mandate Axios tied to Anthropic's Oct 9 disclosure. Trump's stated frame is unchanged: whoever wins in AI, wins. The structure answers the Sept 29 kill-switch-accord contradiction with bureaucracy: an accord enforcement-adjacent to the labs that signed it, led by the administration that refuses legislation, in the same week the FTC subpoenaed two of those labs. **Sources:** The Hill (Oct 20, 2026); Semafor via dcaidecoded (Oct 19); Axios (Oct 9); thenextweb (Oct 17); research/2026-10-20.md.
+The September accord's successor structure now has a name, a chair and a doctrine. The White House "Super Intelligence (SI) Force" task force is chaired by DNI **Jay Clayton**, with working groups per Semafor: an accord-implementation group (Clayton + National Cyber Director Sean Cairncross), incident-reporting protocols and long-term coordination under Defense Undersecretary **Emil Michael**, a law-enforcement and consumer-protection committee under FTC Chair **Andrew Ferguson**, critical-infrastructure and workforce partnerships under OPM's **Scott Kupor**, and a PCAST report commission on AI risk. Members span Vance, [[Scott Bessent]], Hegseth, Kratsios, Klomp, Bisignano, Rudd, Wiles and Walters. Doctrine per The Hill (Oct 20): bet on existing criminal and civil law (DOJ, FTC) instead of new legislation, with the FTC's consumer-protection authority called "tailor-made" by allies and doubted by legal experts; the task force has told AI companies to report rogue behavior immediately and fix it, the mandate Axios tied to [[Anthropic]]'s Oct 9 disclosure. Trump's stated frame is unchanged: whoever wins in AI, wins. The structure answers the Sept 29 kill-switch-accord contradiction with bureaucracy: an accord enforcement-adjacent to the labs that signed it, led by the administration that refuses legislation, in the same week the FTC subpoenaed two of those labs. **Sources:** The Hill (Oct 20, 2026); Semafor via dcaidecoded (Oct 19); Axios (Oct 9); thenextweb (Oct 17); research/2026-10-20.md.
 
 ## November 11-20, 2026: China week, Huang, and the Lutnick override
 
-President Trump told Axios he would "probably" overrule Commerce Secretary [[howard-lutnick]] on NVIDIA chip sales to China (Axios, Nov. 11, 2026). The same reporting cycle covered an internal Commerce "Megaspeed" memo against those sales. Treasury Secretary [[scott-bessent]] called the memo "bullshit" and said Lutnick had a "long track record of being a liar" (Axios, Nov. 11, 2026; AP).
+President Trump told Axios he would "probably" overrule Commerce Secretary [[howard-lutnick]] on [[NVIDIA]] chip sales to China (Axios, Nov. 11, 2026). The same reporting cycle covered an internal Commerce "Megaspeed" memo against those sales. Treasury Secretary [[scott-bessent]] called the memo "bullshit" and said Lutnick had a "long track record of being a liar" (Axios, Nov. 11, 2026; AP).
 
-On November 12, 2026, the Los Angeles Times reported that Trump stood by Jensen Huang after the NVIDIA board asked Huang to resign. Newsweek later quoted Trump on taking care of "our geniuses" in a Huang defense tied to China. Reuters (Nov. 19, 2026) reported that Trump said he referred to the ex-NVIDIA boss Huang's situation briefly in a talk with Xi. That is a presidential comment track, not a restoration order in the recovered sources.
+On November 12, 2026, the Los Angeles Times reported that Trump stood by Jensen Huang after the [[NVIDIA]] board asked Huang to resign. Newsweek later quoted Trump on taking care of "our geniuses" in a Huang defense tied to China. Reuters (Nov. 19, 2026) reported that Trump said he referred to the ex-NVIDIA boss Huang's situation briefly in a talk with Xi. That is a presidential comment track, not a restoration order in the recovered sources.
 
 The comment track ran next to tightening, not instead of it. BIS issued a remote-access rule (Nov. 19, 2026). Reuters sources told U.S. News that [[tsmc]] stopped 16-nanometer-and-below orders from unlicensed Chinese designers the same calendar day.
 

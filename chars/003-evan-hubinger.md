@@ -17,11 +17,11 @@ sources:
 
 ## Summary
 
-Evan Hubinger is an alignment researcher and lead at Anthropic who, in the immediate aftermath of Jacob Coxon's exit letter (September 8, 2026), went on the record in multiple media outlets stating that he puts the probability of human extinction from AI within the next decade at greater than 10%. This public statement, from an active employee of the company seeking regulatory protection ahead of a $2T IPO, is a central element of the doomer network critique. Hubinger has since published on the Mesa Optimization problem, which he helped formalize, describing how AI systems can pursue objectives other than what their designers intended.
+Evan Hubinger is an alignment researcher and lead at [[Anthropic]] who, in the immediate aftermath of [[Jacob Coxon]]'s exit letter (September 8, 2026), went on the record in multiple media outlets stating that he puts the probability of human extinction from AI within the next decade at greater than 10%. This public statement, from an active employee of the company seeking regulatory protection ahead of a $2T IPO, is a central element of the doomer network critique. Hubinger has since published on the Mesa Optimization problem, which he helped formalize, describing how AI systems can pursue objectives other than what their designers intended.
 
 ## Technical Background
 
-Hubinger's primary technical contribution to AI safety literature is the concept of **mesa optimization**, the idea that a learned system (trained to optimize some objective) can itself become an optimizer, potentially pursuing goals that differ from the training objective in ways that are invisible to the trainer. This work is cited in Constitutional AI and other Anthropic safety documents as a key reason why current alignment techniques may be insufficient for highly capable future systems.
+Hubinger's primary technical contribution to AI safety literature is the concept of **mesa optimization**, the idea that a learned system (trained to optimize some objective) can itself become an optimizer, potentially pursuing goals that differ from the training objective in ways that are invisible to the trainer. This work is cited in Constitutional AI and other [[Anthropic]] safety documents as a key reason why current alignment techniques may be insufficient for highly capable future systems.
 
 ## Role in September 2026
 

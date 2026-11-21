@@ -22,44 +22,44 @@ sources:
 
 ## Summary
 
-Jacob Coxon was a pretraining researcher at Anthropic (4 months) and OpenAI (~3 years, worked on GPT-4o). Cambridge math graduate, 27 years old, IMO medals. He resigned September 8, 2026, two months before his first Anthropic equity would have vested, and posted a public exit letter on X that became the spark for the entire AI doomer wars episode.
+Jacob Coxon was a pretraining researcher at [[Anthropic]] (4 months) and [[OpenAI]] (~3 years, worked on GPT-4o). Cambridge math graduate, 27 years old, IMO medals. He resigned September 8, 2026, two months before his first [[Anthropic]] equity would have vested, and posted a public exit letter on X that became the spark for the entire AI doomer wars episode.
 
-His post warning that AI builders "earnestly believe it could kill us all by the end of the decade" hit **170-172 million views** on X within days, one of X's biggest recent breakout posts. The contrast: Kevin Bass's NPT/IRS audit of the same ecosystem got approximately 3 million views. The doomer message traveled roughly **57x further** than the investigative audit.
+His post warning that AI builders "earnestly believe it could kill us all by the end of the decade" hit **170-172 million views** on X within days, one of X's biggest recent breakout posts. The contrast: [[Kevin Bass]]'s NPT/IRS audit of the same ecosystem got approximately 3 million views. The doomer message traveled roughly **57x further** than the investigative audit.
 
-Coxon still holds OpenAI equity, which his exit post specifically referenced: "I no longer have anything to gain by juicing up Anthropic's valuation." The timing, leaving before equity vests, then going public, gave him a credibility signal that pure insiders lack.
+Coxon still holds [[OpenAI]] equity, which his exit post specifically referenced: "I no longer have anything to gain by juicing up [[Anthropic]]'s valuation." The timing, leaving before equity vests, then going public, gave him a credibility signal that pure insiders lack.
 
 ## The Exit Letter (September 8, 2026)
 
 Coxon's letter made the claim that researchers inside frontier AI labs privately hold beliefs about catastrophic and extinction-level risk from AI that they do not state publicly. He characterized these as common private beliefs among AI builders and announced his resignation, going public with the warning rather than staying inside to advocate.
 
-Key quote from the exit post: "I no longer have anything to gain by juicing up Anthropic's valuation." This explicitly signals that he is not timing his departure for financial gain from an IPO, addressing the obvious conflict of interest that would otherwise undercut his credibility.
+Key quote from the exit post: "I no longer have anything to gain by juicing up [[Anthropic]]'s valuation." This explicitly signals that he is not timing his departure for financial gain from an IPO, addressing the obvious conflict of interest that would otherwise undercut his credibility.
 
 ## The Cascade
 
 The letter's impact was immediate:
 
-- **Evan Hubinger** (Anthropic alignment lead) publicly confirmed the >10% extinction probability within 24 hours
-- **Dario Amodei** publicly stated agreement with Coxon's framing and published "We Must Pace the Frontier" (~Sep 12)
+- **[[Evan Hubinger]]** ([[Anthropic]] alignment lead) publicly confirmed the >10% extinction probability within 24 hours
+- **[[Dario Amodei]]** publicly stated agreement with Coxon's framing and published "We Must Pace the Frontier" (~Sep 12)
 - **Three rival AI lab CEOs** publicly agreed to a development "pause" framework within 48 hours
 - **TIME** published "The AI Tipping Point": a cover story framing Coxon's resignation as the catalyst for turning internal AI debate into a public conversation
 - The letter provided the political occasion for an existing coordination plan to be announced publicly
 
 ## Coverage Quality Debate
 
-Leslie Mack (@lesliemack) posted on September 16 that "the Coxon resignation timeline is weirder than the AI will kill us part" and that "the coverage has been sloppy." Her timeline recap noted that Coxon was at Anthropic for approximately four months and had prior OpenAI experience on GPT-4o training.
+Leslie Mack (@lesliemack) posted on September 16 that "the Coxon resignation timeline is weirder than the AI will kill us part" and that "the coverage has been sloppy." Her timeline recap noted that Coxon was at [[Anthropic]] for approximately four months and had prior [[OpenAI]] experience on GPT-4o training.
 
 ## Key Quotes
 
 > "The people building AI earnestly believe that it could kill us all by the end of the decade."
 
-> "I no longer have anything to gain by juicing up Anthropic's valuation."
+> "I no longer have anything to gain by juicing up [[Anthropic]]'s valuation."
 
 ## Viewership Contrast
 
 | Content | Views |
 |---------|-------|
 | Jacob Coxon resignation post | **170-172 million** |
-| Kevin Bass NPT/IRS audit | ~3 million |
+| [[Kevin Bass]] NPT/IRS audit | ~3 million |
 | **Ratio** | **~57:1** |
 
 This ratio illustrates the structural asymmetry in the information environment: the doomer message, regardless of its accuracy, reaches vastly larger audiences than the investigative audit of the same ecosystem.

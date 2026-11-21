@@ -15,4 +15,4 @@ sources:
 
 ## Summary
 
-Jason Kwon is the Chief Strategy Officer at OpenAI, part of the leadership team navigating the regulatory environment and the doomer regulatory campaign in 2026. He represents OpenAI's strategic response to the coordinated regulatory pressure.
+Jason Kwon is the Chief Strategy Officer at [[OpenAI]], part of the leadership team navigating the regulatory environment and the doomer regulatory campaign in 2026. He represents [[OpenAI]]'s strategic response to the coordinated regulatory pressure.

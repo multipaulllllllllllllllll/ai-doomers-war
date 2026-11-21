@@ -20,19 +20,19 @@ sources:
 
 ## Summary
 
-The Machine Intelligence Research Institute (MIRI) is the oldest AI safety research organization, founded in 2000 by Eliezer Yudkowsky. MIRI's research focuses on the technical problem of aligning superintelligent AI systems, specifically developing mathematical frameworks for ensuring AI systems pursue intended goals. MIRI has trained many researchers who later moved to frontier labs and METR, representing the human pipeline connecting EA funding to the broader doomer network.
+The Machine Intelligence Research Institute (MIRI) is the oldest AI safety research organization, founded in 2000 by [[Eliezer Yudkowsky]]. MIRI's research focuses on the technical problem of aligning superintelligent AI systems, specifically developing mathematical frameworks for ensuring AI systems pursue intended goals. MIRI has trained many researchers who later moved to frontier labs and [[METR]], representing the human pipeline connecting EA funding to the broader doomer network.
 
 ## The Pipeline
 
-MIRI serves as a training ground: researchers work at MIRI → develop reputation and technical skills → move to frontier labs (Anthropic, OpenAI) or METR → the labs advocate for regulation → regulation benefits labs → more funding for MIRI.
+MIRI serves as a training ground: researchers work at MIRI → develop reputation and technical skills → move to frontier labs ([[Anthropic]], [[OpenAI]]) or [[METR]] → the labs advocate for regulation → regulation benefits labs → more funding for MIRI.
 
 ## Funding
 
-MIRI is funded by Jaan Tallinn and Vitalik Buterin, among others. This is the research investment that seeds the entire ecosystem.
+MIRI is funded by [[Jaan Tallinn]] and [[Vitalik Buterin]], among others. This is the research investment that seeds the entire ecosystem.
 
 ## Key People
 
 | Person | Role |
 |--------|------|
-| **Eliezer Yudkowsky** | Co-founder |
-| **Paul Christiano** | Former researcher (now at Anthropic) |
+| **[[Eliezer Yudkowsky]]** | Co-founder |
+| **[[Paul Christiano]]** | Former researcher (now at [[Anthropic]]) |

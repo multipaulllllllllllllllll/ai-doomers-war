@@ -15,8 +15,8 @@ sources:
 
 ## Summary
 
-Wojciech Zaremba is an OpenAI co-founder who has been cited in reporting about internal divisions at OpenAI over the pace of development and safety. His position represents the technical voice inside OpenAI that has been associated with the doomer-aligned safety concerns.
+Wojciech Zaremba is an [[OpenAI]] co-founder who has been cited in reporting about internal divisions at [[OpenAI]] over the pace of development and safety. His position represents the technical voice inside [[OpenAI]] that has been associated with the doomer-aligned safety concerns.
 
 ## Significance
 
-Zaremba's reported internal positions suggest that even inside OpenAI, a company not primarily known for the doomer position, there are technical voices concerned about the pace of development outrunning safety guarantees.
+Zaremba's reported internal positions suggest that even inside [[OpenAI]], a company not primarily known for the doomer position, there are technical voices concerned about the pace of development outrunning safety guarantees.

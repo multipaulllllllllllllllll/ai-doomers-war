@@ -17,4 +17,4 @@ sources:
 
 ## Summary
 
-Effective Ventures USA is the US branch of the Effective Altruism grantmaking infrastructure. It received $11.5M from Coefficient Giving in FY2025. It is part of the network of EA organizations that channel funding from tech philanthropists to AI safety research.
+Effective Ventures USA is the US branch of the [[Effective Altruism]] grantmaking infrastructure. It received $11.5M from [[Coefficient Giving]] in FY2025. It is part of the network of EA organizations that channel funding from tech philanthropists to AI safety research.

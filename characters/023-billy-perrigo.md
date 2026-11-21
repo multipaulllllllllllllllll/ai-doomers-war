@@ -16,21 +16,21 @@ sources:
 
 ## Summary
 
-Billy Perrigo is a staff writer at TIME who produced the September 8, 2026 investigation "The Growing Push to Ban Superintelligent AI" (the primary source establishing that ControlAI (founded by Conjecture alumni) had written both the UK and US superintelligence ban bills. His reporting confirmed the structural relationship between the doomer policy organizations and the political campaigns. He followed up on Kevin Bass's Anthropic Network audit (September 14-15, 2026), providing TIME's platform for the financial transparency angle.)
+Billy Perrigo is a staff writer at TIME who produced the September 8, 2026 investigation "The Growing Push to Ban Superintelligent AI" (the primary source establishing that [[ControlAI]] (founded by [[Conjecture]] alumni) had written both the UK and US superintelligence ban bills. His reporting confirmed the structural relationship between the doomer policy organizations and the political campaigns. He followed up on [[Kevin Bass]]'s [[Anthropic]] Network audit (September 14-15, 2026), providing TIME's platform for the financial transparency angle.)
 
 ## Key Reporting
 
 ### "The Growing Push to Ban Superintelligent AI" (September 8, 2026)
 
 The TIME investigation established:
-- ControlAI wrote both the UK bill (introduced by Alex Sobel) and the US bill (sponsored by Bernie Sanders)
-- ControlAI is supported by Jaan Tallinn (Skype co-founder, Anthropic investor)
-- ControlAI was founded by Andrea Miotti, Connor Leahy, and Gabriel Alfour, all Conjecture alumni
+- [[ControlAI]] wrote both the UK bill (introduced by [[Alex Sobel]]) and the US bill (sponsored by [[Bernie Sanders]])
+- [[ControlAI]] is supported by [[Jaan Tallinn]] (Skype co-founder, [[Anthropic]] investor)
+- [[ControlAI]] was founded by [[Andrea Miotti]], [[Connor Leahy]], and [[Gabriel Alfour]], all [[Conjecture]] alumni
 - The bills seek a global treaty banning superintelligent AI development
 
-### Anthropic Network Audit Follow-up (September 14-15, 2026)
+### [[Anthropic]] Network Audit Follow-up (September 14-15, 2026)
 
-Perrigo covered Kevin Bass's investigation into Anthropic's funding network, the IRS Form 990 filings tracing NPT grants to METR's ecosystem, the Series H investor composition, and the call for Congressional investigation. This added the financial specificity (specific dollar amounts, named investors) to the structural critique.
+Perrigo covered [[Kevin Bass]]'s investigation into [[Anthropic]]'s funding network, the IRS Form 990 filings tracing NPT grants to [[METR]]'s ecosystem, the Series H investor composition, and the call for Congressional investigation. This added the financial specificity (specific dollar amounts, named investors) to the structural critique.
 
 ## Significance
 

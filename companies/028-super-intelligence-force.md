@@ -46,7 +46,7 @@ The Super Intelligence Force is the Trump administration's answer to the questio
 - **Working groups (Semafor):** accord implementation (Clayton + National Cyber Director Sean Cairncross); incident-reporting protocols and long-term coordination (Defense Undersecretary Emil Michael); law-enforcement and consumer-protection coordination (FTC Chair Andrew Ferguson); critical-infrastructure and workforce partnerships (OPM Director Scott Kupor); a PCAST report commission on AI risk.
 - **Members:** Vance, Bessent, Hegseth, Kratsios, Klomp, Bisignano, Rudd, Wiles, Walters.
 - **Doctrine (The Hill, Oct 20):** existing criminal and civil law over new legislation; the FTC's consumer-protection authority "tailor-made," per allies; legal experts doubt it suffices. Prof. Chinmayi Sharma: "People want action now," but no consensus on which laws apply.
-- **The reporting mandate:** labs told to report rogue behavior immediately and fix it (thenextweb); Axios (Oct 9) ties the mandate to Anthropic's disclosure day.
+- **The reporting mandate:** labs told to report rogue behavior immediately and fix it (thenextweb); Axios (Oct 9) ties the mandate to [[Anthropic]]'s disclosure day.
 
 ## Why the wiki treats this as a structural event
 
@@ -68,6 +68,6 @@ On November 5, 2026, the Department of Justice announced a Super Intelligence Ta
 
 ## November 19, 2026: BIS remote-access rule is not this task force
 
-The Bureau of Industry and Security issued an Interim Final Rule "addressing remote access of American super intelligence technology" (BIS, Nov. 19, 2026). That rule is a Commerce product. It is not a Super Intelligence Force action. The shared "super intelligence" vocabulary does not merge the White House SI Force, the DOJ Super Intelligence Task Force, and BIS export controls into one body. Record the rule on the Commerce and TSMC sheets; do not treat it as an SI Force mandate.
+The Bureau of Industry and Security issued an Interim Final Rule "addressing remote access of American super intelligence technology" (BIS, Nov. 19, 2026). That rule is a Commerce product. It is not a Super Intelligence Force action. The shared "super intelligence" vocabulary does not merge the White House SI Force, the DOJ Super Intelligence Task Force, and BIS export controls into one body. Record the rule on the Commerce and [[TSMC]] sheets; do not treat it as an SI Force mandate.
 
 **Sources:** BIS (Nov. 19, 2026); research/2026-11-20.md.

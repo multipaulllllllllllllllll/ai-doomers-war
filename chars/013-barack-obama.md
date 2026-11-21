@@ -18,11 +18,11 @@ sources:
 
 ## Summary
 
-Barack Obama, the 44th President of the United States, re-entered the AI policy conversation in September 2026 at a Democratic fundraiser, telling attendees that Democrats need to make AI a "central agenda" item with a "clear plan" for addressing both its economic impact and safety concerns. He positioned himself as a bridge between the doomer-aligned AI labs and the Democratic Party's regulatory ambitions, having spoken to both Dario Amodei and Sam Altman about the technology.
+Barack Obama, the 44th President of the United States, re-entered the AI policy conversation in September 2026 at a Democratic fundraiser, telling attendees that Democrats need to make AI a "central agenda" item with a "clear plan" for addressing both its economic impact and safety concerns. He positioned himself as a bridge between the doomer-aligned AI labs and the Democratic Party's regulatory ambitions, having spoken to both [[Dario Amodei]] and [[Sam Altman]] about the technology.
 
 ## The Actual Quotes
 
-At a Democratic fundraising event (September 11, 2026), interviewed by House Minority Leader Hakeem Jeffries:
+At a Democratic fundraising event (September 11, 2026), interviewed by House Minority Leader [[Hakeem Jeffries]]:
 
 > "This is something that is moving very fast in private hands, and if we don't get on top of it, I think can be dangerous. If we do get on top of it, I do think it's beneficial. I genuinely think it's going to accelerate, for example, drug development in ways that can help us cure diseases."
 

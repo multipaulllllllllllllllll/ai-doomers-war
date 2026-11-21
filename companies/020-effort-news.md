@@ -16,20 +16,20 @@ sources:
 
 ## Summary
 
-Effort News is an independent news outlet run by journalist Brian Chau. It has produced investigative reporting on the funding network behind AI safety organizations, journalists, and policy advocates, documenting the same financial connections that link Anthropic's investors to the organizations pushing for regulation.
+Effort News is an independent news outlet run by journalist [[Brian Chau]]. It has produced investigative reporting on the funding network behind AI safety organizations, journalists, and policy advocates, documenting the same financial connections that link [[Anthropic]]'s investors to the organizations pushing for regulation.
 
-## Brian Chau's Reporting
+## [[Brian Chau]]'s Reporting
 
 Chau's key reporting has documented:
 1. The same funder network behind multiple AI safety outlets and journalists
 2. The connections between AI safety researchers and the companies being evaluated
 3. The financial interests underlying the regulatory capture critique
 
-## November 2026: NVIDIA opinion page
+## November 2026: [[NVIDIA]] opinion page
 
-Effort News published an opinion piece on NVIDIA (effort.news/nvidia) arguing that the board removed Jensen Huang on false pretenses, including fabricated quotes and misused classified material. This wiki records that as Chau's opinion, not as a finding of fact. It sits next to the NVIDIA board's stated predicate (personal misconduct) and Reuters's later wording. Those three framings are not the same sentence.
+Effort News published an opinion piece on [[NVIDIA]] (effort.news/nvidia) arguing that the board removed Jensen Huang on false pretenses, including fabricated quotes and misused classified material. This wiki records that as Chau's opinion, not as a finding of fact. It sits next to the [[NVIDIA]] board's stated predicate (personal misconduct) and Reuters's later wording. Those three framings are not the same sentence.
 
-**Sources:** Effort News (NVIDIA opinion page); NVIDIA board statements (Nov. 8-12, 2026); Reuters (Nov. 12, 2026); research/2026-11-20.md.
+**Sources:** Effort News ([[NVIDIA]] opinion page); [[NVIDIA]] board statements (Nov. 8-12, 2026); Reuters (Nov. 12, 2026); research/2026-11-20.md.
 
 ## See Also
 

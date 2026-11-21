@@ -21,9 +21,9 @@ sources:
 
 Bill Gates co-founded Microsoft in 1975 and later transitioned to full-time work on the Bill and Melinda Gates Foundation. Around September 15, 2026, Gates publicly warned about AI risks, including job displacement, inequality, and governments being unprepared, marking a notable shift from his previously optimistic stance on AI's transformative potential.
 
-## Microsoft and OpenAI
+## Microsoft and [[OpenAI]]
 
-Microsoft is OpenAI's primary cloud infrastructure partner and has committed over $10 billion to the partnership. Gates's shift toward AI risk warnings while Microsoft deepens its OpenAI investment creates a notable structural tension: Gates Foundation rhetoric about AI risk coexists with Microsoft's financial interest in OpenAI's success.
+Microsoft is [[OpenAI]]'s primary cloud infrastructure partner and has committed over $10 billion to the partnership. Gates's shift toward AI risk warnings while Microsoft deepens its [[OpenAI]] investment creates a notable structural tension: Gates Foundation rhetoric about AI risk coexists with Microsoft's financial interest in [[OpenAI]]'s success.
 
 ## The Shift (September 2026)
 

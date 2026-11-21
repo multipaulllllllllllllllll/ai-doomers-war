@@ -18,4 +18,4 @@ sources:
 
 ## Summary
 
-Founders Pledge is the organization through which Dustin Moskovitz channels the majority of his AI safety giving. Tech founders sign the pledge committing a percentage of their wealth to effective causes; Moskovitz is the largest donor via this vehicle, with $78.8M in FY2025 grants primarily flowing to the METR network of safety evaluators.
+Founders Pledge is the organization through which [[Dustin Moskovitz]] channels the majority of his AI safety giving. Tech founders sign the pledge committing a percentage of their wealth to effective causes; Moskovitz is the largest donor via this vehicle, with $78.8M in FY2025 grants primarily flowing to the [[METR]] network of safety evaluators.

@@ -22,21 +22,21 @@ sources:
 
 ## Summary
 
-Commerce is the department that writes the chip rules this wiki is tracking. Secretary [[howard-lutnick]] is the political face. BIS is the bureau. The November 2026 file is three documents that do not point the same way: an internal memo against selling NVIDIA into China, a license table that already approved hundreds of thousands of H200s, and a remote-access rule that then closed a foundry loophole.
+Commerce is the department that writes the chip rules this wiki is tracking. Secretary [[howard-lutnick]] is the political face. BIS is the bureau. The November 2026 file is three documents that do not point the same way: an internal memo against selling [[NVIDIA]] into China, a license table that already approved hundreds of thousands of H200s, and a remote-access rule that then closed a foundry loophole.
 
 ## Three products
 
-**Megaspeed memo (internal, Axios Nov. 11, 2026).** Lutnick's line: selling NVIDIA chips into China feeds a military rival. [[scott-bessent]] called it "bullshit" in Cabinet. Trump said he would "probably" overrule Lutnick.
+**Megaspeed memo (internal, Axios Nov. 11, 2026).** Lutnick's line: selling [[NVIDIA]] chips into China feeds a military rival. [[scott-bessent]] called it "bullshit" in Cabinet. Trump said he would "probably" overrule Lutnick.
 
-**May 11 H200 license summary (released by [[brian-mast]]).** About 3.44 million chips requested, 879,868 approved, 75,000 Alibaba, 150,000 Tencent, Maginfra and Beijing New Matrix named. NVIDIA says it followed then-current rules and stopped H200 shipments to China.
+**May 11 H200 license summary (released by [[brian-mast]]).** About 3.44 million chips requested, 879,868 approved, 75,000 Alibaba, 150,000 Tencent, Maginfra and Beijing New Matrix named. [[NVIDIA]] says it followed then-current rules and stopped H200 shipments to China.
 
 **November 19 remote-access rule.** BIS issued a rule addressing remote access to American super-intelligence technology. U.S. News, citing Reuters sources, reported that [[tsmc]] stopped 16-nanometer-and-below orders from unlicensed Chinese designers. Samsung's role is single-outlet.
 
-Jeffrey Kessler remains the under secretary named on the earlier Entity List tranche (September 2026, 25 Chinese entities, 80% China AI-chip cutoff). That September action is still on the NVIDIA sheet. This page does not re-litigate it.
+Jeffrey Kessler remains the under secretary named on the earlier Entity List tranche (September 2026, 25 Chinese entities, 80% China AI-chip cutoff). That September action is still on the [[NVIDIA]] sheet. This page does not re-litigate it.
 
-## Anthropic counterpart
+## [[Anthropic]] counterpart
 
-[[Jack Clark]] is not a Commerce official. He is Anthropic's Head of Public Benefit. The Commerce ties on his sheet are policy: House testimony (June 25, 2025) asking Congress to tighten semiconductor export controls to China and to fund CAISI inside NIST; Anthropic's position on the Commerce Framework for AI Diffusion (Import AI 397); and the June 12, 2026 BIS restricted-access letter to Anthropic (CSIS). Secretary [[howard-lutnick]] remains the political face of this department. Details live on the Clark people sheet, not here.
+[[Jack Clark]] is not a Commerce official. He is [[Anthropic]]'s Head of Public Benefit. The Commerce ties on his sheet are policy: House testimony (June 25, 2025) asking Congress to tighten semiconductor export controls to China and to fund CAISI inside NIST; [[Anthropic]]'s position on the Commerce Framework for AI Diffusion (Import AI 397); and the June 12, 2026 BIS restricted-access letter to [[Anthropic]] (CSIS). Secretary [[howard-lutnick]] remains the political face of this department. Details live on the Clark people sheet, not here.
 
 ## What to Watch
 

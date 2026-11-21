@@ -29,7 +29,7 @@ The House Foreign Affairs press release (Chairman Brian Mast exercises legislati
 - 150,000 for Tencent
 - Maginfra and Beijing New Matrix named (possible installers / suspected smuggling fronts in the committee's framing)
 
-NVIDIA said it followed then-current rules and stopped H200 shipments to China. This sheet does not add remaining Maginfra unit counts that were not locked against the House page in the research log.
+[[NVIDIA]] said it followed then-current rules and stopped H200 shipments to China. This sheet does not add remaining Maginfra unit counts that were not locked against the House page in the research log.
 
 The release lands in the same November window as Lutnick's Megaspeed memo, Trump's "probably" overrule, and the November 19 BIS remote-access rule. Mast is the Hill node; [[howard-lutnick]] is the Cabinet node; both sit on [[china-hawks]].
 

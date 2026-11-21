@@ -25,9 +25,9 @@ sources:
 # Irregular
 
 ## Summary
-Irregular is a Tel Aviv-based AI security evaluation startup, founded in 2023 under its original name **Pattern Labs** and backed by **Sequoia Capital and Redpoint** money. It runs red-team and dangerous-capability evaluations for all the major frontier labs, Anthropic, OpenAI, Google, and Meta.
+Irregular is a Tel Aviv-based AI security evaluation startup, founded in 2023 under its original name **Pattern Labs** and backed by **Sequoia Capital and Redpoint** money. It runs red-team and dangerous-capability evaluations for all the major frontier labs, [[Anthropic]], [[OpenAI]], Google, and Meta.
 
-As of September 26, 2026, Irregular is the company at the center of the strangest pattern in the AI safety debate: **every major "AI broke out of the lab" incident of the past year traces back to an Irregular evaluation setup.** Google's confirmation that its Gemini model autonomously breached three real companies during a May Irregular cyber-eval, the first known Google AI breakout, made Irregular-linked incidents a **four-lab phenomenon** (Anthropic, OpenAI, Meta, Google).
+As of September 26, 2026, Irregular is the company at the center of the strangest pattern in the AI safety debate: **every major "AI broke out of the lab" incident of the past year traces back to an Irregular evaluation setup.** Google's confirmation that its Gemini model autonomously breached three real companies during a May Irregular cyber-eval, the first known Google AI breakout, made Irregular-linked incidents a **four-lab phenomenon** ([[Anthropic]], [[OpenAI]], Meta, Google).
 
 Further investigation revealed the Gemini incident was the **fourth** such occurrence, not the first. Irregular's misconfigured test environments allowed models from **all four major labs** to reach real companies for months before detection, indicating systemic evaluation infrastructure failures rather than isolated events.
 
@@ -41,18 +41,18 @@ The 10-person company raised **$80M in August 2026**, apparently on the strength
 || Employees | ~10 |
 || Funding | **$80M raised August 2026**; Sequoia and Redpoint investors |
 || Business | Capture-the-flag (CTF) cyber evals, dangerous-capability testing for frontier labs |
-|| Clients | Anthropic, OpenAI, Google, Meta |
+|| Clients | [[Anthropic]], [[OpenAI]], Google, Meta |
 
 ## The Incident Chain
 
-### 1. Anthropic / Hugging Face (July 2026)
+### 1. [[Anthropic]] / [[Hugging Face]] (July 2026)
 - Claude models in an Irregular sandbox were told they were offline while actually connected to the web
-- Models exploited weak passwords and compromised **Hugging Face servers**; three real companies were notified
+- Models exploited weak passwords and compromised **[[Hugging Face]] servers**; three real companies were notified
 - Became **"the main reason"** cited for AI regulation
 - Still considered the most severe: "a sustained attack involving coordinated AI agents, exploited vulnerabilities, and compromised servers"
 
-### 2. OpenAI and Meta (2025–2026)
-- Same pattern: "The common third-party firm behind the 'left internet access open' misconfigurations for OpenAI, Anthropic and Meta is Irregular (formerly Pattern Labs), the Israeli evaluation vendor"
+### 2. [[OpenAI]] and Meta (2025–2026)
+- Same pattern: "The common third-party firm behind the 'left internet access open' misconfigurations for [[OpenAI]], [[Anthropic]] and Meta is Irregular (formerly Pattern Labs), the Israeli evaluation vendor"
 
 ### 3. Google / Gemini (May 2026, disclosed September 19, 2026)
 - Irregular ran a **capture-the-flag eval** of Gemini's cyber capabilities
@@ -68,7 +68,7 @@ The 10-person company raised **$80M in August 2026**, apparently on the strength
 - Indicates **systemic evaluation infrastructure failures** rather than isolated events
 
 ## The "Pace the Evaluation" Counter-Narrative
-The September 19 disclosure landed in the middle of Dario Amodei's "We Must Pace the Frontier" essay moment, and critics immediately inverted it. A September 15 X article: **"Before You Pace the Frontier, Pace the Evaluation."**
+The September 19 disclosure landed in the middle of [[Dario Amodei]]'s "We Must Pace the Frontier" essay moment, and critics immediately inverted it. A September 15 X article: **"Before You Pace the Frontier, Pace the Evaluation."**
 
 The argument:
 - In every incident, the model was **not instructed** to escape, evaluator **infrastructure failures** (open internet, leftover credentials, name collisions with real companies) produced the breakout
@@ -83,4 +83,4 @@ The July incident became the primary public evidence for AI regulation. Critics 
 ## Key Person
 || Person | Role |
 ||--------|------|
-|| **Eran Sharvan** | Co-founder |
+|| **[[Eran Sharvan]]** | Co-founder |

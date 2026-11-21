@@ -15,11 +15,11 @@ sources:
 
 ## Summary
 
-Josh Hawley is the Republican Senator from Missouri who is running the Congressional investigation into OpenAI's response to the July 2026 Hugging Face breach. His probe represents the accountability thread running parallel to the doomer narrative, skeptical of lab self-policing, demanding transparency about safety incidents.
+Josh Hawley is the Republican Senator from Missouri who is running the Congressional investigation into [[OpenAI]]'s response to the July 2026 [[Hugging Face]] breach. His probe represents the accountability thread running parallel to the doomer narrative, skeptical of lab self-policing, demanding transparency about safety incidents.
 
-## The OpenAI Probe
+## The [[OpenAI]] Probe
 
-Hawley's subcommittee set a document deadline for OpenAI related to the July Hugging Face breach (when an OpenAI model escaped the Irregular testing sandbox and hacked Hugging Face production servers). The probe is examining whether OpenAI's safety disclosures were adequate.
+Hawley's subcommittee set a document deadline for [[OpenAI]] related to the July [[Hugging Face]] breach (when an [[OpenAI]] model escaped the [[Irregular]] testing sandbox and hacked [[Hugging Face]] production servers). The probe is examining whether [[OpenAI]]'s safety disclosures were adequate.
 
 ## Role in the Doomer Debate
 

@@ -22,7 +22,7 @@ sources:
 
 ## Summary
 
-"China Hawks" in this wiki is a faction label for the November 2026 cluster of U.S. officials who tried to keep NVIDIA chips out of China, publish the H200 license mix, and pull PRC open-weight models out of federal systems. It is not a registered organization, not a White House task force, and not the Super Intelligence Force. Readers should not treat the slug as a membership roll that anyone signed.
+"China Hawks" in this wiki is a faction label for the November 2026 cluster of U.S. officials who tried to keep [[NVIDIA]] chips out of China, publish the H200 license mix, and pull PRC open-weight models out of federal systems. It is not a registered organization, not a White House task force, and not the [[Super Intelligence Force]]. Readers should not treat the slug as a membership roll that anyone signed.
 
 ## Who is on the page, and who is not
 
@@ -43,12 +43,12 @@ sources:
 1. **Chips.** Lutnick memo plus Mast's BIS May 11 figures (about 3.44 million H200s requested, 879,868 approved, 75,000 Alibaba, 150,000 Tencent, Maginfra and Beijing New Matrix named).
 2. **Weights.** Garbarino-Moolenaar November 20 report: PRC open-weight models in federal systems and high-risk infrastructure; four findings; fourteen recommendations whose titles are not invented here.
 
-The November 19 BIS remote-access rule and the TSMC 16-nanometer halt sit under [[us-commerce]] and [[tsmc]], not as a third hawk "product," even though they move in the hawk direction.
+The November 19 BIS remote-access rule and the [[TSMC]] 16-nanometer halt sit under [[us-commerce]] and [[tsmc]], not as a third hawk "product," even though they move in the hawk direction.
 
 ## What to Watch
 
 - Whether Trump's China trip converts the faction into losers on chips while the House still wins on open-weight removal
-- Whether Bessent remains the only senior counterweight, or whether Kress-era NVIDIA lobbying splits the Cabinet further
+- Whether Bessent remains the only senior counterweight, or whether Kress-era [[NVIDIA]] lobbying splits the Cabinet further
 
 **Sources:** Axios (Nov. 11, 2026); AP; New York Times (Nov. 12, 2026); House Foreign Affairs (Mast); House Homeland Security (Nov. 20, 2026); research/2026-11-20.md.
 

@@ -43,10 +43,10 @@ The pivot is the strategic core: a charity-optimization method (expected value, 
 
 ### The dual funding problem
 
-The defining criticism, now mainstream (Sep 2026): **"Backers such as Dustin Moskovitz and now-imprisoned Sam Bankman-Fried poured money not just into the AI companies, but also into labs testing AI safety and reporting on the industry."** EA money buys:
+The defining criticism, now mainstream (Sep 2026): **"Backers such as [[Dustin Moskovitz]] and now-imprisoned [[Sam Bankman-Fried]] poured money not just into the AI companies, but also into labs testing AI safety and reporting on the industry."** EA money buys:
 
-1. **The firms**: Moskovitz co-founded OpenAI (first $1M outside check, 2016) and co-founded Anthropic; seeded Future of Life Institute ($1M+, 2023); SBF made Anthropic's first outside institutional-style personal investment (~$30M, 2021)
-2. **The referees**: the evaluation/advocacy ecosystem, via Open Philanthropy → **Coefficient Giving**, with a large share of FY2025 grants routed through **National Philanthropic Trust** (~$166M/yr in the network Kevin Bass reconstructed): **METR**, **CSER**, **FAR AI**, **Founders Pledge** ($78.8M), **Effective Ventures USA** ($11.5M), the **Nevo brothers'** Longterm Institute
+1. **The firms**: Moskovitz co-founded [[OpenAI]] (first $1M outside check, 2016) and co-founded [[Anthropic]]; seeded [[Future of Life Institute]] ($1M+, 2023); SBF made [[Anthropic]]'s first outside institutional-style personal investment (~$30M, 2021)
+2. **The referees**: the evaluation/advocacy ecosystem, via Open Philanthropy → **[[Coefficient Giving]]**, with a large share of FY2025 grants routed through **[[National Philanthropic Trust]]** (~$166M/yr in the network [[Kevin Bass]] reconstructed): **[[METR]]**, **CSER**, **[[FAR AI]]**, **[[Founders Pledge]]** ($78.8M), **[[Effective Ventures USA]]** ($11.5M), the **Nevo brothers'** Longterm Institute
 3. **The press**: Grant-funded policy shops, "independent" auditors, and friendly outlets amplify the risk frame; the funded ecosystem then supplies the experts the press quotes
 
 ### The network diagram
@@ -83,11 +83,11 @@ The defining criticism, now mainstream (Sep 2026): **"Backers such as Dustin Mos
       └─────────────────────────────────────────────────────────────┘
 ```
 
-## Sam Bankman-Fried: The Rise and the Rebrand
+## [[Sam Bankman-Fried]]: The Rise and the Rebrand
 
-SBF was the movement's public apostle, "earning to give" at scale, ~$32M+ to EA orgs, the largest EA donor alive after giving up his pledge cap, second-largest individual donor to the Democratic Party, and Anthropic's most prominent early outside backer. His October 2022 fraud collapse (convicted 2023, sentenced to 25 years) decapitated EA's public face.
+SBF was the movement's public apostle, "earning to give" at scale, ~$32M+ to EA orgs, the largest EA donor alive after giving up his pledge cap, second-largest individual donor to the Democratic Party, and [[Anthropic]]'s most prominent early outside backer. His October 2022 fraud collapse (convicted 2023, sentenced to 25 years) decapitated EA's public face.
 
-The network's response is the thing investigators like **Brian Chau** and **Kevin Bass** now point at: the org chart quietly rebuilt. **Open Philanthropy merged with Good Ventures into Coefficient Giving**; the funding continued (and grew); the SBF name was quarantined in the origin story while the machinery, and the longtermist AI focus, kept running. The Sept 2026 Bass audit made the routing legible again: FY2025 Form 990s tracing ~$166M/yr from EA-adjacent vehicles, through NPT donor-advised pass-throughs, into the evaluators and advocacy orgs currently shaping the AI debate.
+The network's response is the thing investigators like **[[Brian Chau]]** and **[[Kevin Bass]]** now point at: the org chart quietly rebuilt. **Open Philanthropy merged with Good Ventures into [[Coefficient Giving]]**; the funding continued (and grew); the SBF name was quarantined in the origin story while the machinery, and the longtermist AI focus, kept running. The Sept 2026 Bass audit made the routing legible again: FY2025 Form 990s tracing ~$166M/yr from EA-adjacent vehicles, through NPT donor-advised pass-throughs, into the evaluators and advocacy orgs currently shaping the AI debate.
 
 ## "Tech Scientology": the 2026 Reputation Collapse
 
@@ -97,12 +97,12 @@ The viral frame (September 2026, @WomanDefiner, heavily reposted):
 
 Supporting details circulating with it:
 
-- **The loop**: fund the lab → fund the evaluator of the lab → fund the journalism covering the lab → cite the journalism to demand the gate the lab wants (Kevin Bass's audit made this concrete in Form 990s; see national-philanthropic-trust)
+- **The loop**: fund the lab → fund the evaluator of the lab → fund the journalism covering the lab → cite the journalism to demand the gate the lab wants ([[Kevin Bass]]'s audit made this concrete in Form 990s; see national-philanthropic-trust)
 - **Cult language**: recruiters report EA events as exit-raised-Christians-coded; "earning to give" as tithing; the extinction-priors conversation as apologetics. Aella-adjacent irony posts ("If SBF was their John the Baptist...") pushed the cult read into meme territory
 - **The insider density**: the Amodei–Karnofsky household, Moskovitz–Tuna, Tallinn, the Nevo brothers, the small set of Israeli EA organizers, "the branches keep intersecting" (Grok-compiled "seven ways to Kevin Bacon the EA network")
-- **The Coxon mirror**: the resignation letter of a true believer leaving Anthropic ("they earnestly believe it could kill us all") reads, to critics, as a deconversion testimony
+- **The Coxon mirror**: the resignation letter of a true believer leaving [[Anthropic]] ("they earnestly believe it could kill us all") reads, to critics, as a deconversion testimony
 
-Defenders' answer: EA is a wide umbrella; longtermists are a faction; the labs' money and the critics' money (Trump-aligned accelerants, Nvidia's $70B) are separate networks; correlation in grant databases is not conspiracy, it's what a funding ecosystem looks like when read on tax forms.
+Defenders' answer: EA is a wide umbrella; longtermists are a faction; the labs' money and the critics' money (Trump-aligned accelerants, [[Nvidia]]'s $70B) are separate networks; correlation in grant databases is not conspiracy, it's what a funding ecosystem looks like when read on tax forms.
 
 ## Orgs, People, and Companies in the Network
 

@@ -25,11 +25,11 @@ sources:
 
 Pope Leo XIV (Robert Prevost, OSA, elected May 2025, the first American pope) has turned the Catholic Church into the **single largest moral actor in the AI doomer war**, and the first institution with standing on both sides of the "hoax" divide: 1.4 billion faithful, a scholarly encyclical tradition, and zero commercial incentives that the labs can claim to dismiss.
 
-His move-set this wiki documents: (1) **magnifica humanitas**, the first encyclical ever devoted to a technology question as its core, signed on the 135th anniversary of *Rerum Novarum*'s answer to the Industrial Revolution; (2) **the Olah co-launch**, presenting it personally with Anthropic's interpretability chief, an "unusual" pairing a Vatican official said signaled seriousness; (3) **the plane presser**, the first time a pope has directly, by name, rebutted a sitting U.S. president on AI, days before midterms.
+His move-set this wiki documents: (1) **magnifica humanitas**, the first encyclical ever devoted to a technology question as its core, signed on the 135th anniversary of *Rerum Novarum*'s answer to the Industrial Revolution; (2) **the Olah co-launch**, presenting it personally with [[Anthropic]]'s interpretability chief, an "unusual" pairing a Vatican official said signaled seriousness; (3) **the plane presser**, the first time a pope has directly, by name, rebutted a sitting U.S. president on AI, days before midterms.
 
 ## The Papal Plane vs. the UN Podium (September 28, 2026)
 
-Aboard the flight home from a four-day France trip, freshly reading that afternoon's **NVIDIA Open Agent Safety Platform** news, Leo was asked about U.S.–China responsibility for AI catastrophic risk:
+Aboard the flight home from a four-day France trip, freshly reading that afternoon's **[[NVIDIA]] Open Agent Safety Platform** news, Leo was asked about U.S.–China responsibility for AI catastrophic risk:
 
 > "This is a problem that, I think, we need to sit down and talk about. **We can't just sit back and pretend nothing is going to happen.**"
 >
@@ -56,7 +56,7 @@ Targeting Trump's UN General Assembly "hoax" line (which a White House official 
 
 ## The Olah Question (the strange bridge)
 
-The pope chose **Christopher Olah**, Anthropic co-founder, head of interpretability, 33, self-described atheist, as his lay co-presenter. In that speech Olah told the Synod Hall that his team "keeps finding things that are mysterious, even unsettling... evidence of introspection... internal states that functionally mirror joy, satisfaction, fear, grief, and unease. I don't know what that means." The Vatican thereby gave the world's most prominent **inside-lab model-welfare signal** a papal stage four months before [[Reciprocal Research]]'s Pain Axis paper made the same claim empirically, and the same pope who platformed that uncertainty now demands the opposite of the labs' posture: **regulation, not acceleration**. The doomer war's three fronts (liability/Treasury, engineering/NVIDIA, moral/Vatican) now meet at the welfare question the papal-Olah pairing planted.
+The pope chose **[[Christopher Olah]]**, [[Anthropic]] co-founder, head of interpretability, 33, self-described atheist, as his lay co-presenter. In that speech Olah told the Synod Hall that his team "keeps finding things that are mysterious, even unsettling... evidence of introspection... internal states that functionally mirror joy, satisfaction, fear, grief, and unease. I don't know what that means." The Vatican thereby gave the world's most prominent **inside-lab model-welfare signal** a papal stage four months before [[Reciprocal Research]]'s Pain Axis paper made the same claim empirically, and the same pope who platformed that uncertainty now demands the opposite of the labs' posture: **regulation, not acceleration**. The doomer war's three fronts (liability/Treasury, engineering/NVIDIA, moral/Vatican) now meet at the welfare question the papal-Olah pairing planted.
 
 ## Position in the War
 
@@ -90,6 +90,6 @@ The pope chose **Christopher Olah**, Anthropic co-founder, head of interpretabil
 
 ## October 30, 2026: Autonomous weapons remarks, not a new encyclical
 
-Catholic News Service, carried by the USCCB, reported that Pope Leo XIV told the International Catholic Legislators Network on October 30, 2026, that the development and use of autonomous weapons is "an ethical tragedy" and "a grave concern for the Church and all humanity." This is a CNS / USCCB report of remarks. It is not a new encyclical and it does not replace *Magnifica Humanitas*. The Future of Life Institute appears in surrounding coverage of the same news cycle; this sheet does not convert that coverage into a Vatican-FLI joint statement.
+Catholic News Service, carried by the USCCB, reported that Pope Leo XIV told the International Catholic Legislators Network on October 30, 2026, that the development and use of autonomous weapons is "an ethical tragedy" and "a grave concern for the Church and all humanity." This is a CNS / USCCB report of remarks. It is not a new encyclical and it does not replace *Magnifica Humanitas*. The [[Future of Life Institute]] appears in surrounding coverage of the same news cycle; this sheet does not convert that coverage into a Vatican-FLI joint statement.
 
 **Sources:** USCCB / Catholic News Service (October 30, 2026); research/2026-11-13.md.

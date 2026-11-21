@@ -15,7 +15,7 @@ sources:
 
 ## Summary
 
-Alex Sobel is a Labour Member of Parliament who introduced the UK's superintelligence ban bill, the first legislation of its kind in any G7 parliament, on September 8, 2026. The bill's language was drafted by ControlAI, the UK-based campaign non-profit funded by Jaan Tallinn and staffed by Conjecture alumni. Sobel served as the political vehicle for translating the ControlAI policy framework into parliamentary action.
+Alex Sobel is a Labour Member of Parliament who introduced the UK's superintelligence ban bill, the first legislation of its kind in any G7 parliament, on September 8, 2026. The bill's language was drafted by [[ControlAI]], the UK-based campaign non-profit funded by [[Jaan Tallinn]] and staffed by [[Conjecture]] alumni. Sobel served as the political vehicle for translating the [[ControlAI]] policy framework into parliamentary action.
 
 ## The UK Bill
 
@@ -28,4 +28,4 @@ The Ten Minute Rule format means the bill received a first reading but is unlike
 
 ## Political Context
 
-The bill's introduction on the same date as Jacob Coxon's exit letter and the three-lab pacing agreement (September 8, 2026) is part of the documented convergence of multiple doomer events on a single date. Sobel's bill provided the UK parliamentary dimension of what was simultaneously a US political campaign, a media cascade, and an industry coordination event.
+The bill's introduction on the same date as [[Jacob Coxon]]'s exit letter and the three-lab pacing agreement (September 8, 2026) is part of the documented convergence of multiple doomer events on a single date. Sobel's bill provided the UK parliamentary dimension of what was simultaneously a US political campaign, a media cascade, and an industry coordination event.

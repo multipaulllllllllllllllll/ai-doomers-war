@@ -16,4 +16,4 @@ sources:
 
 ## Summary
 
-Gabriel Alfour is a co-founder of Conjecture and helped Andrea Miotti found ControlAI. Along with Miotti and Connor Leahy, he represents the Conjecture alumni who transitioned from AI governance research to direct political advocacy, writing the legislative language that became the UK and US superintelligence ban bills in September 2026.
+Gabriel Alfour is a co-founder of [[Conjecture]] and helped [[Andrea Miotti]] found [[ControlAI]]. Along with Miotti and [[Connor Leahy]], he represents the [[Conjecture]] alumni who transitioned from AI governance research to direct political advocacy, writing the legislative language that became the UK and US superintelligence ban bills in September 2026.

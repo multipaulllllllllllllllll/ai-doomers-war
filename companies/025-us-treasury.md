@@ -24,12 +24,12 @@ sources:
 
 ## Two tools, one message
 
-1. **Liability, not immunity.** Bessent on CNBC: "It is humans who are responsible": OpenAI management owns the Hugging Face attack; no shield for a "rogue AI" defense. The labs' capability narrative, inverted: if the model really is dangerous, someone is negligent.
+1. **Liability, not immunity.** Bessent on CNBC: "It is humans who are responsible": [[OpenAI]] management owns the [[Hugging Face]] attack; no shield for a "rogue AI" defense. The labs' capability narrative, inverted: if the model really is dangerous, someone is negligent.
 2. **Sanctions, not safety gates.** The HF/Irregular breakouts recast as "state-backed hacks using open-source AI": Sept 22 sanctions (2 Russian entities, 6 individuals), SARs to banks, FinCEN advisories, AI-CSAC/AI-FOCUS, G7 agenda. The gate proposed is a national-security border, not an evaluation regime.
 
 ## Why it matters to the graph
 
-- Every actor in this wiki who funded evaluations (Coefficient/NPT → METR/Irregular) or demanded a gate (FLI, CSER, the pacing coalition) now faces a Treasury that routes *through money*, not metrics
+- Every actor in this wiki who funded evaluations (Coefficient/NPT → [[METR]]/Irregular) or demanded a gate (FLI, CSER, the pacing coalition) now faces a Treasury that routes *through money*, not metrics
 - The "paid activists" jab at EA's Capitol Hill expansion (Sept 16) is the first senior-official echo of the wiki's core funding-loop claim
 - A gate is still a gate: "open-source AI is a national security risk" serves the same moat function as "unsafe frontier models": the political side just swaps who gets excluded
 
@@ -38,7 +38,7 @@ sources:
 
 ## November 11, 2026: Cabinet fight with Commerce
 
-The Treasury sheet's Secretary is the named counterweight in the Megaspeed fight. Axios (Nov. 11, 2026) reported that [[scott-bessent]] called an internal [[us-commerce]] memo against NVIDIA sales to China "bullshit" and said [[howard-lutnick]] had a "long track record of being a liar." President [[donald-trump]] told Axios he would "probably" overrule Lutnick. This is a Cabinet split over export policy, not a new Treasury sanctions package. Do not fold it into the September SARs / FinCEN channel above.
+The Treasury sheet's Secretary is the named counterweight in the Megaspeed fight. Axios (Nov. 11, 2026) reported that [[scott-bessent]] called an internal [[us-commerce]] memo against [[NVIDIA]] sales to China "bullshit" and said [[howard-lutnick]] had a "long track record of being a liar." President [[donald-trump]] told Axios he would "probably" overrule Lutnick. This is a Cabinet split over export policy, not a new Treasury sanctions package. Do not fold it into the September SARs / FinCEN channel above.
 
 **Sources:** Axios (Nov. 11, 2026); AP; research/2026-11-20.md.
 

@@ -21,7 +21,7 @@ Google DeepMind is the AI research division of Alphabet Inc., created through th
 
 ## Position in the Debate
 
-DeepMind represents the established tech giant in the AI race. It is less associated with the doomer narrative than Anthropic, but its parent company's interests align with the regulatory framing that would advantage incumbents over scrappy startups.
+DeepMind represents the established tech giant in the AI race. It is less associated with the doomer narrative than [[Anthropic]], but its parent company's interests align with the regulatory framing that would advantage incumbents over scrappy startups.
 
 ## Key Products
 
@@ -31,6 +31,6 @@ DeepMind represents the established tech giant in the AI race. It is less associ
 
 ## November 12, 2026: Named in the halt-frontier suit
 
-Public Citizen announced a coalition filing on November 12, 2026, and Reuters independently reported a suit against Anthropic, Google, Meta, OpenAI, and SpaceXSI seeking to halt frontier training. This sheet records Google as a named defendant in that Reuters / Public Citizen pairing. The exact complaint caption and full plaintiff list were not recovered from a complaint PDF this sweep, so this page does not treat every coalition name as a verified party.
+Public Citizen announced a coalition filing on November 12, 2026, and Reuters independently reported a suit against [[Anthropic]], Google, Meta, [[OpenAI]], and SpaceXSI seeking to halt frontier training. This sheet records Google as a named defendant in that Reuters / Public Citizen pairing. The exact complaint caption and full plaintiff list were not recovered from a complaint PDF this sweep, so this page does not treat every coalition name as a verified party.
 
 **Sources:** Public Citizen (November 12, 2026); Reuters (November 12, 2026); research/2026-11-13.md.

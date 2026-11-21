@@ -27,7 +27,7 @@ sources:
 
 NVIDIA (NASDAQ: NVDA) is the semiconductor company whose GPUs power every major frontier AI lab. CEO Jensen Huang has positioned NVIDIA as the "picks and shovels" of the AI gold rush. Beyond chip sales, NVIDIA has committed $70 billion in equity investments across AI labs, making it one of the largest financial stakeholders in the AI ecosystem beyond the labs themselves.
 
-On September 15, 2026, Jensen Huang appeared live with Donald Trump, who called AI safety a "hoax" during the event. This moment crystallizes NVIDIA's position: it is both the enabler of the AI race and a major beneficiary of whatever regulatory outcome emerges, whether "pause" or "go," NVIDIA wins.
+On September 15, 2026, Jensen Huang appeared live with [[Donald Trump]], who called AI safety a "hoax" during the event. This moment crystallizes NVIDIA's position: it is both the enabler of the AI race and a major beneficiary of whatever regulatory outcome emerges, whether "pause" or "go," NVIDIA wins.
 
 ## The $70 Billion Equity Commitment
 
@@ -35,17 +35,17 @@ NVIDIA has deployed significant equity capital across the AI lab ecosystem:
 
 | Lab | Equity Commitment |
 |-----|-----------------|
-| **OpenAI** | $30 billion |
-| **Anthropic** | $10 billion |
+| **[[OpenAI]]** | $30 billion |
+| **[[Anthropic]]** | $10 billion |
 | **Other partners** | $30 billion |
 | **Total** | **$70 billion** |
 
-These are equity investments, not just chip supply agreements. NVIDIA has financial stakes in the outcomes of its customers, OpenAI and Anthropic both benefit from regulatory moats that sustain their valuations, which in turn affects NVIDIA's equity positions.
+These are equity investments, not just chip supply agreements. NVIDIA has financial stakes in the outcomes of its customers, [[OpenAI]] and [[Anthropic]] both benefit from regulatory moats that sustain their valuations, which in turn affects NVIDIA's equity positions.
 
 ## The Regulatory Moat Argument
 
 If the doomer regulatory framework succeeds:
-- Closed-source frontier labs (Anthropic, OpenAI) are protected from open-source competition
+- Closed-source frontier labs ([[Anthropic]], [[OpenAI]]) are protected from open-source competition
 - NVIDIA's data center GPU sales are further insulated
 - NVIDIA's equity stakes in those labs appreciate
 
@@ -58,7 +58,7 @@ This creates what critics call a "heads I win, tails you lose" dynamic: NVIDIA b
 
 ## The Trump Moment (September 15, 2026)
 
-At a live event with Jensen Huang on September 15, 2026, Donald Trump called AI safety a "hoax." The same day, the 10-year US Treasury yield hit 5% (a 19-year high). The juxtaposition, Trump dismissing AI safety concerns while standing next to NVIDIA's CEO, underscored the political polarization around AI regulation.
+At a live event with Jensen Huang on September 15, 2026, [[Donald Trump]] called AI safety a "hoax." The same day, the 10-year US Treasury yield hit 5% (a 19-year high). The juxtaposition, Trump dismissing AI safety concerns while standing next to NVIDIA's CEO, underscored the political polarization around AI regulation.
 
 ## Jensen Huang's Position
 
@@ -66,23 +66,23 @@ Jensen Huang has consistently declined to take sides in the safety debate while 
 
 ## Open Agent Safety Platform Launch (September 28, 2026)
 
-On September 28, 2026, NVIDIA launched the Open Agent Safety Platform, including OpenShell and Sentry, stating it could have prevented the Hugging Face breach by OpenAI's autonomous agents. OpenShell uses hardware-level features in Nvidia's CPU chips to contain AI agents, while Sentry monitors and controls agent behavior in real-time. Jensen Huang framed escaped agents as an engineering problem akin to automobile safety rather than requiring regulatory freeze.
+On September 28, 2026, NVIDIA launched the Open Agent Safety Platform, including OpenShell and Sentry, stating it could have prevented the [[Hugging Face]] breach by [[OpenAI]]'s autonomous agents. OpenShell uses hardware-level features in Nvidia's CPU chips to contain AI agents, while Sentry monitors and controls agent behavior in real-time. Jensen Huang framed escaped agents as an engineering problem akin to automobile safety rather than requiring regulatory freeze.
 
 ## Sept 29: At the Right Hand
 
-At the White House summit Huang was seated **to Trump's right** (Musk at the left; Amodei, the slowdown voice, farther away than Pichai, the seating chart read as policy by sedaily). He signed the White House Accord on Superintelligence as one of six signatories, and per Exiger CEO Brandon Daniels the accord's architecture, "a superseding set of principles and standards... that could be centrally audited," open to future executive orders or regulation, **was Huang and Zuckerberg's proposal** (CNN). The day after the OASP launch, NVIDIA is thus both vendor and validator of the accord's external-audit pillar, and per its own prospectus-adjacent reporting, it is negotiating a up-to-$10B anchor investment in Anthropic's IPO.
+At the White House summit Huang was seated **to Trump's right** (Musk at the left; Amodei, the slowdown voice, farther away than Pichai, the seating chart read as policy by sedaily). He signed the White House Accord on Superintelligence as one of six signatories, and per Exiger CEO Brandon Daniels the accord's architecture, "a superseding set of principles and standards... that could be centrally audited," open to future executive orders or regulation, **was Huang and Zuckerberg's proposal** (CNN). The day after the OASP launch, NVIDIA is thus both vendor and validator of the accord's external-audit pillar, and per its own prospectus-adjacent reporting, it is negotiating a up-to-$10B anchor investment in [[Anthropic]]'s IPO.
 
 **Sources:** CNN (Daniels), sedaily, webn.tv, NBC, The Hill; research/2026-09-30.md.
 
 ## September 28–29, 2026: The Pope Reads the Announcement: and Answers It
 
-Hours after NVIDIA launched the Open Agent Safety Platform, **Pope Leo XIV**, aboard the papal plane returning from France, told reporters he had read that afternoon about "Nvidia introducing guardrails into AI" (and then: **"He's the same one, however, that says there should be no limits placed and no government regulation."** The critique lands on the exact seam of the Sept 28 strategy: selling containment tooling (OpenShell/Sentry) while lobbying against mandated containment (Huang's CBS statement that he "agrees with Trump" on AI safety; the "engineering problem, not a regulatory freeze" frame). With the pope's moral platform (1.4B faithful) naming it days before midterms, NVIDIA's vendor-safety narrative now has a religious counter-narrative: guardrails without limits is marketing, not safety. **Source:** Thenewweb/PBS NewsHour/NBC (papal plane presser, Sept 28-29).)
+Hours after NVIDIA launched the Open Agent Safety Platform, **[[Pope Leo XIV]]**, aboard the papal plane returning from France, told reporters he had read that afternoon about "Nvidia introducing guardrails into AI" (and then: **"He's the same one, however, that says there should be no limits placed and no government regulation."** The critique lands on the exact seam of the Sept 28 strategy: selling containment tooling (OpenShell/Sentry) while lobbying against mandated containment (Huang's CBS statement that he "agrees with Trump" on AI safety; the "engineering problem, not a regulatory freeze" frame). With the pope's moral platform (1.4B faithful) naming it days before midterms, NVIDIA's vendor-safety narrative now has a religious counter-narrative: guardrails without limits is marketing, not safety. **Source:** Thenewweb/PBS NewsHour/NBC (papal plane presser, Sept 28-29).)
 
 ## October 14: Huang Answers the Pope
 
 Fortune (Oct 14): Jensen Huang responded to [[Pope Leo XIV]]'s safety criticism, the pope had named him by name in September while NVIDIA shipped its guardrails platform the same afternoon, with a conciliatory frame: "We all care about the same thing." The pope's answer to the UN "hoax" speech had also taken a shot at a tech leader who "says there should be no limits placed and no government regulation." Huang's response marks the first direct bridge attempt between the legitimacy front (Vatican) and the engineering front (OASP): the moral authority is now someone the industry's most valuable company publicly seeks common ground with rather than dismisses. **Sources:** Fortune (Oct 14, 2026); Axios (Sept 28, 2026); research/2026-10-20.md.
 
-## November 8-12, 2026: Independent investigation, Huang resigns, Colette Kress interim CEO
+## November 8-12, 2026: Independent investigation, Huang resigns, [[Colette Kress]] interim CEO
 
 On November 8, 2026, NVIDIA's board of directors said it had initiated an independent investigation. This page records the company's stated predicate. It does not expand that investigation into a foreign-intelligence story the recovered NVIDIA text does not carry.
 
@@ -90,7 +90,7 @@ On November 10, 2026, the independent members of the NVIDIA board said they were
 
 On November 12, 2026, NVIDIA announced that Huang had resigned as CEO. The board appointed [[Colette Kress]], then executive vice president and chief financial officer, "to serve as interim Chief Executive Officer, effective immediately." Huang "will remain with the company in an advisory capacity during the transition." Harvey C. Jones was elected board chair. Reuters the same day independently reported the resignation and described the board's stated predicate as personal misconduct / serious personal misconduct. Reuters's later "extramarital affairs" wording is not NVIDIA's November 12 language and is not copied into NVIDIA's mouth here.
 
-The CEO change does not unwind NVIDIA's September-October dual posture: Open Agent Safety Platform vendor (September 28) and equity investor across frontier labs, including the Anthropic anchor discussed in earlier sweeps. It does change the named executive who inherits Pope Leo XIV's September 28-29 critique of Huang (guardrails the same afternoon as "no limits" and "no government regulation") and Huang's October 14 Fortune reply ("We all care about the same thing").
+The CEO change does not unwind NVIDIA's September-October dual posture: Open Agent Safety Platform vendor (September 28) and equity investor across frontier labs, including the [[Anthropic]] anchor discussed in earlier sweeps. It does change the named executive who inherits [[Pope Leo XIV]]'s September 28-29 critique of Huang (guardrails the same afternoon as "no limits" and "no government regulation") and Huang's October 14 Fortune reply ("We all care about the same thing").
 
 **Sources:** NVIDIA board statement (November 8, 2026); NVIDIA independent members statement (November 10, 2026); NVIDIA CEO transition release (November 12, 2026); Reuters (November 12, 2026); research/2026-11-13.md.
 
@@ -106,15 +106,15 @@ The week after Huang resigned, NVIDIA sat in four separate China tracks that sho
 
 **Foundry and remote access.** BIS issued a remote-access rule (Nov. 19, 2026). U.S. News, citing Reuters sources, reported that [[tsmc]] stopped 16-nanometer-and-below orders from unlicensed Chinese designers. The Information reported that Moonshot AI scrapped a roughly $150 million B300 rental through an Indonesian cloud; that item is single-outlet and paywalled, and is not treated as independently confirmed here.
 
-Brian Chau / [[effort-news]] published an opinion piece arguing the board removed Huang on false pretenses. That is opinion, not a court finding.
+[[Brian Chau]] / [[effort-news]] published an opinion piece arguing the board removed Huang on false pretenses. That is opinion, not a court finding.
 
-**Sources:** Axios (Nov. 11, 2026); Los Angeles Times (Nov. 12, 2026); Reuters (Nov. 19, 2026); TechCrunch (Nov. 18, 2026); House Foreign Affairs (Mast license release); California DOJ (Nov. 19, 2026); BIS (Nov. 19, 2026); U.S. News / Reuters (Nov. 19, 2026); The Information (Moonshot); Effort News; research/2026-11-20.md.
+**Sources:** Axios (Nov. 11, 2026); Los Angeles Times (Nov. 12, 2026); Reuters (Nov. 19, 2026); TechCrunch (Nov. 18, 2026); House Foreign Affairs (Mast license release); California DOJ (Nov. 19, 2026); BIS (Nov. 19, 2026); U.S. News / Reuters (Nov. 19, 2026); The Information (Moonshot); [[Effort News]]; research/2026-11-20.md.
 
 ## November 19, 2026: CEO search reporting, Musk at DealBook
 
 The Guardian (Nov. 19, 2026), citing Bloomberg, reported that Heidrick & Struggles had begun contacting candidates to succeed Jensen Huang, and that Arm chief executive Rene Haas had been approached. The same piece named other reported names: Ian Buck, Lisa Su, and Johny Srouji. Haas called Huang "a legend." NVIDIA board chair Harvey C. Jones, in that reporting, does not intend to reinstate Huang as CEO. This is a single-outlet Bloomberg/Guardian item. It is not a NVIDIA press release. This sheet does not create person pages for Haas, Buck, Su, or Srouji from that item.
 
-CNBC (Nov. 19, 2026) reported Elon Musk at the New York Times DealBook summit: removing Huang is like kicking Michael Jordan off the team. That quote is CNBC's. The same CNBC live-updates file said NVIDIA invested about $10 billion in Anthropic's concurrent Class N private placement. This sheet does not invent the rest of a truncated DealBook transcript.
+CNBC (Nov. 19, 2026) reported [[Elon Musk]] at the New York Times DealBook summit: removing Huang is like kicking Michael Jordan off the team. That quote is CNBC's. The same CNBC live-updates file said NVIDIA invested about $10 billion in [[Anthropic]]'s concurrent Class N private placement. This sheet does not invent the rest of a truncated DealBook transcript.
 
 **Sources:** The Guardian, citing Bloomberg (Nov. 19, 2026); CNBC (Nov. 19, 2026); research/2026-11-20.md.
 

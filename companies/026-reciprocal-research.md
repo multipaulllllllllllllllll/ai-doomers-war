@@ -77,6 +77,6 @@ The paper is simultaneously the strongest evidence the welfare wing has ever pro
 ## What to Watch
 
 - Lab responses: none yet from Alibaba/Qwen, Meta/Llama on open-weight models demonstrating user-harm trade-offs under pain steering
-- Whether any state's transparency-report mandate (SB 53; NY TRAITS Act) comes to require welfare-relevant monitoring, where Nvidia's [[Nvidia]] Sentry-style behavioral monitoring and Reciprocal's pain vector become the same tool
+- Whether any state's transparency-report mandate (SB 53; NY TRAITS Act) comes to require welfare-relevant monitoring, where [[Nvidia]]'s [[Nvidia]] Sentry-style behavioral monitoring and Reciprocal's pain vector become the same tool
 - Replication on production chatbots (the paper's own caveat: adapted checkpoints, not deployments)
 - EA/longtermist pushback, the sentience question has always split the funding network this wiki tracks

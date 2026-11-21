@@ -18,13 +18,13 @@ sources:
 
 ## Summary
 
-Accenture, the ~$650B-market-cap consulting firm, became the newest node in the AI safety economy on September 19, 2026, when Anthropic named it its first **embedded evaluator**: AI-industry division **Faculty** staff will sit inside Anthropic with employee-like access to frontier models during development. Each side plans to invest at least **$1 billion over five years**.
+Accenture, the ~$650B-market-cap consulting firm, became the newest node in the AI safety economy on September 19, 2026, when [[Anthropic]] named it its first **embedded evaluator**: AI-industry division **Faculty** staff will sit inside [[Anthropic]] with employee-like access to frontier models during development. Each side plans to invest at least **$1 billion over five years**.
 
 ## Why It's In This Wiki
 
 1. **The slowdown industry gets its first commercial contract.** Amodei's "We Must Pace the Frontier" essay (Sept 12) implied outside safety access to pace development. Six days later, that access has a price tag and a vendor, chosen by, paid by, and contracted with the lab being paced.
-2. **The conflict is self-published.** Anthropic's own announcement: *"There is no settled system for funding independent evaluation... Anthropic will fund Accenture's work directly."* Skeptics' summary: **"The conflict, published by the party it implicates."**
-3. **Non-exclusive, METR talks continue.** The embedded-evaluator slot isn't won; it's contested between a billion-dollar consultancy and the EA-funded nonprofit audit shop (see [[metr]]), which just lost evaluation monopoly status amid its own NPT-funding scandal (see [[national-philanthropic-trust]]).
+2. **The conflict is self-published.** [[Anthropic]]'s own announcement: *"There is no settled system for funding independent evaluation... [[Anthropic]] will fund Accenture's work directly."* Skeptics' summary: **"The conflict, published by the party it implicates."**
+3. **Non-exclusive, [[METR]] talks continue.** The embedded-evaluator slot isn't won; it's contested between a billion-dollar consultancy and the EA-funded nonprofit audit shop (see [[metr]]), which just lost evaluation monopoly status amid its own NPT-funding scandal (see [[national-philanthropic-trust]]).
 4. **The pattern this wiki documents, institutionalized:** when the labs' essays call for gatekeeping, the gatekeeping becomes a contract, and the contract structure (evaluator paid by evaluated) reproduces the same independence problem as the EA funding loop, now with Big Four logos on it.
 
 ## Connections

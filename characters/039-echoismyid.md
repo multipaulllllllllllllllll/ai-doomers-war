@@ -23,4 +23,4 @@ EchoIsMyID is an X/Twitter commentator who produced the most-cited framing of th
 
 ## Significance
 
-This framing crystallizes the partisan split: the labs (Anthropic/OpenAI) are seeking regulatory oversight; Trump rejected it; Obama embraced it.
+This framing crystallizes the partisan split: the labs ([[Anthropic]]/OpenAI) are seeking regulatory oversight; Trump rejected it; Obama embraced it.

@@ -20,25 +20,25 @@ sources:
 
 ## Summary
 
-Andrea Miotti is the founder of ControlAI, the campaign organization that wrote both the UK and US superintelligence ban bills introduced in September 2026. A former Head of Strategy & Governance at Conjecture (an AI governance organization), Miotti is the policy architect of the doomer regulatory agenda, translating the extinction-risk framing into specific legislative language that would create a global treaty banning superintelligent AI development. His organization is funded by Jaan Tallinn, who is also an investor in Anthropic.
+Andrea Miotti is the founder of [[ControlAI]], the campaign organization that wrote both the UK and US superintelligence ban bills introduced in September 2026. A former Head of Strategy & Governance at [[Conjecture]] (an AI governance organization), Miotti is the policy architect of the doomer regulatory agenda, translating the extinction-risk framing into specific legislative language that would create a global treaty banning superintelligent AI development. His organization is funded by [[Jaan Tallinn]], who is also an investor in [[Anthropic]].
 
-## ControlAI: What It Is
+## [[ControlAI]]: What It Is
 
-ControlAI is a UK-based campaign non-profit that functions as the policy-writing arm of the doomer regulatory movement. Its stated goal is a global treaty banning the development of artificial superintelligence, defined in its model legislation as AI systems capable of "disempowering state authorities." The organization does not publicly disclose its complete funding.
+[[ControlAI]] is a UK-based campaign non-profit that functions as the policy-writing arm of the doomer regulatory movement. Its stated goal is a global treaty banning the development of artificial superintelligence, defined in its model legislation as AI systems capable of "disempowering state authorities." The organization does not publicly disclose its complete funding.
 
-## The Conjecture Connection
+## The [[Conjecture]] Connection
 
-Miotti was the Head of Strategy & Governance at Conjecture, an AI governance organization co-founded by Connor Leahy and Gabriel Alfour. The Conjecture alumni network forms the core of ControlAI's leadership:
+Miotti was the Head of Strategy & Governance at [[Conjecture]], an AI governance organization co-founded by [[Connor Leahy]] and [[Gabriel Alfour]]. The [[Conjecture]] alumni network forms the core of [[ControlAI]]'s leadership:
 
-| Person | ControlAI Role | Prior Role |
+| Person | [[ControlAI]] Role | Prior Role |
 |--------|---------------|------------|
-| **Andrea Miotti** | Founder | Ex-Head of Strategy & Governance, Conjecture |
-| **Connor Leahy** | Heads ControlAI US | Co-founder, Conjecture |
-| **Gabriel Alfour** | Helped found ControlAI | Co-founder, Conjecture |
+| **Andrea Miotti** | Founder | Ex-Head of Strategy & Governance, [[Conjecture]] |
+| **[[Connor Leahy]]** | Heads [[ControlAI]] US | Co-founder, [[Conjecture]] |
+| **[[Gabriel Alfour]]** | Helped found [[ControlAI]] | Co-founder, [[Conjecture]] |
 
 ## The Policy Pipeline
 
-Miotti/Conjecture → ControlAI → legislative language → UK bill (Alex Sobel) + US bill (Bernie Sanders / Greg Casar) → global treaty framework
+Miotti/Conjecture → [[ControlAI]] → legislative language → UK bill ([[Alex Sobel]]) + US bill ([[Bernie Sanders]] / [[Greg Casar]]) → global treaty framework
 
 ## The Global Treaty Goal
 

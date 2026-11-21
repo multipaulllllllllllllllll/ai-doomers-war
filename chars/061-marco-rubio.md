@@ -19,7 +19,7 @@ sources:
 
 ## Summary
 
-Marco Rubio is the U.S. Secretary of State in the second Trump administration. For this wiki he is a China-hawk node in the November 2026 NVIDIA export fight, not a Commerce officer and not the author of the Megaspeed memo. The New York Times (Nov. 12, 2026) is the primary placement: Rubio on the hawk side of NVIDIA chip sales to China in the same week Lutnick and Bessent blew up in Cabinet.
+Marco Rubio is the U.S. Secretary of State in the second Trump administration. For this wiki he is a China-hawk node in the November 2026 [[NVIDIA]] export fight, not a Commerce officer and not the author of the Megaspeed memo. The New York Times (Nov. 12, 2026) is the primary placement: Rubio on the hawk side of [[NVIDIA]] chip sales to China in the same week Lutnick and Bessent blew up in Cabinet.
 
 ## November 12, 2026: NYT placement in the chip fight
 

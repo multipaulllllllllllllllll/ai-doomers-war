@@ -15,4 +15,4 @@ sources:
 
 ## Summary
 
-Greg Brockman is the President of OpenAI and a co-founder. He was on the board during the November 2023 coup, left the board after Altman's reinstatement, and later rejoined. He represents OpenAI's public alignment with the safety narrative.
+Greg Brockman is the President of [[OpenAI]] and a co-founder. He was on the board during the November 2023 coup, left the board after Altman's reinstatement, and later rejoined. He represents [[OpenAI]]'s public alignment with the safety narrative.
