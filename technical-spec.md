@@ -3,8 +3,6 @@
 **Project:** `~/ai-doomer-wiki` - an Obsidian-style research wiki compiled to a static HTML site (GitHub Pages).
 **Reviewed:** 2026-10-23 | **Repo:** `https://github.com/multipaulllllllllllllllll/ai-doomers-war`
 
-**Purpose, eras, grokbot, and provider mechanics:** `SITE-SPEC.md` (2026-11-22). This file remains the compiler and data-model spec. Inventory counts below (58 people / 28 orgs) are stale; count the markdown files.
-
 ## 1. Overview
 
 The wiki documents the "AI Doomer Wars": the people, companies, funding networks, and events around AI-safety discourse, evaluation-industry scandals, and regulatory-capture accusations (Sep 2026). Two deliverables share one data model:
