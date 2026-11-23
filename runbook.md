@@ -1,6 +1,7 @@
 # Runbook - AI Doomer Wars Wiki
 
 Operational procedures for `~/ai-doomer-wiki`. Companion: `technical-spec.md`.
+Purpose and going-forward mechanics: `SITE-SPEC.md` (local contract, 2026-11-22). This runbook stays the ops list (R1–R3, convert, R2b).
 All commands assume paths exactly as written; shell metacharacters in commit messages
 need single quotes (`'$70B'`), never double.
 
