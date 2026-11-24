@@ -75,7 +75,7 @@ does not authorize publishing or an automated wiki sweep.
 ```bash
 cd ~/ai-doomer-wiki
 rm -rf __pycache__ *.pyc                      # stale module shadowing
-python3 convert_sheets.py                     # expect: 59 chars + 28 companies + Done.
+python3 convert_sheets.py                     # expect: 82 chars + 39 companies + Done.
 cd site
 cp ../characters/*.md characters/ && cp ../companies/*.md companies/
 cp ../research/*.md research/ && cp ../AI-Doomer-Wars-Wiki.md .   # hub mirror
@@ -123,7 +123,7 @@ grep -rc '\[\[' chars/*.html companies/*.html | grep -v ':0' || echo clean
 comm -13 <(ls ../companies/*.md ../characters/*.md | xargs -n1 basename | sed 's/\.md$//' | sort) \
          <(ls chars/*.html companies/*.html | xargs -n1 basename | sed 's/\.html$//' | sort)
 ```
-Expected steady state: 59/28 counts equal in all views; leakage `clean`; ghosts empty;
+Expected steady state: 82/39 counts equal in all views; leakage `clean`; ghosts empty;
 dead-link list contains only intentional placeholders (peter-singer, toby-ord etc.).
 
 ## R7. Diagram maintenance
@@ -159,7 +159,7 @@ label's center column; every `^` above a label likewise (a python assert pass is
 
 - Site: https://multipaulllllllllllllllll.github.io/ai-doomers-war/
 - Repo: github.com/multipaulllllllllllllllll/ai-doomers-war (main, Pages legacy /)
-- Inventory: 67 characters, 32 companies, 13 research logs (09-15/19/21/26/28/29/30, 10-02, 10-09, 10-20, 11-13, 11-20, 11-21), hub ~1195 lines
+- Inventory: 82 characters, 39 companies, 121 individual sheets; 14 research logs.
 - Compiler: `~/ai-doomer-wiki/convert_sheets.py` (436 lines, stdlib only)
 - xurl: `/home/yollama/.local/bin/xurl`
 - Cron: `ec04ed3ec082` (every 6h: convert + mirror + push; no new research)
