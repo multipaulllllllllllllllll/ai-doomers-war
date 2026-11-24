@@ -28,7 +28,7 @@ Same four findings as the Garbarino page, taken from the Homeland Security relea
 3. They have demonstrated advanced capabilities with minimal safeguards
 4. They collect data that can be accessed by the PRC
 
-The report asks for removal from federal systems and high-risk critical infrastructure. It is the model-weights companion to Mast's H200 license table and Lutnick's chip memo. [[Anthropic]]'s September 30 GLM-5.3 report (Zhipu open model as a documented cyber capability) is the labs' earlier version of the same claim. This House product does not cite that lab report in the recovered press text, and this sheet does not pretend it does.
+The report asks for removal from federal systems and high-risk critical infrastructure. It is the model-weights companion to Mast's NVIDIA H200/AMD MI325X license disclosure and the reported Rubio-drafted Megaspeed memo handed to Lutnick. Axios describes Lutnick resisting controls, not authoring the memo; Commerce denied the reported Bessent confrontation. [Axios, November 11](https://www.axios.com/2026/11/11/bessent-lutnick-megaspeed-nvidia-china-chips). [[Anthropic]]'s September 30 GLM-5.3 report (Zhipu open model as a documented cyber capability) is the labs' earlier version of the same claim. This House product does not cite that lab report in the recovered press text, and this sheet does not pretend it does.
 
 ## What to Watch
 

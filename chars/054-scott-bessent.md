@@ -44,11 +44,15 @@ Bessent sits at the intersection of the wiki's political cluster (Trump 016, Van
 ## See Also
 [[donald-trump]] · [[jd-vance]] · [[effective-altruism]] · [[anthropic]] · [[openai]] · [[Hugging Face]] · [[irregular]]
 
-## November 11, 2026: Megaspeed, Lutnick, and the Cabinet split
+## November 5-13, 2026: Megaspeed listing dispute
 
-Axios (Nov. 11, 2026) reported a Cabinet fight over an internal Commerce "Megaspeed" memo against selling [[NVIDIA]] chips into China. Bessent called the memo "bullshit" and said [[howard-lutnick]] had a "long track record of being a liar" (Axios, Nov. 11, 2026; AP). President [[donald-trump]] told Axios he would "probably" overrule Lutnick. This page records Bessent as the Cabinet counterweight on that sale, not as a member of the [[china-hawks]] faction page. The national-security channel above (open-source models, SARs, FinCEN) is a different gate from the chip-export fight. Do not collapse them.
+Axios reported on November 11 that Bessent pressed [[Howard Lutnick]] at the November 5 Situation Room meeting on why Megaspeed was not on the Entity List. Sources portrayed Bessent, Rubio, Greer and Hegseth as favoring controls, with Musk supporting them when Trump called him. Lutnick reportedly resisted. Commerce denied that Bessent and Lutnick had the reported confrontation.
 
-**Sources:** Axios (Nov. 11, 2026); AP; research/2026-11-20.md.
+The Megaspeed memo was reportedly drafted by Rubio and handed to Lutnick, not authored by Commerce. An unnamed source disparaged Lutnick's response to Bessent, not Bessent the memo. No liar quotation or Trump probable-override quotation is substantiated by these Axios articles.
+
+CBS separately reported Bessent's November 13 CNBC remarks that Treasury, War, USTR and State supported listing for months but "Commerce has the pen." This public statement is not independent confirmation of the private meeting. The chip-export dispute is distinct from Treasury's September sanctions, SARs and FinCEN channel.
+
+**Sources:** [Axios Situation Room](https://www.axios.com/2026/11/11/bessent-lutnick-megaspeed-nvidia-china-chips); [Axios Oval Office](https://www.axios.com/2026/11/11/trump-lutnick-nvidia-china-chip-export-controls); [CBS, public remarks and testimony](https://www.cbsnews.com/news/howard-lutnick-scott-bessent-nvidia-megaspeed-testimony/).
 
 ## See Also (tenth sweep)
 

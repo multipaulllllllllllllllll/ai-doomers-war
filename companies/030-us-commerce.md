@@ -9,7 +9,7 @@ relationships:
   faction_tension: [scott-bessent, china-hawks]
   regulates: [nvidia, tsmc]
 involvement: |
-  U.S. Department of Commerce under Secretary Howard Lutnick. Houses the Bureau of Industry and Security. Tenth-sweep products: the internal Megaspeed memo (Axios, Nov. 11, 2026), the May 11 H200 license summary later released by Chairman Brian Mast, and the November 19, 2026 BIS rule on remote access to American super-intelligence technology. President Trump told Axios he would "probably" overrule Lutnick's China-chip stance. The department is the bureaucratic home of the hawk line even when the President talks restoration.
+  Cabinet department under Howard Lutnick, housing BIS. Axios reports a Rubio-drafted Megaspeed memo handed to Lutnick and officials pressing him for Entity List action, not a Commerce-authored hawkish memo. Commerce denied the reported Bessent confrontation. Its November 17 joint statement with DOJ describes an ongoing Megaspeed investigation and DOJ criminal lead. HFAC disclosed the May 11 combined NVIDIA H200/AMD MI325X license summary on November 19. License approvals are distinct from shipments.
 sources:
   - "Axios, Trump-Lutnick export controls (Nov. 11, 2026)"
   - "Axios, Bessent-Lutnick Megaspeed (Nov. 11, 2026)"
@@ -22,13 +22,19 @@ sources:
 
 ## Summary
 
-Commerce is the department that writes the chip rules this wiki is tracking. Secretary [[howard-lutnick]] is the political face. BIS is the bureau. The November 2026 file is three documents that do not point the same way: an internal memo against selling [[NVIDIA]] into China, a license table that already approved hundreds of thousands of H200s, and a remote-access rule that then closed a foundry loophole.
+Commerce administers export controls through BIS under Secretary [[Howard Lutnick]]. The November record includes alleged delays in Megaspeed restrictions, the department's own account of investigative work, and public disclosure of chip-license approvals. These sources address different questions and should not be collapsed into a single hawkish Commerce policy.
 
-## Three products
+**Sources:** [Axios, November 10](https://www.axios.com/2026/11/10/lutnick-nvidia-jensen-huang-china-memo); [Axios, Situation Room, November 11](https://www.axios.com/2026/11/11/bessent-lutnick-megaspeed-nvidia-china-chips); [Axios, Oval Office, November 11](https://www.axios.com/2026/11/11/trump-lutnick-nvidia-china-chip-export-controls); [DOJ/Commerce](https://www.justice.gov/opa/pr/joint-statement-department-commerce-and-department-justice-megaspeed-investigation); [HFAC summary](https://democrats-foreignaffairs.house.gov/wp-content/uploads/2026/11/11.19.26-ECRA-Information-Disclosure-HFAC-Summary.pdf).
 
-**Megaspeed memo (internal, Axios Nov. 11, 2026).** Lutnick's line: selling [[NVIDIA]] chips into China feeds a military rival. [[scott-bessent]] called it "bullshit" in Cabinet. Trump said he would "probably" overrule Lutnick.
+## Distinct records
 
-**May 11 H200 license summary (released by [[brian-mast]]).** About 3.44 million chips requested, 879,868 approved, 75,000 Alibaba, 150,000 Tencent, Maginfra and Beijing New Matrix named. [[NVIDIA]] says it followed then-current rules and stopped H200 shipments to China.
+**Megaspeed warnings and reported listing dispute.** Axios reported a May warning overseen by Rubio and sent to Lutnick, and separately a Rubio-drafted memo on Megaspeed handed to him. Anonymous sources described Bessent pressing Lutnick for listing on November 5 and Lutnick resisting action. Commerce denied the confrontation. The reports do not establish a Commerce-authored memo or a presidential probable override.
+
+**Agency investigation account (November 17).** DOJ and Commerce said Commerce opened an investigation in 2024, requested NVIDIA records in May 2025 and conducted a June 2025 end-use check in Singapore; DOJ then took the criminal lead. The statement credits Commerce under Lutnick. This is the agencies' account of ongoing work, not adjudication.
+
+**May 11 license summary (disclosed November 19).** HFAC reports 3,444,160 NVIDIA H200 and AMD MI325X chips requested and 879,868 approved across 21 applications. Alibaba's 75,000 and Tencent's 150,000 approved figures cover the products in that summary, not all NVIDIA. Potential installers such as Maginfra and Beijing New Matrix are not necessarily buyers. The table marks Tesla (Shanghai), BYD and Great Wall applications approved, not shipped. CBS separately reported Kress's November 17 halt to licensed Hopper shipments.
+
+**Sources:** [Axios, November 10](https://www.axios.com/2026/11/10/lutnick-nvidia-jensen-huang-china-memo); [Axios, Situation Room, November 11](https://www.axios.com/2026/11/11/bessent-lutnick-megaspeed-nvidia-china-chips); [Axios, Oval Office, November 11](https://www.axios.com/2026/11/11/trump-lutnick-nvidia-china-chip-export-controls); [DOJ/Commerce](https://www.justice.gov/opa/pr/joint-statement-department-commerce-and-department-justice-megaspeed-investigation); [HFAC summary](https://democrats-foreignaffairs.house.gov/wp-content/uploads/2026/11/11.19.26-ECRA-Information-Disclosure-HFAC-Summary.pdf); [BIS table](https://democrats-foreignaffairs.house.gov/wp-content/uploads/2026/11/11.19.26-ECRA-Information-Disclosure-of-BIS-License-Decisions.pdf); [CBS shipment halt](https://www.cbsnews.com/news/nvidia-stops-shipping-hopper-chips-china/).
 
 **November 19 remote-access rule.** BIS issued a rule addressing remote access to American super-intelligence technology. U.S. News, citing Reuters sources, reported that [[tsmc]] stopped 16-nanometer-and-below orders from unlicensed Chinese designers. Samsung's role is single-outlet.
 
@@ -40,10 +46,9 @@ Jeffrey Kessler remains the under secretary named on the earlier Entity List tra
 
 ## What to Watch
 
-- Whether a presidential override of Lutnick is written, or whether BIS keeps tightening by Federal Register while Trump talks Huang with Xi
-- Whether the Mast table becomes the public docket for Bonta's California subpoena
+CBS reported Lutnick agreed to December 10 Senate Banking testimony; the appearance has not occurred in this record. Any future Entity List decision, license implementation or investigation outcome needs separate documentation. NVIDIA's November 23 reinstatement did not close government inquiries.
 
-**Sources:** Axios (Nov. 11, 2026); BIS (Nov. 19, 2026); House Foreign Affairs (Mast); U.S. News / Reuters (Nov. 19, 2026); research/2026-11-20.md.
+**Sources:** [CBS](https://www.cbsnews.com/news/howard-lutnick-scott-bessent-nvidia-megaspeed-testimony/); [NVIDIA reinstatement](https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director).
 
 ## See Also
 

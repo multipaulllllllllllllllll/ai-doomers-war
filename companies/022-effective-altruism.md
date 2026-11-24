@@ -102,7 +102,7 @@ Supporting details circulating with it:
 - **The insider density**: the Amodei–Karnofsky household, Moskovitz–Tuna, Tallinn, the Nevo brothers, the small set of Israeli EA organizers, "the branches keep intersecting" (Grok-compiled "seven ways to Kevin Bacon the EA network")
 - **The Coxon mirror**: the resignation letter of a true believer leaving [[Anthropic]] ("they earnestly believe it could kill us all") reads, to critics, as a deconversion testimony
 
-Defenders' answer: EA is a wide umbrella; longtermists are a faction; the labs' money and the critics' money (Trump-aligned accelerants, [[Nvidia]]'s $70B) are separate networks; correlation in grant databases is not conspiracy, it's what a funding ecosystem looks like when read on tax forms.
+Defenders' answer: EA is a wide umbrella; longtermists are a faction; the labs' money and the critics' money (Trump-aligned accelerants and [[NVIDIA]]'s separately reported Anthropic investment; no total NVIDIA lab portfolio is established here) are separate networks; correlation in grant databases is not conspiracy, it's what a funding ecosystem looks like when read on tax forms.
 
 ## Orgs, People, and Companies in the Network
 

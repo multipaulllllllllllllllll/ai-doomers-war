@@ -21,13 +21,13 @@ investor_relations:
   exchange: "Nasdaq"
   regulatory_beneficiary: "superintelligence-ban"
 involvement: |
-  San Francisco-based AI lab founded in 2021 by Dario and Daniela Amodei (ex-OpenAI). Creator of Claude family of models. NVIDIA committed $10B in equity (part of $70B total across AI labs including $30B to OpenAI). Listed Nasdaq as ANT on November 19, 2026 at $83.00 (anthropic.com/news/ipo-close). Founder LLC holds Class F with 50.1% of general stockholder voting power; the Long-Term Benefit Trust elects a majority of the board (SEC S-1/A). Jack Clark is Head of Public Benefit and leads the Anthropic Institute; he is one of seven S-1 co-founders in Founder LLC. Board on the company site: Dario Amodei, Daniela Amodei, Yasmin Razavi, Reed Hastings, Chris Liddell, Vas Narasimhan. Yahoo Finance ANT snapshot November 20, 2026: $87.80, $1.175T market cap; not a wiki-owned price. Dario Amodei published "We Must Pace the Frontier" (~Sep 12, 2026) calling for industry slowdown while the company raced toward IPO. Jacob Coxon's exit letter (Sep 8, 2026) hit 170-172M views; he still holds OpenAI equity. TIME cover story "The AI Tipping Point" frames the Coxon resignation as the catalyst.  Central to the doomer regulatory narrative, CEO coordinated with OpenAI on three-lab pacing agreement within 48 hours of Coxon's post. Priced 980,000,000 Class A shares at $83.00 on November 18; closed 1,127,000,000 shares including the full underwriters' option on November 20 (anthropic.com). Donated $20 million on February 12, 2026 and $20 million on July 21, 2026 to Public First Action, a bipartisan 501(c)(4); company says the gifts cannot be used to influence any candidate's election (anthropic.com).
+  San Francisco-based AI lab founded in 2021 by Dario and Daniela Amodei (ex-OpenAI). Creator of Claude family of models. CNBC reported NVIDIA agreed to purchase about $10B of Anthropic Class N stock in the concurrent private placement (November 19, 2026). Listed Nasdaq as ANT on November 19, 2026 at $83.00 (anthropic.com/news/ipo-close). Founder LLC holds Class F with 50.1% of general stockholder voting power; the Long-Term Benefit Trust elects a majority of the board (SEC S-1/A). Jack Clark is Head of Public Benefit and leads the Anthropic Institute; he is one of seven S-1 co-founders in Founder LLC. Board on the company site: Dario Amodei, Daniela Amodei, Yasmin Razavi, Reed Hastings, Chris Liddell, Vas Narasimhan. Yahoo Finance ANT snapshot November 20, 2026: $87.80, $1.175T market cap; not a wiki-owned price. Dario Amodei published "We Must Pace the Frontier" (~Sep 12, 2026) calling for industry slowdown while the company raced toward IPO. Jacob Coxon's exit letter (Sep 8, 2026) hit 170-172M views; he still holds OpenAI equity. TIME cover story "The AI Tipping Point" frames the Coxon resignation as the catalyst.  Central to the doomer regulatory narrative, CEO coordinated with OpenAI on three-lab pacing agreement within 48 hours of Coxon's post. Priced 980,000,000 Class A shares at $83.00 on November 18; closed 1,127,000,000 shares including the full underwriters' option on November 20 (anthropic.com). Donated $20 million on February 12, 2026 and $20 million on July 21, 2026 to Public First Action, a bipartisan 501(c)(4); company says the gifts cannot be used to influence any candidate's election (anthropic.com).
 sources:
   - "Coxon letter (Sept 8, 2026)"
   - "Kevin Bass / X (Sept 14, 2026)"
   - "TIME, 'The AI Tipping Point' (Sept 15, 2026)"
   - "Bloomberg / @realdblakely, Anthropic IPO timing (Sept 16, 2026)"
-  - "@NGLSHMUELI, NVIDIA equity ($10B Anthropic, $30B OpenAI, $30B others)"
+  - "CNBC, NVIDIA roughly $10B Class N purchase (November 19, 2026)"
   - "anthropic.com/company (board and LTBT trustees, retrieved Nov 20, 2026)"
   - "anthropic.com/company/leadership (retrieved Nov 20, 2026)"
   - "SEC Form S-1/A, Anthropic PBC, accession 000162828026072484"
@@ -49,7 +49,7 @@ sources:
 
 ## Summary
 
-Anthropic is the San Francisco-based AI lab founded in 2021 by Dario and [[Daniela Amodei]] (both ex-OpenAI) along with [[Chris Karnofsky]]. Creator of the Claude family of AI assistants, Anthropic has positioned itself as the most safety-conscious frontier lab while listing on Nasdaq. The company priced 980,000,000 Class A shares at $83.00 on November 18, 2026 (anthropic.com/news/anthropic-prices-initial-public-offering). Trading in ANT began November 19. The offering closed November 20 at 1,127,000,000 shares, including the full underwriters' option (anthropic.com/news/ipo-close). Reuters described a fully diluted valuation of about $2 trillion on debut, including stock that is not all in the public float (Reuters, November 19, 2026). A Yahoo Finance quote page retrieved November 20, 2026 showed ANT at $87.80 and a market cap of $1.175 trillion, with a previous close of $97.17. This sheet records those outlet figures. It does not treat a live tape print as a wiki-owned price. [[NVIDIA]] has committed $10 billion in equity to Anthropic as part of a $70B total AI lab investment program.
+Anthropic is the San Francisco-based AI lab founded in 2021 by Dario and [[Daniela Amodei]] (both ex-OpenAI) along with [[Chris Karnofsky]]. Creator of the Claude family of AI assistants, Anthropic has positioned itself as the most safety-conscious frontier lab while listing on Nasdaq. The company priced 980,000,000 Class A shares at $83.00 on November 18, 2026 (anthropic.com/news/anthropic-prices-initial-public-offering). Trading in ANT began November 19. The offering closed November 20 at 1,127,000,000 shares, including the full underwriters' option (anthropic.com/news/ipo-close). Reuters described a fully diluted valuation of about $2 trillion on debut, including stock that is not all in the public float (Reuters, November 19, 2026). A Yahoo Finance quote page retrieved November 20, 2026 showed ANT at $87.80 and a market cap of $1.175 trillion, with a previous close of $97.17. This sheet records those outlet figures. It does not treat a live tape print as a wiki-owned price. CNBC reported on November 19, 2026 that [[NVIDIA]] agreed to purchase roughly $10 billion of Anthropic Class N stock in the concurrent private placement; no total NVIDIA AI-lab portfolio commitment is established here.
 
 The lab is at the center of the AI doomer wars: its CEO [[Dario Amodei]] coordinated with [[OpenAI]] on development pace within 48 hours of [[Jacob Coxon]]'s exit letter, published "We Must Pace the Frontier" (~Sep 12) calling for industry slowdown while the company raced toward IPO, and TIME's "The AI Tipping Point" (Sep 15) framed the Coxon resignation as the catalyst that turned internal lab debate into a national conversation.
 
@@ -108,12 +108,9 @@ The dissonance is structural: [[Dario Amodei]] publishes an essay calling for th
 
 ## [[NVIDIA]] Equity Investment
 
-[[NVIDIA]] committed $10 billion in equity to Anthropic as part of a $70 billion total equity investment program across AI labs:
-- **[[OpenAI]]**: $30 billion
-- **Anthropic**: $10 billion
-- **Other partners**: $30 billion
+CNBC reported on November 19, 2026 that NVIDIA agreed to purchase roughly $10 billion of Anthropic's Class N stock in a concurrent private placement. This is a separately sourced transaction, not evidence of a $70 billion NVIDIA AI-lab portfolio or a $30 billion OpenAI / $30 billion other-partners breakdown. The possibility that investor-customer ties shape regulatory incentives is analysis, not a documented motive.
 
-As one analyst put it: "The company funding the AI safety debate is the same one selling the chips that make the debate necessary." [[NVIDIA]] is both the enabler of the race and a major financial beneficiary of the regulatory moat that the safety narrative creates.
+**Source:** [CNBC, November 19](https://cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html?doc=108554452).
 
 ## The Exit Letter Spark
 
@@ -155,7 +152,7 @@ The self-funding loop connecting Anthropic's investors to the policy organizatio
 |----------|-------|-------------|
 | **[[Jaan Tallinn]]** | Series A (lead) | Also funds [[ControlAI]] + [[MIRI]] |
 | **[[Dustin Moskovitz]]** | Series A (lead) | Also funds FLI + [[METR]] network |
-| **[[NVIDIA]]** | Equity | $10B; $70B total across AI labs |
+| **[[NVIDIA]]** | Equity | About $10B Class N purchase reported by CNBC, November 19, 2026 |
 
 ## September 26, 2026 Update: Pentagon Blacklist Upheld
 

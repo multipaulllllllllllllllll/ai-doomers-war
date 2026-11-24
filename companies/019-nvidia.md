@@ -8,16 +8,12 @@ relationships:
   partner: [microsoft, openai]
 investor_relations:
   type: "Public company (NASDAQ: NVDA)"
-  ceo: "Colette Kress (interim, November 12, 2026); Jensen Huang resigned November 12, 2026"
-  equity_investments: "$70 billion total across AI labs"
+  ceo: "Jensen Huang (reinstated November 23, 2026); Colette Kress interim CEO November 12-23"
   anthropic_equity: "About $10 billion in Anthropic's concurrent Class N placement (CNBC, Nov. 19, 2026)"
-  openai_equity: "$30 billion"
-  other_partners_equity: "$30 billion"
 involvement: |
-  NVIDIA is the critical infrastructure provider for the AI race, its GPUs power every major frontier lab. Beyond selling chips, NVIDIA has committed $70 billion in equity investments across AI labs: $30B to OpenAI, $10B to Anthropic, $30B to other partners. Jensen Huang appeared with Donald Trump on September 15, 2026, when Trump called AI safety a "hoax." This positions NVIDIA as both the enabler of the AI race and a major financial beneficiary of the regulatory moat that the doomer narrative creates. If safety regulation bars open-source competitors and sustains closed-source frontier labs, NVIDIA's data center revenue is further protected. NVIDIA's total equity investments across AI labs is approximately $70B, capital deployment that represents the largest single investment in AI infrastructure beyond the labs themselves.
+  NVIDIA supplies GPUs and accelerated-computing infrastructure to frontier AI developers. CNBC reported an approximately $10 billion Anthropic Class N purchase in November 2026; no aggregate AI-lab equity total is established here. Trump called Huang on speakerphone at the All-In Summit on September 14. Huang resigned as president, CEO and a director on November 12 and was reinstated November 23. Colette Kress retained her EVP/CFO roles during November 12-23 interim CEO service. The independent investigation and government inquiries remained ongoing after reinstatement.
 sources:
-  - "@NGLSHMUELI / X, NVIDIA $70B equity breakdown (Sept 15, 2026)"
-  - "@stock_duty / X, Trump calls AI safety a hoax with Jensen Huang (Sept 15, 2026)"
+  - "Quartz, Trump speakerphone call to Huang at All-In Summit (September 14, 2026)"
   - "Bloomberg reporting on AI lab financing rounds"
 ---
 
@@ -25,22 +21,17 @@ sources:
 
 ## Summary
 
-NVIDIA (NASDAQ: NVDA) is the semiconductor company whose GPUs power every major frontier AI lab. CEO Jensen Huang has positioned NVIDIA as the "picks and shovels" of the AI gold rush. Beyond chip sales, NVIDIA has committed $70 billion in equity investments across AI labs, making it one of the largest financial stakeholders in the AI ecosystem beyond the labs themselves.
+NVIDIA (NASDAQ: NVDA) supplies GPUs and accelerated-computing infrastructure used by frontier AI developers. Its chip sales and equity investments give it commercial stakes in the industry's expansion. CNBC separately reported an approximately $10 billion purchase of [[Anthropic]] Class N stock in November 2026; this sheet does not establish a total portfolio commitment across AI labs.
 
-On September 15, 2026, Jensen Huang appeared live with [[Donald Trump]], who called AI safety a "hoax" during the event. This moment crystallizes NVIDIA's position: it is both the enabler of the AI race and a major beneficiary of whatever regulatory outcome emerges, whether "pause" or "go," NVIDIA wins.
+On September 14, 2026, [[Donald Trump]] called Jensen Huang on speakerphone at the All-In Summit and called AI safety concerns a "hoax." They were not standing together onstage. Huang was reinstated as president, CEO and a director on November 23 after resigning November 12. The board's investigation continued.
 
-## The $70 Billion Equity Commitment
+**Sources:** [Quartz](https://qz.com/trump-nvidia-jensen-huang-all-in-summit-ai-safety-hoax-091426); [CNBC Class N report](https://cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html?doc=108554452); [NVIDIA reinstatement](https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director).
 
-NVIDIA has deployed significant equity capital across the AI lab ecosystem:
+## Reported Anthropic equity purchase
 
-| Lab | Equity Commitment |
-|-----|-----------------|
-| **[[OpenAI]]** | $30 billion |
-| **[[Anthropic]]** | $10 billion |
-| **Other partners** | $30 billion |
-| **Total** | **$70 billion** |
+CNBC reported on November 19, 2026 that NVIDIA agreed to purchase roughly $10 billion of [[Anthropic]] Class N common stock in a concurrent private placement. That separately sourced purchase does not establish a $70 billion NVIDIA portfolio total, a $30 billion OpenAI equity position or a $30 billion other-partners bucket.
 
-These are equity investments, not just chip supply agreements. NVIDIA has financial stakes in the outcomes of its customers, [[OpenAI]] and [[Anthropic]] both benefit from regulatory moats that sustain their valuations, which in turn affects NVIDIA's equity positions.
+**Source:** [CNBC, November 19](https://cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html?doc=108554452).
 
 ## The Regulatory Moat Argument
 
@@ -56,9 +47,11 @@ If the "move fast" faction wins:
 
 This creates what critics call a "heads I win, tails you lose" dynamic: NVIDIA benefits from AI acceleration AND from the safety narrative that protects its lab investments from competition.
 
-## The Trump Moment (September 15, 2026)
+## The Trump call (September 14, 2026)
 
-At a live event with Jensen Huang on September 15, 2026, [[Donald Trump]] called AI safety a "hoax." The same day, the 10-year US Treasury yield hit 5% (a 19-year high). The juxtaposition, Trump dismissing AI safety concerns while standing next to NVIDIA's CEO, underscored the political polarization around AI regulation.
+Trump phoned Huang while Huang was onstage at the All-In Summit in Los Angeles on September 14. On speakerphone, Trump called AI safety concerns a "hoax" and data centers "the oil of the next 20, 25 years." This was a telephone appearance, not an in-person joint appearance on September 15. No Treasury-yield comparison is established by the retrieved report.
+
+**Source:** [Quartz](https://qz.com/trump-nvidia-jensen-huang-all-in-summit-ai-safety-hoax-091426).
 
 ## Jensen Huang's Position
 
@@ -82,25 +75,23 @@ Hours after NVIDIA launched the Open Agent Safety Platform, **[[Pope Leo XIV]]**
 
 Fortune (Oct 14): Jensen Huang responded to [[Pope Leo XIV]]'s safety criticism, the pope had named him by name in September while NVIDIA shipped its guardrails platform the same afternoon, with a conciliatory frame: "We all care about the same thing." The pope's answer to the UN "hoax" speech had also taken a shot at a tech leader who "says there should be no limits placed and no government regulation." Huang's response marks the first direct bridge attempt between the legitimacy front (Vatican) and the engineering front (OASP): the moral authority is now someone the industry's most valuable company publicly seeks common ground with rather than dismisses. **Sources:** Fortune (Oct 14, 2026); Axios (Sept 28, 2026); research/2026-10-20.md.
 
-## November 8-12, 2026: Independent investigation, Huang resigns, [[Colette Kress]] interim CEO
+## November 8-12, 2026: Investigation and CEO transition
 
-On November 8, 2026, NVIDIA's board of directors said it had initiated an independent investigation. This page records the company's stated predicate. It does not expand that investigation into a foreign-intelligence story the recovered NVIDIA text does not carry.
+On November 8, 2026, [[NVIDIA]]'s board initiated an independent investigation in light of reporting that Jensen Huang had been the target of a foreign intelligence effort. The board expressed confidence in his leadership and said it had no reason to believe national security or NVIDIA secrets had been compromised. That was the board's assessment, not a completed finding.
 
-On November 10, 2026, the independent members of the NVIDIA board said they were "deeply disappointed" in Jensen Huang and had asked him to resign. The same statement named Joon H. Kim of Wachtell, Lipton, Rosen and Katz as counsel.
+On November 10, the independent directors retained Joon H. Kim and Wachtell, Lipton, Rosen & Katz to conduct the investigation. Their statement did not express disappointment or demand Huang's resignation.
 
-On November 12, 2026, NVIDIA announced that Huang had resigned as CEO. The board appointed [[Colette Kress]], then executive vice president and chief financial officer, "to serve as interim Chief Executive Officer, effective immediately." Huang "will remain with the company in an advisory capacity during the transition." Harvey C. Jones was elected board chair. Reuters the same day independently reported the resignation and described the board's stated predicate as personal misconduct / serious personal misconduct. Reuters's later "extramarital affairs" wording is not NVIDIA's November 12 language and is not copied into NVIDIA's mouth here.
+On November 12, NVIDIA announced Huang's immediate resignation as president, CEO and a director. [[Colette Kress]] became interim CEO while retaining her executive vice president and CFO posts; Harvey C. Jones became the board's first chair. The release did not announce an advisory role for Huang.
 
-The CEO change does not unwind NVIDIA's September-October dual posture: Open Agent Safety Platform vendor (September 28) and equity investor across frontier labs, including the [[Anthropic]] anchor discussed in earlier sweeps. It does change the named executive who inherits [[Pope Leo XIV]]'s September 28-29 critique of Huang (guardrails the same afternoon as "no limits" and "no government regulation") and Huang's October 14 Fortune reply ("We all care about the same thing").
-
-**Sources:** NVIDIA board statement (November 8, 2026); NVIDIA independent members statement (November 10, 2026); NVIDIA CEO transition release (November 12, 2026); Reuters (November 12, 2026); research/2026-11-13.md.
+**Sources:** [November 8 board statement](https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors); [November 10 counsel statement](https://nvidianews.nvidia.com/news/statement-from-the-independent-members-of-the-nvidia-board); [November 12 transition](https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition).
 
 ## November 11-20, 2026: China sales, licenses, subpoena, foundry halt
 
 The week after Huang resigned, NVIDIA sat in four separate China tracks that should not be collapsed into one plot.
 
-**Presidential comment track.** Trump told Axios he would "probably" overrule [[howard-lutnick]] on NVIDIA chip sales to China (Axios, Nov. 11, 2026). The Los Angeles Times (Nov. 12, 2026) reported that Trump stood by Huang. Reuters (Nov. 19, 2026) reported that Trump referred to Huang's situation in a talk with Xi. [[palmer-luckey]] told TechCrunch (Nov. 18, 2026) that China is thrilled to have Huang out, so Luckey wants him reinstated; keeping Huang out "makes America weaker."
+**Presidential and Entity List track.** Axios reported November 11 that Trump approved action against suspected chip diversions on November 5 after consulting Musk, while sources portrayed Lutnick as resisting. Commerce denied the reported Bessent-Lutnick confrontation. The Megaspeed memo was reportedly drafted by Rubio and handed to Lutnick, not authored by Commerce. **Sources:** [Axios, November 10](https://www.axios.com/2026/11/10/lutnick-nvidia-jensen-huang-china-memo); [Axios, Situation Room, November 11](https://www.axios.com/2026/11/11/bessent-lutnick-megaspeed-nvidia-china-chips); [Axios, Oval Office, November 11](https://www.axios.com/2026/11/11/trump-lutnick-nvidia-china-chip-export-controls). The Los Angeles Times (Nov. 12, 2026) reported that Trump stood by Huang. Reuters (Nov. 19, 2026) reported that Trump referred to Huang's situation in a talk with Xi. [[palmer-luckey]] told TechCrunch (Nov. 18, 2026) that China is thrilled to have Huang out, so Luckey wants him reinstated; keeping Huang out "makes America weaker."
 
-**License table.** Chairman [[brian-mast]] released a May 11 BIS H200 license summary: about 3.44 million chips requested, 879,868 approved, including 75,000 for Alibaba and 150,000 for Tencent, with Maginfra and Beijing New Matrix named. NVIDIA says it followed then-current rules and later stopped H200 shipments to China.
+**License table.** The November 19 HFAC disclosure covers NVIDIA H200 and AMD MI325X together: 3,444,160 requested and 879,868 approved across 21 applications. The Washington Post reported almost 580,000 NVIDIA chips approved. Potential installers such as Maginfra and Beijing New Matrix are distinct from purchasers. The March 16 Tesla (Shanghai), BYD and Great Wall rows are approved, not shipped, as of the May 11 table. Kress's November 17 shipment halt is a later, separate company statement. **Sources:** [HFAC summary, November 19](https://democrats-foreignaffairs.house.gov/wp-content/uploads/2026/11/11.19.26-ECRA-Information-Disclosure-HFAC-Summary.pdf); [BIS table as of May 11](https://democrats-foreignaffairs.house.gov/wp-content/uploads/2026/11/11.19.26-ECRA-Information-Disclosure-of-BIS-License-Decisions.pdf); [Washington Post, November 20](https://www.washingtonpost.com/technology/2026/11/20/officials-approved-sale-580000-nvidia-chips-chinese-companies/); [CBS shipment halt](https://www.cbsnews.com/news/nvidia-stops-shipping-hopper-chips-china/).
 
 **California subpoena.** Attorney General [[rob-bonta]] announced an investigative subpoena on NVIDIA (California DOJ, Nov. 19, 2026) over chips and confidential information to China, and investor statements tied to reporting on Huang's relationships. That is a state civil investigative demand, not a criminal indictment and not a federal export case.
 
@@ -110,13 +101,23 @@ The week after Huang resigned, NVIDIA sat in four separate China tracks that sho
 
 **Sources:** Axios (Nov. 11, 2026); Los Angeles Times (Nov. 12, 2026); Reuters (Nov. 19, 2026); TechCrunch (Nov. 18, 2026); House Foreign Affairs (Mast license release); California DOJ (Nov. 19, 2026); BIS (Nov. 19, 2026); U.S. News / Reuters (Nov. 19, 2026); The Information (Moonshot); [[Effort News]]; research/2026-11-20.md.
 
-## November 19, 2026: CEO search reporting, Musk at DealBook
+## November 18-23, 2026: Search reporting, Musk defense and reinstatement
 
-The Guardian (Nov. 19, 2026), citing Bloomberg, reported that Heidrick & Struggles had begun contacting candidates to succeed Jensen Huang, and that Arm chief executive Rene Haas had been approached. The same piece named other reported names: Ian Buck, Lisa Su, and Johny Srouji. Haas called Huang "a legend." NVIDIA board chair Harvey C. Jones, in that reporting, does not intend to reinstate Huang as CEO. This is a single-outlet Bloomberg/Guardian item. It is not a NVIDIA press release. This sheet does not create person pages for Haas, Buck, Su, or Srouji from that item.
+Bloomberg reported on November 18 that headhunters approached Arm CEO Rene Haas; the Guardian followed on November 19, citing Bloomberg. Other reported possibilities included Ian Buck, Lisa Su and Johny Srouji. This was search reporting, not a board selection. The Guardian recorded Jones's earlier statement that the board did not intend to reinstate Huang; that position was superseded by the November 23 decision.
 
-CNBC (Nov. 19, 2026) reported [[Elon Musk]] at the New York Times DealBook summit: removing Huang is like kicking Michael Jordan off the team. That quote is CNBC's. The same CNBC live-updates file said NVIDIA invested about $10 billion in [[Anthropic]]'s concurrent Class N private placement. This sheet does not invent the rest of a truncated DealBook transcript.
+Musk's Michael Jordan comparison defending Huang was delivered at DealBook on November 18, as covered by TechCrunch that day. CNBC's follow-up was dated November 19. Separately, CNBC's November 19 Anthropic coverage reported the roughly $10 billion Class N purchase, not an aggregate NVIDIA lab-investment total.
 
-**Sources:** The Guardian, citing Bloomberg (Nov. 19, 2026); CNBC (Nov. 19, 2026); research/2026-11-20.md.
+On November 23, the board unanimously reinstated Huang as president, CEO and a director, saying it was satisfied with his candor and ability to lead. The board said input from senior U.S. government officials supported its confidence that reinstatement posed no national security risk. That is its assessment, not a published conclusion of the independent investigation, which it said would proceed to conclusion. Harvey Jones remained chair; Kress continued as CFO. NVIDIA also announced a Chief Compliance Officer search, reporting to the Nominating and Corporate Governance Committee, and continued cooperation with government inquiries.
+
+**Sources:** [Bloomberg, November 18 (direct retrieval unavailable)](https://news.bloomberglaw.com/esg/nvidia-sizes-up-arm-ceo-haas-in-search-for-huang-successor); [Guardian, November 19](https://www.theguardian.com/technology/2026/nov/19/nvidia-new-ceo-search-jensen-huang-arm-rene-haas); [TechCrunch, November 18](https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/); [CNBC Class N, November 19](https://cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html?doc=108554452); [NVIDIA, November 23](https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director).
+
+## November 17-23, 2026: Oversight and unresolved inquiries
+
+NVIDIA's November 17 standing oversight committee is chaired by Suzanne Nora Johnson, with Stephen C. Neal and John O. Dabiri. The National Security Team and Global Trade Compliance Team report directly to the committee and to Kress for day-to-day operations; the committee does not report to Kress. CBS reported Kress's Q3 licensed Hopper China sales figure of $2.4 billion and her statement that such shipments had stopped. Q4 guidance assumed no China data-center compute revenue.
+
+California DOJ's November 19 subpoena asks whether chips or confidential information may have reached China and whether NVIDIA misled investors or the public. It does not find either allegation proven. The board's independent investigation and government inquiries were still ongoing at reinstatement. The Guardian also reported an SEC investigation into NVIDIA's China business, citing the Wall Street Journal. The separately reported [Reuters accounting-inquiry claim](https://www.reuters.com/3fec1b0a85a0/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/) is not upgraded to a finding; the Reuters body could not be independently retrieved for this implementation.
+
+**Sources:** [NVIDIA oversight](https://nvidianews.nvidia.com/news/nvidia-board-of-directors-establishes-national-security-and-export-control-oversight-committee); [NVIDIA earnings](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027); [CBS earnings call](https://www.cbsnews.com/news/nvidia-stops-shipping-hopper-chips-china/); [California DOJ](https://oag.ca.gov/news/press-releases/attorney-general-bonta-serves-investigative-subpoena-nvidia); [Guardian, SEC reporting via WSJ](https://www.theguardian.com/technology/2026/nov/19/nvidia-new-ceo-search-jensen-huang-arm-rene-haas); [NVIDIA reinstatement](https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director).
 
 ## See Also
 

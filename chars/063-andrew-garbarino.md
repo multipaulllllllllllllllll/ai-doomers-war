@@ -30,7 +30,7 @@ The Homeland Security press release (Chairmen Garbarino, Moolenaar release joint
 
 Fourteen recommendations follow. Their titles were not copied into the research log and are not invented here. Readers should open the House page rather than treat this sheet as a substitute for the PDF.
 
-The report is a removal demand, not an export-control memo. It sits next to Lutnick/Mast (chips) as the model-weights half of the same China-hawk week.
+The report is a removal demand, not an export-control memo. It sits next to Mast's NVIDIA H200/AMD MI325X license disclosure as the model-weights half of the House China-policy week. The separate Megaspeed dispute should not be reduced to a Lutnick hawk position: Axios describes a Rubio-drafted memo handed to Lutnick and sources alleging Lutnick resisted controls; Commerce denied the reported Bessent confrontation. [Axios, November 11](https://www.axios.com/2026/11/11/bessent-lutnick-megaspeed-nvidia-china-chips).
 
 ## What to Watch
 
