@@ -404,7 +404,7 @@ Critics note that Anthropic was founded on open-source principles (their origina
 
 Comprehensive individual wiki pages for every person and organization are maintained as separate files for graph-compatible YAML frontloaders:
 
-### People (67 character sheets)
+### People (82 character sheets)
 
 **Anthropic / AI Labs**
 - [[characters/001-dario-amodei|Dario Amodei]], CEO, Anthropic
@@ -488,7 +488,25 @@ Comprehensive individual wiki pages for every person and organization are mainta
 - [[characters/051-jon-smith|Jon Smith]], AI Safety Commentator
 - [[characters/052-ryan-gomez|Ryan G Gomez]], AI Safety Commentator
 
-### Companies & Organizations (32 company sheets)
+
+**November 23 sweep additions**
+- [[characters/068-jensen-huang|Jensen Huang]]
+- [[characters/069-alice-huang|Alice Huang]]
+- [[characters/070-harvey-c-jones|Harvey C. Jones]]
+- [[characters/071-tim-teter|Tim Teter]]
+- [[characters/072-jeffrey-kessler|Jeffrey Kessler]]
+- [[characters/073-jay-clayton|Jay Clayton]]
+- [[characters/074-tim-scott|Tim Scott]]
+- [[characters/075-elizabeth-warren|Elizabeth Warren]]
+- [[characters/076-tom-cotton|Tom Cotton]]
+- [[characters/077-jim-banks|Jim Banks]]
+- [[characters/078-rick-crawford|Rick Crawford]]
+- [[characters/079-jim-himes|Jim Himes]]
+- [[characters/080-jakub-pachocki|Jakub Pachocki]]
+- [[characters/081-levent-alpoge|Levent Alpöge]]
+- [[characters/082-tom-brown|Tom Brown]]
+
+### Companies & Organizations (39 company sheets)
 
 **AI Labs**
 - [[companies/001-anthropic|Anthropic]], AI lab, Claude, $2T IPO target
@@ -524,6 +542,16 @@ Comprehensive individual wiki pages for every person and organization are mainta
 - [[companies/030-us-commerce|U.S. Department of Commerce]], BIS, remote-access rule
 - [[companies/031-tsmc|TSMC]], 16 nm halt after BIS rule
 - [[companies/032-public-first-action|Public First Action]], 501(c)(4), Anthropic $40 million
+
+**November 23 sweep additions**
+- [[companies/033-megaspeed-international|Megaspeed International]]
+- [[companies/034-senate-banking-committee|Senate Banking Committee]]
+- [[companies/035-house-joint-nvidia-inquiry|House joint NVIDIA inquiry]]
+- [[companies/036-u-s-department-of-justice|U.S. Department of Justice]]
+- [[companies/037-u-s-securities-and-exchange-commission|U.S. Securities and Exchange Commission]]
+- [[companies/038-national-governors-association|National Governors Association]]
+- [[companies/039-spacex|SpaceX]]
+
 
 ---
 
@@ -888,7 +916,10 @@ On a single date, September 8, 2026, at least **four separate events** landed si
 | **Nov 19** | **ANT open print; NVIDIA CEO-search reporting.** CNBC: ANT opened at $111.50; NVIDIA about $10 billion in the Class N placement. Guardian, citing Bloomberg: Heidrick contacting CEO candidates; Arm's Rene Haas approached. Single-outlet on the search | CNBC; The Guardian |
 | **Nov 20** | **House PRC open-weight report.** Chairmen Garbarino and Moolenaar urge removal of PRC open-weight models from federal systems and high-risk critical infrastructure; committee findings: 47 federal civilian agencies, 23 of 34 high-risk sectors | homeland.house.gov; Select Committee on the CCP |
 
+| **Nov 23** | **NVIDIA reinstates Jensen Huang.** The board voted unanimously, thanked interim CEO Colette Kress and retained Harvey C. Jones as chair. The independent investigation continues; reinstatement is not an investigative finding. | [NVIDIA board statement](https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director) |
+
 **What the timeline shows:**
+- The November 23 reinstatement changes company leadership without concluding the independent investigation or the scheduled congressional inquiries.
 - The week of Sept 8-14 contained multiple coordinated releases, documented by the sub-hour timing of the Coxon letter, Hubinger response, FP article, and 3-lab agreement on Sept 8 alone
 - The "throttle" (labs asking to slow down) was announced the same day as the "trigger" (Coxon's letter provided the justification), per @gargantunate's analysis
 - The Netflix documentary released 7 days after the inciting event, per documentary release dates confirmed via Focus Features and Rotten Tomatoes
@@ -1194,4 +1225,16 @@ People sheet `characters/067-jack-clark.md`. Co-founder and Head of Public Benef
 
 ---
 
-*Last updated: 2026-11-21 (Jack Clark people sheet; Institute date correction; backup log `research/2026-11-21.md`; 67 character sheets, 32 company sheets). This wiki is a living document. All claims are sourced to real-time X posts, news threads, and named accounts. Sections marked "@account" or "X post" are direct quotes or paraphrases of named sources. Sections titled "Documented Claims" or "Key Structural Claims" present analytical claims made by named accounts, not verified facts.*
+## TWELFTH SWEEP (November 23, 2026): public site sweep integration
+
+The reviewed chronology now contains 158 events across June-November, including 29 net additions. Duplicate accounts were merged with existing events rather than counted again. The November press collection contains 65 pieces: 53 reporting or analysis, three editorial-board pieces and nine signed opinion pieces. Primary documents and scheduled appearances are listed separately.
+
+The sweep adds 15 people sheets and seven organization sheets, bringing the inventory to 82 people and 39 organizations. Li Ming and Rene Haas remain deferred. Unconfirmed affiliation and original-publication dates stay qualified in the review logs. Unsupported quotations, portfolio totals and Treasury-yield assertions were removed from current sheets. Lutnick's memo account was corrected as attributed Axios reporting, including Commerce's denial; approved chip licenses are not shipments.
+
+[NVIDIA's November 23 statement](https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director) restores Huang as president, CEO and director while continuing the independent investigation. [The House committees' November 17 announcement](https://foreignaffairs.house.gov/news/press-releases/jensen-huang-and-nvidia-agree-to-appear-before-congress) schedules Huang for December 1 and general counsel Tim Teter for December 2. These are scheduled interviews, not completed testimony.
+
+Review records: `research/2026-11-23-sheet-review.md`, `research/2026-11-23-chronology-review.md`, `research/2026-11-23-press-review.md` and `research/2026-11-23-new-sheets.md`. Earlier historical research logs are unchanged.
+
+---
+
+*Last updated: 2026-11-23 (public sweep integration; 82 character sheets, 39 company sheets). This wiki is a living document. All claims are sourced to real-time X posts, news threads, and named accounts. Sections marked "@account" or "X post" are direct quotes or paraphrases of named sources. Sections titled "Documented Claims" or "Key Structural Claims" present analytical claims made by named accounts, not verified facts.*
